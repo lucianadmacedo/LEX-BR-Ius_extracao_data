@@ -1,0 +1,205 @@
+>>> doc = nlp('Ocorre a prescrição intercorrente no processo do trabalho no prazo de dois anos.')
+>>> print(doc)
+[
+  [
+    {
+      "id": 1,
+      "text": "Ocorre",
+      "lemma": "ocorrer",
+      "upos": "VERB",
+      "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+      "head": 0,
+      "deprel": "root",
+      "start_char": 0,
+      "end_char": 6
+    },
+    {
+      "id": 2,
+      "text": "a",
+      "lemma": "o",
+      "upos": "DET",
+      "feats": "Definite=Def|Gender=Fem|Number=Sing|PronType=Art",
+      "head": 3,
+      "deprel": "det",
+      "start_char": 7,
+      "end_char": 8
+    },
+    {
+      "id": 3,
+      "text": "prescrição",
+      "lemma": "prescrição",
+      "upos": "NOUN",
+      "feats": "Gender=Fem|Number=Sing",
+      "head": 1,
+      "deprel": "nsubj",
+      "start_char": 9,
+      "end_char": 19
+    },
+    {
+      "id": 4,
+      "text": "intercorrente",
+      "lemma": "intercorrente",
+      "upos": "ADJ",
+      "feats": "Gender=Fem|Number=Sing",
+      "head": 3,
+      "deprel": "amod",
+      "start_char": 20,
+      "end_char": 33
+    },
+    {
+      "id": [
+        5,
+        6
+      ],
+      "text": "no",
+      "start_char": 34,
+      "end_char": 36
+    },
+    {
+      "id": 5,
+      "text": "em",
+      "lemma": "em",
+      "upos": "ADP",
+      "head": 7,
+      "deprel": "case"
+    },
+    {
+      "id": 6,
+      "text": "o",
+      "lemma": "o",
+      "upos": "DET",
+      "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art",
+      "head": 7,
+      "deprel": "det"
+    },
+    {
+      "id": 7,
+      "text": "processo",
+      "lemma": "processo",
+      "upos": "NOUN",
+      "feats": "Gender=Masc|Number=Sing",
+      "head": 3,
+      "deprel": "nmod",
+      "start_char": 37,
+      "end_char": 45
+    },
+    {
+      "id": [
+        8,
+        9
+      ],
+      "text": "do",
+      "start_char": 46,
+      "end_char": 48
+    },
+    {
+      "id": 8,
+      "text": "de",
+      "lemma": "de",
+      "upos": "ADP",
+      "head": 10,
+      "deprel": "case"
+    },
+    {
+      "id": 9,
+      "text": "o",
+      "lemma": "o",
+      "upos": "DET",
+      "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art",
+      "head": 10,
+      "deprel": "det"
+    },
+    {
+      "id": 10,
+      "text": "trabalho",
+      "lemma": "trabalho",
+      "upos": "NOUN",
+      "feats": "Gender=Masc|Number=Sing",
+      "head": 7,
+      "deprel": "nmod",
+      "start_char": 49,
+      "end_char": 57
+    },
+    {
+      "id": [
+        11,
+        12
+      ],
+      "text": "no",
+      "start_char": 58,
+      "end_char": 60
+    },
+    {
+      "id": 11,
+      "text": "em",
+      "lemma": "em",
+      "upos": "ADP",
+      "head": 13,
+      "deprel": "case"
+    },
+    {
+      "id": 12,
+      "text": "o",
+      "lemma": "o",
+      "upos": "DET",
+      "feats": "Definite=Def|Gender=Masc|Number=Sing|PronType=Art",
+      "head": 13,
+      "deprel": "det"
+    },
+    {
+      "id": 13,
+      "text": "prazo",
+      "lemma": "prazo",
+      "upos": "NOUN",
+      "feats": "Gender=Masc|Number=Sing",
+      "head": 1,
+      "deprel": "obl",
+      "start_char": 61,
+      "end_char": 66
+    },
+    {
+      "id": 14,
+      "text": "de",
+      "lemma": "de",
+      "upos": "ADP",
+      "head": 16,
+      "deprel": "case",
+      "start_char": 67,
+      "end_char": 69
+    },
+    {
+      "id": 15,
+      "text": "dois",
+      "lemma": "dois",
+      "upos": "NUM",
+      "feats": "NumType=Card",
+      "head": 16,
+      "deprel": "nummod",
+      "start_char": 70,
+      "end_char": 74
+    },
+    {
+      "id": 16,
+      "text": "anos",
+      "lemma": "ano",
+      "upos": "NOUN",
+      "feats": "Gender=Masc|Number=Plur",
+      "head": 13,
+      "deprel": "nmod",
+      "start_char": 75,
+      "end_char": 79,
+      "misc": "SpaceAfter=No"
+    },
+    {
+      "id": 17,
+      "text": ".",
+      "lemma": ".",
+      "upos": "PUNCT",
+      "head": 1,
+      "deprel": "punct",
+      "start_char": 79,
+      "end_char": 80,
+      "misc": "SpaceAfter=No"
+    }
+  ]
+]
