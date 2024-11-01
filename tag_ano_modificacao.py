@@ -3,7 +3,7 @@ from lxml import etree
 
 def extract_year(modificacao_text):
     # Use regular expression to extract the year between parentheses
-    match = re.search(r'\((Red.+|Incluí.+)\)', modificacao_text)
+    match = re.search(r'\((Red.+|Inciso.+|Parágrafo incluído.+|Alínea incluída.+|Restabelecido com nova redação.+|inclui.+|alterado.+|Incluí.+)', modificacao_text)
     if match is None:
         return None
 #    print(match)
@@ -39,7 +39,7 @@ def process_xml(xml_file_path):
 
 
             all_text = ''.join(etree.tostring(child, encoding='unicode', method='text') for child in parent.iter())
-            all_text = all_text.split(modificacao_elem.text)[0].strip().split('\n')[-1]
+            all_text = all_text.split(modificacao_elem.text)[0].strip().split(r'\n')[-1]
 
             modificacao_elem.text = all_text + modificacao_elem.text
             all_texts.append(all_text)
