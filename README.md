@@ -1,69 +1,17 @@
-# LEX-BR-Ius_extracao_data
+Roteiro para processamento dos textos:
 
-modificacao_1943
-modificacao_1944
-modificacao_1945
-modificacao_1946
-modificacao_1949
-modificacao_1951
-modificacao_1952
-modificacao_1953
-modificacao_1954
-modificacao_1955
-modificacao_1956
-modificacao_1957
-modificacao_1958
-modificacao_1961
-modificacao_1962
-modificacao_1964
-modificacao_1965
-modificacao_1966
-modificacao_1967
-modificacao_1968
-modificacao_1969
-modificacao_1970
-modificacao_1971
-modificacao_1972
-modificacao_1973
-modificacao_1974
-modificacao_1975
-modificacao_1976
-modificacao_1977
-modificacao_1978
-modificacao_1979
-modificacao_1982
-modificacao_1983
-modificacao_1984
-modificacao_1985
-modificacao_1986
-modificacao_1988
-modificacao_1989
-modificacao_1991
-modificacao_1992
-modificacao_1993
-modificacao_1994
-modificacao_1995
-modificacao_1996
-modificacao_1997
-modificacao_1998
-modificacao_1999
-modificacao_2000
-modificacao_2001
-modificacao_2002
-modificacao_2005
-modificacao_2006
-modificacao_2007
-modificacao_2008
-modificacao_2009
-modificacao_2010
-modificacao_2011
-modificacao_2012
-modificacao_2013
-modificacao_2014
-modificacao_2015
-modificacao_2016
-modificacao_2017
-modificacao_2018
-modificacao_2019
-modificacao_2021
-modificacao_2022
+1 - extrair todos os textos que não foram modificados -> 1943_original;
+2 - deletar tags descessárias; Quais?
+3 - renomear tags modificacao com o ano de modificação;
+4 - wrap texto modificado com as tags renomeadas, i.e. modificacao_$YEAR
+5 - criar os subcorpora
+6 - checagem manual (bolsistas)
+7 - anotação com UDPipe
+8 - checagem manual (bolsistas)
+9 - treinar modelo de anotação?
+10 - a anotação é capaz de responder as seguintes perguntas de pesquisa?
+    - houve aumento do uso do futuro em relação ao presente;
+    - ativas/passivas se mantiveram mais ou menos estáveis, mas a formação das passivas mudou: aumentou o uso do auxiliar ser (e um pouco tb estar e ficar) e diminuiu muito o uso do "se" apassivador;
+    - mudança na posição do sujeito? sujeito interposto (entre auxiliar e particípio como em: "podendo o consumidor exigir das partes viciadas“, e em passivas, como em "serão as pessoas jurídicas compelidas a cumpri-las")?
+    - sujeito oculto (adaptar script já existente?)
+    - subordinadas foram bem anotadas?
