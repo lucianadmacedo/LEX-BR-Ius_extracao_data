@@ -9,9 +9,9 @@
 - 7 - anotação com UDPipe
 - 8 - checagem manual (bolsistas)
 - 9 - treinar modelo de anotação?
-- 10 - a anotação é capaz de responder as seguintes perguntas de pesquisa?
-    - houve aumento do uso do futuro em relação ao presente;
-    - ativas/passivas se mantiveram mais ou menos estáveis, mas a formação das passivas mudou: aumentou o uso do auxiliar ser (e um pouco tb estar e ficar) e diminuiu muito o uso do "se" apassivador;
+- 10 - a anotação é capaz de responder as seguintes perguntas de pesquisa:
+    - houve aumento do uso do futuro em relação ao presente?
+    - aumento ou não da frequência de ativas/passivas? Formação das passivas mudou: por exemplo, aumento do uso do auxiliar ser (assim como, estar e ficar); frequência do uso do "se" apassivador;
     - mudança na posição do sujeito? sujeito interposto (entre auxiliar e particípio como em: "podendo o consumidor exigir das partes viciadas“, e em passivas, como em "serão as pessoas jurídicas compelidas a cumpri-las")?
-    - sujeito oculto (adaptar script já existente?)
-    - subordinadas foram bem anotadas?
+    - frequência de sujeito oculto (adaptar script já existente)
+    - subordinadas foram bem anotadas? [pergunta pode ser expandida para linguística computacional]
