@@ -5,7 +5,7 @@
 - 3 - renomear tags modificacao com o ano de modificação;
 - 4 - wrap texto modificado com as tags renomeadas, i.e. modificacao_$YEAR
 - 5 - criar os subcorpora
-- 6 - checagem manual (bolsistas)
+- 6 - checagem manual (bolsistas) -> Ana Clara
 - 7 - anotação com UDPipe
 - 8 - checagem manual (bolsistas)
 - 9 - treinar modelo de anotação?
