@@ -1,12 +1,13 @@
 <pre> Roteiro para processamento dos textos:</pre>
 
-- 1 - extrair todos os textos que não foram modificados -> 1943_original;
-- 2 - deletar tags descessárias; Quais?
-- 3 - renomear tags modificacao com o ano de modificação;
-- 4 - wrap texto modificado com as tags renomeadas, i.e. modificacao_$YEAR
-- 5 - criar os subcorpora
-- 6 - checagem manual (bolsistas) -> Ana Clara
+- 1 - ^renomear tags modificacao com o ano de modificação;^ (Feito!)
+- 2 - ^wrap texto modificado com as tags renomeadas, i.e. modificacao_$YEAR ^ (Feito!)
+- 3 - extrair todos os textos que não foram modificados -> 1943_original;
+- 4 - criar os subcorpora por ano
+- 5 - checagem manual (bolsistas) -> Ana Clara
+- 6 - limpeza (deletar tags descessárias; deletar metadados dentro de parênteses; caracteres especiais)
 - 7 - anotação com UDPipe
+      - seguir dois caminhos a partir daqui: checagem da anotação e análise linguística
 - 8 - checagem manual (bolsistas)
 - 9 - treinar modelo de anotação?
 - 10 - a anotação é capaz de responder as seguintes perguntas de pesquisa:
