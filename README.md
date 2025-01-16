@@ -4,7 +4,7 @@
 - 2 - ~~wrap texto modificado com as tags renomeadas, i.e. modificacao_$YEAR~~ (Feito!)
 - 3 - ~~extrair todos os textos que não foram modificados -> 1943_original; ~~ (Feito!)
 - 4 - ~~criar os subcorpora por ano~~ (Feito!)
-- 5 - checagem manual (bolsistas) -> Ana Clara
+- 5 - checagem manual: arquivos- modificacao_$YEAR.txt e original_1943.txt <=> arquivo_original.xml (bolsistas) -> Ana Clara
 - 6 - limpeza (deletar tags descessárias; deletar metadados dentro de parênteses; caracteres especiais)
 - 7 - anotação com UDPipe
       - seguir dois caminhos a partir daqui: checagem da anotação e análise linguística
