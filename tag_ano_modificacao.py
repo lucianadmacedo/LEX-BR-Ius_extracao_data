@@ -74,7 +74,7 @@ def write_text(f2, pretext, year):
     f2.write(pretext + '\n<modificacao_' + year[0] + '>' + prepretext + year[1] +  '</modificacao_' + year[0] + '>\n')
 
 # Replace 'your_file.xml' with the actual path to your XML file
-xml_file_path = 'your_file.xml'
+xml_file_path = 'arquivo_original.xml'
 #process_xml(xml_file_path)
 
 get_text(xml_file_path)
