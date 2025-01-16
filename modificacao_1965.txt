@@ -1,10 +1,30 @@
-Art. 180. Para evitar a fadiga, será obrigatória a colocação de assentos nos locais de trabalho, ajustáveis à altura da pessoa e à natureza da função exercida, destinados a serem utilizados pelos empregados. (Redação dada pela Lei nº 4.654, de 1965)
-Parágrafo único. O Ministério do Trabalho e Previdência Social promoverá a expedição das normas necessárias à adaptação e aplicação do disposto neste artigo às diferentes categorias de empregados. (Incluído pela Lei nº 4.654, de 1965)
-(Redação dada pela Lei nº 4.654, de 1965)
-(Redação dada pela Lei nº 4.654, de 1965)
-(Redação dada pela Lei nº 4.654, de 1965)
-(Redação dada pela Lei nº 4.654, de 1965)
-.... e, nos Estados e Territórios, pelas autoridades regionais do Ministério do Trabalho e Previdência Social. (Redação dada pela Lei nº 4.654, de 1965)
-§ 3º O processo, na reverificação das infrações, bem como na aplicação e cobrança das multas será o previsto no Título "Do Processo de Multas Administrativas", observadas as disposições dêste artigo. (Incluído pela Lei nº 4.654, de 1965)
-§ 1º - Recuperando o empregado a capacidade de trabalho e sendo a aposentadoria cancelada, ser-lhe-á assegurado o direito à função que ocupava ao tempo da aposentadoria, facultado, porém, ao empregador, o direito de indenizá-lo por rescisão do contrato de trabalho, nos termos dos arts. 477 e 478, salvo na hipótese de ser ele portador de estabilidade, quando a indenização deverá ser paga na forma do art. 497. (Redação dada pela Lei nº 4.824, de 5.11.1965)
-§ 3º - Nas hipóteses das letras "d" e "g", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo. (Incluído pela Lei nº 4.825, de 5.11.1965)
+Art. 180. Para evitar a fadiga, será obrigatória a colocação de assentos nos locais de trabalho, ajustáveis à altura da pessoa e à natureza da função exercida, destinados a serem utilizados pelos empregados.
+ (Redação dada pela Lei nº 4.654, de 1965)
+Parágrafo único. O Ministério do Trabalho e Previdência Social promoverá a expedição das normas necessárias à adaptação e aplicação do disposto neste artigo às diferentes categorias de empregados.
+ (Incluído pela Lei nº 4.654, de 1965)
+.... e, nos Estados e Territórios, pelas autoridades regionais do Ministério do Trabalho e Previdência Social.
+ (Redação dada pela Lei nº 4.654, de 1965)
+§ 1º A penalidade será sempre aplicada no grau máximo:
+ (Redação dada pela Lei nº 4.654, de 1965)
+a) se ficar apurado o emprêgo de artifício ou simulação para fraudar a aplicação dos dispositivos dêste Capítulo;
+ (Redação dada pela Lei nº 4.654, de 1965)
+b) nos casos de reincidência.
+ (Redação dada pela Lei nº 4.654, de 1965)
+§ 2º Nos casos de infração ao disposto no art. 180, a multa será de Cr$2.000 (dois mil cruzeiros).
+ (Redação dada pela Lei nº 4.654, de 1965)
+§ 3º O processo, na reverificação das infrações, bem como na aplicação e cobrança das multas será o previsto no Título "Do Processo de Multas Administrativas", observadas as disposições dêste artigo.
+ (Incluído pela Lei nº 4.654, de 1965)
+§ 1º - Recuperando o empregado a capacidade de trabalho e sendo a aposentadoria cancelada, ser-lhe-á assegurado o direito à função que ocupava ao tempo da aposentadoria, facultado, porém, ao empregador, o direito de indenizá-lo por rescisão do contrato de trabalho, nos termos dos arts. 477 e 478, salvo na hipótese de ser ele portador de estabilidade, quando a indenização deverá ser paga na forma do art. 497.
+ (Redação dada pela Lei nº 4.824, de 5.11.1965)
+Art. 483 - O empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:
+a) forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;
+b) for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;
+c) correr perigo manifesto de mal considerável;
+d) não cumprir o empregador as obrigações do contrato;
+e) praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;
+f) o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;
+g) o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.
+§ 1º - O empregado poderá suspender a prestação dos serviços ou rescindir o contrato, quando tiver de desempenhar obrigações legais, incompatíveis com a continuação do serviço.
+§ 2º - No caso de morte do empregador constituído em empresa individual, é facultado ao empregado rescindir o contrato de trabalho.
+§ 3º - Nas hipóteses das letras "d" e "g", poderá o empregado pleitear a rescisão de seu contrato de trabalho e o pagamento das respectivas indenizações, permanecendo ou não no serviço até final decisão do processo.
+ (Incluído pela Lei nº 4.825, de 5.11.1965)

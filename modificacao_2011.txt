@@ -2,3 +2,25 @@ Art. 6o Não se distingue entre o trabalho realizado no estabelecimento do empre
  (Redação dada pela Lei nº 12.551, de 2011)
 Parágrafo único. Os meios telemáticos e informatizados de comando, controle e supervisão se equiparam, para fins de subordinação jurídica, aos meios pessoais e diretos de comando, controle e supervisão do trabalho alheio.
  (Incluído pela Lei nº 12.551, de 2011)
+(Incluído pela Lei nº 12.440, de 2011)
+Art. 642-A. É instituída a Certidão Negativa de Débitos Trabalhistas (CNDT), expedida gratuita e eletronicamente, para comprovar a inexistência de débitos inadimplidos perante a Justiça do Trabalho.
+ (Incluído pela Lei nº 12.440, de 2011)
+§ 1o O interessado não obterá a certidão quando em seu nome constar:
+ (Incluído pela Lei nº 12.440, de 2011)
+I – o inadimplemento de obrigações estabelecidas em sentença condenatória transitada em julgado proferida pela Justiça do Trabalho ou em acordos judiciais trabalhistas, inclusive no concernente aos recolhimentos previdenciários, a honorários, a custas, a emolumentos ou a recolhimentos determinados em lei; ou
+ (Incluído pela Lei nº 12.440, de 2011)
+II – o inadimplemento de obrigações decorrentes de execução de acordos firmados perante o Ministério Público do Trabalho ou Comissão de Conciliação Prévia.
+ (Incluído pela Lei nº 12.440, de 2011)
+§ 2o Verificada a existência de débitos garantidos por penhora suficiente ou com exigibilidade suspensa, será expedida Certidão Positiva de Débitos Trabalhistas em nome do interessado com os mesmos efeitos da CNDT.
+ (Incluído pela Lei nº 12.440, de 2011)
+§ 3o A CNDT certificará a empresa em relação a todos os seus estabelecimentos, agências e filiais.
+ (Incluído pela Lei nº 12.440, de 2011)
+§ 4o O prazo de validade da CNDT é de 180 (cento e oitenta) dias, contado da data de sua emissão.
+ (Incluído pela Lei nº 12.440, de 2011)
+Art. 791 - Os empregados e os empregadores poderão reclamar pessoalmente perante a Justiça do Trabalho e acompanhar as suas reclamações até o final.
+§ 1º - Nos dissídios individuais os empregados e empregadores poderão fazer-se representar por intermédio do sindicato, advogado, solicitador, ou provisionado, inscrito na Ordem dos Advogados do Brasil.
+§ 2º - Nos dissídios coletivos é facultada aos interessados a assistência por advogado.
+§ 3o A constituição de procurador com poderes para o foro em geral poderá ser efetivada, mediante simples registro em ata de audiência, a requerimento verbal do advogado interessado, com anuência da parte representada.
+ (Incluído pela Lei nº 12.437, de 2011)
+§ 6o Tratando-se de cálculos de liquidação complexos, o juiz poderá nomear perito para a elaboração e fixará, depois da conclusão do trabalho, o valor dos respectivos honorários com observância, entre outros, dos critérios de razoabilidade e proporcionalidade.
+ (Incluído pela Lei nº 12.405, de 2011)

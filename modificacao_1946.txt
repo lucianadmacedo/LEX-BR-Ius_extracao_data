@@ -1,409 +1,851 @@
-(Redação dada pelo Decreto-lei nº 9.666, de 1946)
-(Redação dada pelo Decreto-lei nº 9.666, de 1946)
-(Redação dada pelo Decreto-lei nº 9.666, de 1946)
-(Redação dada pelo Decreto-lei nº 9.666, de 1946)
-Art. 73. Salvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna. (Redação dada pelo Decreto-lei nº 9.666, de 1946)
-§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo. (Incluído pelo Decreto-lei nº 9.666, de 1946)
-Art. 131 As férias serão sempre gozadas ao decurso dos doze meses seguintes à data em que às mesmas tiver o empregado feito jus. (Redação dada pelo Decreto-Lei nº 9.852, de 1946)
-Parágrafo único. O Ministro do Trabalho, Indústria e Comércio, mediante requerimento de entidade sindical representativa, poderá permitir a acumulação de, no máximo, três períodos de férias, tendo em vista peculiaridades regionais ou profissionais justificativas dessa medida. (Incluído pelo Decreto-Lei nº 9.852, de 1946)
-Art. 511 - É livre a organização sindical, em todo o território nacional, para fins de estudo, defesa e coordenação de interesses econômicos ou profissionais. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 511. É lícita a associação para fins de estudo, defesa e coordenação dos seus interesses econômicos ou profissionais de todos os que, como empregadores, empregados, agentes ou trabalhadores autônomos ou profissionais liberais exerçam, respectivamente, a mesma atividade ou profissão ou atividades ou profissões similares ou conexas. (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 511. É lícita a associação para fins de estudo, defesa e coordenação dos seus interesses econômicos ou profissionais de todos os que, como empregadores, empregados, agentes ou trabalhadores autônomos ou profissionais liberais exerçam, respectivamente, a mesma atividade ou profissão ou atividades ou profissões similares ou conexas. (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 513 - São prerrogativas dos Sindicatos: (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 513. São prerrogativas dos sindicatos : (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 513. São prerrogativas dos sindicatos : (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 73. Salvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior a do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna.
+ (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+§ 1º A hora do trabalho noturno será computada como de 52 minutos e 30 segundos.
+ (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+§ 2º Considera-se noturno, para os efeitos deste artigo, o trabalho executado entre as 22 horas de um dia e as 5 horas do dia seguinte.
+ (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+§ 3º O acréscimo, a que se refere o presente artigo, em se tratando de empresas que não mantêm, pela natureza de suas atividades, trabalho noturno habitual, será feito, tendo em vista os quantitativos pagos por trabalhos diurnos de natureza semelhante. Em relação às empresas cujo trabalho noturno decorra da natureza de suas atividades, o aumento será calculado sobre o salário mínimo geral vigente na região, não sendo devido quando exceder desse limite, já acrescido da percentagem.
+ (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+§ 4º Nos horários mistos, assim entendidos os que abrangem períodos diurnos e noturnos, aplica-se às horas de trabalho noturno o disposto neste artigo e seus parágrafos.
+ (Redação dada pelo Decreto-lei nº 9.666, de 1946)
+§ 5º Às prorrogações do trabalho noturno aplica-se o disposto neste capítulo.
+ (Incluído pelo Decreto-lei nº 9.666, de 1946)
+Art. 131 As férias serão sempre gozadas ao decurso dos doze meses seguintes à data em que às mesmas tiver o empregado feito jus.
+ (Redação dada pelo Decreto-Lei nº 9.852, de 1946)
+Parágrafo único. O Ministro do Trabalho, Indústria e Comércio, mediante requerimento de entidade sindical representativa, poderá permitir a acumulação de, no máximo, três períodos de férias, tendo em vista peculiaridades regionais ou profissionais justificativas dessa medida.
+ (Incluído pelo Decreto-Lei nº 9.852, de 1946)
+Art. 511 - É livre a organização sindical, em todo o território nacional, para fins de estudo, defesa e coordenação de interesses econômicos ou profissionais.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 511. É lícita a associação para fins de estudo, defesa e coordenação dos seus interesses econômicos ou profissionais de todos os que, como empregadores, empregados, agentes ou trabalhadores autônomos ou profissionais liberais exerçam, respectivamente, a mesma atividade ou profissão ou atividades ou profissões similares ou conexas.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º A solidariedade de interesses econômicos dos que empreendem atividades idênticas, similares ou conexas, constitue o vínculo social básico que se denomina categoria econômica.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º A similitude de condições de vida oriunda da profissão ou trabalho em comum, em situação de emprego na mesma atividade econômica ou em atividades econômicas similares ou conexas, compõe a expressão social elementar compreendida como categoria profissional.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+§ 3º Categoria profissional diferenciada é a que se forma dos empregados que exerçam profissões ou funções diferenciadas por força de estatuto profissional especial ou em consequência de condições de vida singulares.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+§ 4º Os limites de identidade, similaridade ou conexidade fixam as dimensões dentro das quais a categoria econômica ou profissional é homogênea e a associação é natural .
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 513 - São prerrogativas dos Sindicatos:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) representar, perante as autoridades administrativas e judiciárias, os interesses dos seus associados relativos às atividades ou profissões exercidas;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+b) celebrar contratos coletivos de trabalho;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+c) colaborar com o Estado, como órgão técnico e consultivo, no estudo e solução dos problemas que se relacionem com os interêsses econômicos ou profissionais de seus associados;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+d) fundar e manter agências de colocação.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 513. São prerrogativas dos sindicatos :
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+a) representar, perante as autoridades administrativas e judiciárias os interesses gerais da respectiva categoria ou profissão liberal ou interesses individuais dos associados relativos á atividade ou profissão exercida;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+b) celebrar contratos coletivos de trabalho;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+c) eleger ou designar os representantes da respectiva categoria ou profissão liberal;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+d) colaborar com o Estado, como orgãos técnicos e consultivos, na estudo e solução dos problemas que se relacionam com a respectiva categoria ou profissão liberal;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+e) impor contribuições a todos aqueles que participam das categorias econômicas ou profissionais ou das profissões liberais representadas.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo Único. Os sindicatos de empregados terão, outrossim, a prerrogativa de fundar e manter agências de colocação.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 514. São deveres dos sindicatos filiados à Comissão Nacional de Sindicalização:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) manter serviços de assistência judiciária para os associados;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+b) promover a conciliação nos dissídios de trabalho;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+c) fundar e manter escolas de alfabetização e pre-vocacionais;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+d) cumprir as decisões e resoluções da Comissão Nacional de Sindicalização.
+ (Incluída pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único - A todo contribuinte do imposto sindical assiste o direito de gozar dos benefícios a que se refere o art. 592, na conformidade das instruções que forem baixadas pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 514. São deveres dos sindicatos :
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+a) colaborar com os poderes públicos no desenvolvimento da solidariedade social;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+b) manter serviços de assistência judiciária para os associados;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+c) promover a conciliação nos dissídios de trabalho.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único. Os sindicatos de empregados terão, outrossim, o dever de :
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+a) promover a fundação de cooperativas de consumo e de crédito;
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
+b) fundar e manter escolas do alfabetização e prevocacionais.
+ (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
 (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 514. São deveres dos sindicatos filiados à Comissão Nacional de Sindicalização: (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-d) cumprir as decisões e resoluções da Comissão Nacional de Sindicalização. (Incluída pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-b) promover a conciliação nos dissídios de trabalho; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 514. São deveres dos sindicatos : (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 514. São deveres dos sindicatos : (Redação restabelecida pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 515 - Para se filiarem à Comissão Nacional de Sindicalização, os sindicatos deverão satisfazer os seguintes requisitos: (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 517 - Os Sindicatos poderão ser distritais, municipais, intermunicipais, estaduais e interestaduais. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, Com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, Com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-a) a denominação e a sede da sindicato; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, Com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 518 - O pedido de filiação será dirigido ao Presidente da Comissão Nacional de Sindicalização, instruído com exemplar ou cópia autenticada dos estatutos do sindicato e será submetido à deliberação do plenário. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 520 - Aceito o pedido de filiação do sindicato, ser-lhe-á expedida carta de filiação, assinada pelo Presidente da Comissão Nacional de Sindicalização e pelo Presidente da respectiva Seção, devendo ser especificada na carta a representação econômica ou profissional conferida, e mencionada a base territorial. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-a) proibição de qualquer propaganda de doutrinas incompatíveis com as instituições e os interêsses da Nação, bem como de candidaturas a cargos eletivos estranhos ao sindicato. (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-d) proibição de quaisquer atividades não compreendidas nas finalidades mencionadas no art. 511, inclusive as de caráter político-partidário; (Incluída pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 522 - A administração do Sindicato será exercida por uma diretoria constituída, no máximo, de 7 (sete) e, no mínimo, de 3 (três) membros e de um Conselho Fiscal composto de 3 (três) membros, eleitos esses órgãos pela Assembléia Geral, com designação direta dos respectivos cargos. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 3º - Constituirão atribuição exclusiva da Diretoria do Sindicato e dos Delegados Sindicais, a que se refere o art. 523, a representação e a defesa dos interesses da entidade perante os poderes públicos e as empresas, salvo mandatário com poderes outorgados por procuração da Diretoria, ou associado investido em representação prevista em lei. (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
-Art. 524 Serão sempre tomadas por escrutínio secreto as deliberações da assembléia geral concernentes aos seguintes assuntos: (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-a) eleição de associado para representação da respectiva categoria prevista em lei; (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
-(Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
-§ 4º Na hipótese de ter participado da votação mais de cinqüenta por cento dos associados com capacidade para votar o presidente da mesa apuradora proclamará os eleitos, sem prejuizo do julgamento dos protestos ou recursos oferecidos na conformidade da lei. Não obtido êsse coeficiente será realizada nova eleição, dentro de quinze dias, a qual terá validade se dela tiver participado mais de quarenta por cento dos referidos associados. Na hipótese de não ter sido alcançado na segunda votação, o coeficiente cxigido será realizado o terceiro e último pleito, cuja validade dependerá do voto de mais de trinta por cento dos aludidos associados. (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
-§ 1º - A eleição para cargos de diretoria e conselho fiscal será realizada por escrutínio secreto, durante 6 (seis) horas contínuas, pelo menos, na sede do Sindicato, na de suas delegacias e seções e nos principais locais de trabalho, onde funcionarão as mesas coletoras designadas pelos Delegados Regionais do Trabalho. (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
-Art. 525 - É vedada a pessoas físicas ou jurídicas, estranhas ao Sindicato, qualquer interferência na sua administração ou nos seus serviços. (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-a) os Delegados especialmente designados pelo Presidente das Seções da categoria que o sindicato represente; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 526. Os empregados do sindicato serão nomeados pela Diretoria ad-referendum da Assembléia Geral, não podendo recair tal nomeação nos que estiverem nas condições previstas nas alíneas a, b e d, do art. 530. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 527 - Na sede de cada Sindicato haverá um livro de registro, autenticado pelo funcionário competente da Comissão Nacional de Sindicalização, e do qual deverão constar: (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-a) os que não tiverem aprovadas as suas contas de exercício em cargo de administração; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Parágrafo único. Sòmente será permitida a reeleição, para o período imediato, de 1/3 (um têrço) dos membros da Diretoria, do Conselho Fiscal e do Conselho de Representantes de associação sindical de qualquer grau, vedada a reeleição dos demais, considerando-se sempre inelegíveis, para êsse período, aquêles que exerçam seus mandatas em virtude de reeleição. (Redação dada pelo Decreto-lei nº 9.675, de 1946)
-Parágrafo único: É vedada a releição para o período imediato e no transcurso do tempo correspondente ao respectivo mandato de qualquer membro da diretoria e do conselho fiscal dos sindicatos de empregados,de trabalhadores autônomos, de agentes autônomos, e de profissionais liberais. Igual proibição se observará em relação ao têrço dos membros da diretoria e do conselho fiscal, nos sindicatos dos empregadores. (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-Parágrafo único. Somente será permitida a reeleição, para o período imediato, de 1/3 (um terço) dos membros da Diretoria, do Conselho Fiscal e do Conselho de Representantes de associação sindical de qualquer grau, vedada a reeleição dos demais, considerando-se sempre inelegíveis, para esse período, aqueles que exerçam seus mandatos em virtude de reeleição. (Redação dada pelo Decreto-lei nº 9.675, de 29.8.1946)
-§ 3º Concorrendo mais de uma chapa, poderá o Presidente da Seção da categoria que o sindicato representante designar o Presidente da Seção Eleitoral, desde que o requeiram os associados que encabeçarem as respectivas chapas. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 4º - A Comissão Nacional de Sindicalização expedirá instruções regulando o processo das eleições. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 3º - Havendo protesto na ata da Assembléia Eleitoral ou recurso interposto dentro de 15 (quinze) dias da realização das eleições, competirá à Diretoria em exercício, encaminhar, devidamente instruído, o processo eleitoral à Seção respectiva da Comissão Nacional de Sindicalização, que o ulgará no prazo máximo de sessenta dias. Nesta hipótese, permanecerão na administração, até despacho final do processo, a Diretoria e o Conselho Fiscal que se encontrarem em exercício. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 1º As federações serão constituídas por Estados, podendo a Comissão Nacional de Sindicalização, autorizar a constituição de federações interestaduais ou nacionais. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 536 - Compete às federações a representação dos interesses da classe dentro da base territorial que lhe for outorgada, e às confederações a representação nacional dos interesses econômicos ou profissionais dos respectivos grupos, na conformidade do quadro a que se refere o art. 577. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 537 - O pedido de filiação de uma confederação ou federação será dirigido ao Presidente da Comissão Nacional de Sindicalização, acompanhado de um exemplar dos respectivos estatutos e das cópias autenticadas das atas da Assembléia de cada federação ou sindicato que autorizar a filiação à confederação ou à federação. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 1º A diretoria será constituída, no máxima, de sete, e, no mínimo, de três membros eleitos pelo Conselho de Representantes, pelo prazo de três anos, com designação direta dos respectivos cargos; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 2º O Conselho de Representantes será formado pelas delegações dos sindicatos ou das federações filiadas constituida cada delegação de dois a quatro membros respectivamente, conforme se tratar de federação e de confederação, com mandato por três anos cabendo um voto a cada delegação. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 540 - A toda empresa ou indivíduo que exerçam respectivamente atividade ou profissão, desde que satisfaçam as exigências desta Lei, assiste o direito de ser admitido no Sindicato da respectiva categoria. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 542 - De todo o ato lesivo de direitos ou contrário a esta Lei, emanado da Diretoria, do Conselho ou da Assembléia Geral da entidade sindical, poderá qualquer exercente de atividade ou profissão recorrer, dentro de 30 (trinta) dias, para a Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 543. O empregado eleito para cargo de administração sindical ou representação profissional não poderá, por motivo de serviço, ser impedido do exercício das suas funções, nem transferido sem causa justificada, a juízo da Comissão Nacional de Sindicalização, para lugar ou mister que lhe dificulte ou torne impossível o desempenho da comissão ou mandato. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Parágrafo único - Antes da posse ou exercício das funções a que alude o artigo anterior ou de concessão dos favores, será indispensável comprovar a sindicalização, ou oferecer prova, mediante certidão negativa da Comissão Nacional de Sindicalização, de que não existe Sindicato no local onde o interessado exerce a respectiva atividade ou profissão. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Parágrafo único. Os títulos de renda e bens imóveis das associações não serão alienados sem autorização da Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946)
-Art. 550. Os sindicatos federações e confederações submeterão, até 30 de junho de cada ano, à aprovação da respectiva Seção da Comissão Nacional de Sindicalização, na forma das instruções que esta expedir, seu orçamento de receita e despesa para o próximo ano financeiro. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 2º Na contabilidade das entidades sindicais, o ano financeiro coincidirá com o ano civil. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 551. Os sindicatos, as federações e as confederações enviarão à Comissão Nacional de Sindicalização, até 31 de março de cada ano, o relatório do ano anterior. Desse relatório deverão constar as principais ocorrências verificadas, as alterações do quadro de associados, o balanço do exercício financeiro, o balanço patrimonial e uma demonstração especial do emprêgo do impôsto sindical arrecadado no ano anterior. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-e) cassação da carta de filiação; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 554 - Destituída a administração, na hipótese da alínea "c" do artigo anterior, o Presidente da Seção respectiva da Comissão Nacional de Sindicalização nomeará um Delegado para dirigir a associação e proceder, dentro do prazo máximo de 90 (noventa) dias, em Assembléia Geral por ele convocada e presidida, à eleição dos novos diretores e membros do Conselho Fiscal. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 556 - A cassação da carta de filiação da entidade sindical não importará na sua dissolução. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-b) as demais pela Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Parágrafo único. Nenhuma pena será imposta sem que seja assegurada defesa ao acusado. (Incluído pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 565 As entidades sindicais filiadas à Comissão Nacional de Sindicalização não poderão fazer parte, nem se representar em organizações de caráter internacional. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 565. As entidades sindicais reconhecidas nos têrmos desta lei não poderão filiar-se ou manter relações com organizações internacionais, salvo licença prévia do Congresso Nacional. (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
-Art. 567 - Serão pagas em selos as taxas correspondentes às certidões expedidas pela Comissão Nacional de Sindicalização, relativas ao cumprimento do disposto nos artigos 550 e 551 dêste capítulo. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 570 - Os Sindicatos constituir-se-ão, normalmente, por categorias econômicas ou profissionais, específicas, na conformidade da discriminação do Quadro das Atividades e Profissões a que se refere o art. 577, ou segundo as subdivisões que forem criadas pela Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 571 - Qualquer das atividades ou profissões concentradas na forma do parágrafo único do artigo anterior poderá dissociar-se do Sindicato principal, formando um Sindicato especifico, desde que o novo Sindicato, a juízo da Comissão Nacional de Sindicalização, ofereça possibilidade de vida associativa regular e de ação sindical eficiente. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 572 - Os Sindicatos que se constituírem por categorias similares ou conexas, nos termos do parágrafo único do art. 570, adotarão denominação em que fiquem, tanto quanto possível, explicitamente mencionadas as atividades ou profissões concentradas, de conformidade com o Quadro das Atividades e Profissões, ou se se tratar de subdivisões, de acordo com o que determinar a Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 2º A Comissão Nacional de Sindicalização, quando o julgar conveniente aos interesses da organização sindical, poderá autorizar o reconhecimento de federações compostas de sindicatos pertencentes a vários grupos desde que a federação por eles formada represente, pelo menos, 2/3 (dois terços) dos sindicatos filiados há mais de dois anos num mesmo Estado. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Parágrafo único - Compete à Comissão Nacional de Sindicalização definir, de modo genérico, a dimensão e as demais características das empresas industriais de tipo artesanal. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 575 - O Quadro de Atividades e Profissões será revisto de dois em dois anos, pela Comissão Nacional de Sindicalização, para o fim de ajustá-lo às condições da estrutura econômica e profissional do País. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-c) para os empregadores, a partir do exercício de 1947, numa importância igual ao montante do impôsto sindical de todos os seus empregados, calculado na forma da letra a. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 583. A fixação do impôsto Sindical devido pelos agentes ou trabalhadores autônomos e profissionais liberais, far-se-á mediante. proposta elaborada pelos respectivos sindicatos e submetida dentro de sessenta dias após a expedição da correspondente carta de filiação, á aprovação da Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 584. Servirá de base para o pagamento do impôsto sindical, pelos agentes ou trabalhadores autônomos e profissionais liberais, a lista de contribuintes organizada pelos respectivos sindicatos na conformidade das instruções expedidas pela Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 586. O impôsto sindical devido pelos empregadores, empregados e agentes ou trabalhadores autônomos e pelos profissionais liberais, será recolhido, nos meses fixados nos no presente capítulo. ao Banco do Brasil ou nas localidades onde não houver agência ou filial dêsse estabelecimento bancário, aos estabelecimentos bancários nacionais indicados pela Comissão Nacional de Sindicalização, os quais, de acôrdo com instruções que lhe forem expedidas, depositarão no Banco do Brasil, mediante guia, as importâncias arrecadadas. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 5º O recolhimento obedecerá ao sistema de guias de acordo com as instruções expedidas pela Comissão Nacional de Sindicalização. No corrente exercício o recolhimento efetuar-se-á ainda pelos modelos existentes. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 6º O comprovante de depósito do imposto sindical, efetuado na forma deste capítulo, será remetido aos respectivos sindicatos ou órgãos a que couber, na conformidade das instruções expedidas pela Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 588. O Banco do Brasil abrirá uma conta corrente especial com juros do impôsto sindical, em nome de cada uma das entidades sindicais, a que couber o impôsto sindical, filiadas à Comissão Nacional de Sindicalização, eleição, suspensão e destituição de diretores. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 2º O Banco do Brasil remeterá anualmente, em dezembro, á Comissão Nacional de Sindicalização o extrato da conta especial do impôsto de cada entidade sindical. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 3º Na hipótese de existir mais de um sindicato representativo de determinada categoria ou profissão numa dada base territorial, o impôsto sindical será dividido proporcionalmente, para cada sindicato, ao número de associados com mais de seis meses de inscrição no dia 31 de dezembro do ano anterior ao que o impôsto é devido, em se tratando de sindicato de empregados, agentes ou trabalhadores autônomos e profissionais liberais, ou ao número de emprêsas integrantes do sindicato, no caso de entidade sindical de categoria econômica. (Incluído pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-a) em agências de colocação, na forma das instruções que forem expedidas pela Comissão Nacional de Sindicalização; (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Parágrafo único. A aplicação do impôsto sindical prevista nêste artigo, respeitados os seus objetivos, ficará a critério de cada sindicato que para tal fim, atenderá sempre às peculiaridades da respectiva categoria sendo facultado à Comissão Nacional de Sindicalização baixar instruções a respeito. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946)
-Art. 594. O "Fundo Social Sindical" será gerido e aplicado pela Comissão Nacional de Sindicalização em objetivos que atendam aos interêsses gerais da organização sindical nacional. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 594 - O "Fundo Social Sindical" será gerido e aplicado pela Comissão do Imposto Sindical em objetivos que atendam aos interesses gerais da organização sindical nacional ou à assistência social aos trabalhadores. (Redação dada pelo Decreto-lei nº 9.615, de 20.8.1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 596 - Compete à Comissão Nacional de Sindicalização: (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-(Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 597 - É facultado à Comissão Nacional de Sindicalização solicitar, sempre que julgar necessário, audiência de órgãos tecnicos especializados. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 606. As entidades sindicais cabe, em caso de falta de pagamento do impôsto sindical, promover a respectiva cobrança judicial, mediante ação executiva valendo como título de dívida a certidão expedida pela Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 1º A Comissão Nacional de Sindicalização baixará as instruções regulando a expedição das certidões a que se refere o presente artigo das quais deverá constar a individualização do contribuinte, a indicação do débito e a designação da entidade a favor da qual será recolhida a importância do impôsto, de acôrdo com o respectivo enquadramento sindical. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-§ 1º - A Comissão Nacional de Sindicalização baixará as instruções regulando a expedição das certidões a que se refere o presente artigo, das quais deverá constar a individualização do contribuinte, a indicação do débito e a designação da entidade a favor da qual será recolhida a importância do imposto, de acordo com o respectivo enquadramento sindical. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
-Art. 610. As dúvidas suscitadas no cumprimento deste capítulo serão resolvidas pela Comissão Nacional de Sindicalização. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-Art. 644 - São órgãos da Justiça do Trabalho: (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-Art. 647. Cada Junta de Conciliação e Julgamento terá, a seguinte composição : (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-Art. 647 - Cada Junta de Conciliação e Julgamento terá a seguinte composição: (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-Art. 649 - As Juntas poderão conciliar, instruir ou julgar com qualquer número, sendo, porém, indispensável a presença do Presidente, cujo voto prevalecerá em caso de empate. (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-Art. 654. Os presidentes de Junta e os presidentes substitutos serão nomeados pelo Presidente da República dentre bacharéis em direito, de reconhecida idoneidade moral, especializados em legislação social. (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-Art. 654. O ingresso na magistratura do trabalho far-se-á, nas sedes da 1ª e 2ª Regiões da Justiça do Trabalho, para o cargo de juiz do trabalho substituto; as nomeações subseqüentes, por promoção, alternadamente, por antigüidade e por merecimento. Nas demais localidades, e Regiões, o ingresso será feito para o cargo de juiz do Trabalho, presidente de Junta. (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-§ 3º Nas sedes da 1ª e 2ª Regiões da Justiça do Trabalho não haverá suplentes de juiz presidente de Junta, e sim, Juízes do trabalho substitutos, nomeados pelo Presidente da República, dentre brasileiros natos, bacharéis em Direito, que reunam, além dêsses, os seguintes requisitos: (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-Art. 655 - Os Presidentes e os Presidentes substitutos tomarão posse do cargo perante o presidente do Tribunal Regional da respectiva jurisdição. (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-Art. 656 Na falta ou impedimento dos presidentes, e como auxiliares destes, sempre que necessário, funcionarão os substitutos. (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-Art. 657 - Os Presidentes de Junta e os Presidentes Substitutos perceberão os vencimentos fixados em lei. (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
-(Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-Art. 658 - São deveres precípuos dos Presidentes das Juntas, além dos que decorram do exercício de sua função: (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-d) despachar e praticar todos os atos decorrentes de suas funções, dentro dos prazos estabelecidos, sujeitando-se ao desconto correspondente a 1 (um) dia de vencimento para cada dia de retardamento. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-Art. 670. Cada Conselho Regional tem a seguinte composição : (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-Parágrafo único. Haverá um presidente substituto e um suplente para cada vogal. (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-(Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
-§ 1º. Há um primeiro suplente e um segundo suplente para o presidente e um suplente para cada vogal. (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
-(Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-Art. 60. Os Tribunais Regionais da 1ª e 2ª Regiões compõem-se de sete juizes, nomeados pelo Presidente da República, dos quais, dois serão representantes classistas, um dos empregadores e outro dos empregado. (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-(Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-§ 2º Dentre os Juízes dos Tribunais Regionais alheios aos interêsses profissionais, os quais serão nomeados, por promoção, dentre os juizes do trabalho presidentes de Junta da respectiva Região, escolherá o Presidente da República o presidente e o vice-presidente do Tribunal, assegurados os direitos dos atuais presidentes dos Conselhos Regionais, nomeados na forma da lei anterior. (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
-§ 1º Há um primeiro suplente e um segundo suplente para o presidente e um suplente para cada vogal. (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
-§ 2º. O presidente será substituído pelo primeiro suplente ou pelo segundo suplente, nos impedimentos do primeiro suplente. (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
-Art. 672. Os Tribunais Regionais da 1ª e 2ª Regiões deliberam sempre com a presença do Presidente e de, pelo menos, quatro juizes, e os demais Tribunais Regionais, com a presença do Presidente e de, pelo menos três juizes. (Redação dada pelo Decreto Lei n] 9.797, de 1946)
-(Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-Art. 680. Os presidentes dos Conselhos Regionais e presidentes substitutos têm exercício por dois anos e são nomeados pelo Presidente da República entre juristas, de reconhecida idoneidade moral, especializados em questões sociais. (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-Art. 681. Os presidentes dos Conselhos Regionais e presidentes substitutos tomarão posse perante o presidente do Tribunal de Apelação dos Estados em que tiver sede o Conselho, salvo o do Distrito Federal, que será empossado pelo presidente do Conselho Nacional do Trabalho. (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
-Art. 681. Os presidentes dos Tribunais Regionais tomarão posse perante o Presidente do Tribunal Superior do Trabalho, que poderá, para êsse fim, delegar poderes ao Presidente do Tribunal de Apelação do Estado em que tiver sede o Tribunal Regional. (Redação dada pelo Decreto Lei nº 9.797, de 09.09.1946)
-Parágrafo único. Os vice-presidentes dos Tribunais Regionais do Trabalho tomarão posse perante o Presidente do Tribunal respectivo. (Incluído pelo Decreto Lei nº 9.797, de 09.09.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-I - julgar os agravos das decisões dos presidentes de junta e dos juízes de Direito; (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 682 - Competem privativamente aos Presidentes dos Tribunais Regionais, além das que forem conferidas neste e no título e das decorrentes do seu cargo, as seguintes atribuições: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 683 - Na falta ou impedimento dos Presidentes dos Tribunais Regionais, e como auxiliares destes, sempre que necessário, funcionarão seus substitutos. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-§ 2º Para os dois vogais e respectivos suplentes dos Tribunais Regionais, alheios aos interesses profissionais, exigem-se os requisitos referidos nas alíneas "a" e "e" do art. 661 e, ainda, que sejam especializados em questões econômicas e sociais. (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-Art. 689 - Por sessão a que comparecerem, até o máximo de quinze por mês, perceberão os Juízes representantes classistas e suplentes dos Tribunais Regionais a gratificação fixada em lei. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Parágrafo único - Os Juízes representantes classistas que retiverem processos além dos prazos estabelecidos no Regimento Interno dos Tribunais Regionais sofrerão automaticamente, na gratificação mensal a que teriam direito, desconto equivalente a 1/30 (um trinta avos) por processo retido. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 690. O Conselho Nacional do Trabalho, com sede na, Capital da, República e jurisdição em todo o território nacional, é o tribunal superior da Justiça do Trabalho. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 693. O Conselho compõe-se de um presidente, nomeado em comissão, e nove membros designados pelo Presidente da República, o qual, dentre estes, escolherá o vice-presidente. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 693. O Tribunal Superior do Trabalho compõe-se de onze juízes, sendo: (Redação dada pelo Decreto Lei nº 9.797, de 9.9.1946)
-(Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
-(Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
-(Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
-§ 2º Para a designação dos Juízes, representantes classistas, o conselho de Representantes de cada associação sindical de grau superior organizará, por maioria de votos, uma lista de três nomes, remetendo-a ao Ministro do Trabalho, Indústria e Comércio, na época em que êste determinar. (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
-a) sete, alheios aos interêsses profissionais, nomeados pelo Presidente da República, dentre brasileiros natos, de reputação ilibada e notável saber jurídico, especialmente em Direito Social, dos quais cinco pelo menos bacharéis em Direito; (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 694. Os membros do Conselho serão escolhidos do seguinte modo: dois dentre empregadores, dois dentre empregados, dois dentre funcionários do Ministério do Trabalho, Indústria e Comércio e três dentre outras pessoas de notório saber em Direito Social, de preferência bacharéis em Direito. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 695. Os membros do Conselho servirão pelo período de dois anos, podendo ser reconduzidos. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-§ 1º Ocorrendo a hipótese prevista neste artigo, o presidente do Conselho comunicará imediatamente o fato ao Ministro do Trabalho, indústria e Comércio, a fim de que seja feita, a substituição do membro renunciante, sem prejuízo das sanções cabíveis. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 696. Importará em renúncia o não comparecimento do membro do Conselho, sem motivo justificado, a mais de três sessões ordinárias consecutivas. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 697. No caso de interrupção do exercício de qualquer membro do Conselho, em virtude da licença por prazo superior a 60 dias, o Presidente da República, designará o seu substituto interino, que deverá ter os mesmas requistos exigidos para a designação do substituído. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 699. Fará que possa deliberar, deverá o Conselho reunir, no mínimo, cinco de seus membros, além do Presidente. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art 699. Para que possa deliberar, deverá o Tribunal Superior, na plenitude de sua composição, reunir, no mínimo, seis de seus juízes, além do presidente. (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
-Art. 700 - O Tribunal reunir-se-á em dias previamente fixados pelo Presidente, o qual poderá, sempre que for necessário, convocar sessões extraordinárias. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 701 - As sessões do Tribunal serão públicas e começarão às 14 (quatorze) horas, terminando às 17 (dezessete) horas, mas poderão ser prorrogadas pelo Presidente em caso de manifesta necessidade. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 702. Ao Conselho compete: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-I – em única instância: (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 707 - Compete ao Presidente do Tribunal: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 708. Compete ao Vice - Presidente do Conselho; (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Parágrafo único. Na ausência do Presidente e do Vice - Presidente, será o Conselho presidido pelo membro mais antigo ou pelo mais idoso, quando igual a antigüidade. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-b) exercer funções carregadoras em relação aos Conselhos Regionais e aos respectivos presidentes, podendo conhecer e decidir reclamações nos casos em que não houve recursos legal contra atos atentatórios à boa ordem processual. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 709. Nas causas de jurisdição da Justiça do Trabalho, somente podem ser opostas, com suspensão do feito, exceções de suspeição ou incompetência. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 710 - Cada Junta terá 1 (uma) secretaria, sob a direção de funcionário que o Presidente designar, para exercer a função de secretário, e que receberá, além dos vencimentos correspondentes ao seu padrão, a gratificação de função fixada em lei. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 712 - Compete especialmente aos secretários das Juntas de Conciliação e Julgamento: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 718 - Cada Tribunal Regional tem 1 (uma) secretaria, sob a direção do funcionário designado para exercer a função de secretário, com a gratificação de função fixada em lei. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 721. Incube aos oficiais de diligências da Justiça do Trabalho a realização dos atos decorrentes da execução dos julgados das Juntas de Conciliação e Julgamento e dos conforme cometidos pelos respectivos presidentes. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-§ 5º Na falta, ou impedimento do oficial de diligência, o presidente da Junta poderá, atribuir a realização do ato a qualquer serventuário. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 737 - O Ministério Público do Trabalho compõe-se da Procuradoria da Justiça do Trabalho e da Procuradoria da Previdência Social aquela funcionando como órgão de coordenação entre a Justiça do Trabalho e o Ministério do Trabalho, Industria e Comercio, ambas diretamente subordinadas ao Ministro de Estado. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 746 - Compete à Procuradoria-Geral da Justiça do Trabalho: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-l) defender a jurisdição dos órgãos da Justiça do Trabalho; (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 748 - Como chefe da Procuradoria-Geral da Justiça do Trabalho, incumbe ao procurador-geral: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 749 - Incumbe aos procuradores com exercício na Procuradoria-Geral: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 750 - Incumbe aos procuradores regionais: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 751 - Incumbe aos procuradores adjuntos das Procuradorias Regionais: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 752 - A secretaria da Procuradoria-Geral funcionará sob a direção de um chefe designado pelo procurador-geral e terá o pessoal designado pelo Ministro do Trabalho, Industria e Comercio . (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 757 - Compete à Procuradoria da Previdência Social: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-h) recorrer das decisões dos órgãos e autoridades competentes em matéria de previdência social e requerer revisão das decisões do Conselho Superior de Previdência Social, que lhe pareçam contrárias à lei. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 758 - Como chefe da Procuradoria da Previdência Social, incumbe ao Procurador-Geral: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 760 - A Procuradoria da Previdência Social terá uma Secretaria dirigida por um chefe designado pelo Procurador Geral. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 761 - A Secretaria terá o pessoal designado pelo Ministro do Trabalho, Industria e Comercio. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 774. Os prazos previstos neste título contam-se, conforme o caso, a partir da data em que for feita verbalmente, ou expedida, a notifìcação daquela em que fôr publicado o edital no jornal oficial ou no que publicar o expediente da Justiça do Trabalho, ou, ainda, daquela em que for afixado o edital na sede do juízo ou tribunal. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Parágrafo único - Tratando-se de notificação postal, no caso de não ser encontrado o destinatário ou no de recusa de recebimento, o Correio ficará obrigado, sob pena de responsabilidade do servidor, a devolvê-la, no prazo de 48 (quarenta e oito) horas, ao Tribunal de origem. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 775 - Os prazos estabelecidos neste Título contam-se com exclusão do dia do começo e inclusão do dia do vencimento, e são contínuos e irreleváveis, podendo, entretanto, ser prorrogados pelo tempo estritamente necessário pelo juiz ou tribunal, ou em virtude de força maior, devidamente comprovada. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 789. Nos discídios do trabalho, individuais ou coletivos, até julgamento, as custas serão calculadas, progressivalmente, de acordo com a seguinte tabela: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-§ 7º É facultado aos presidentes dos tribunais do trabalho conceder ex-ofício o benefício da Justiça gratuita, inclusive quanto a traslados e instrumentos, aqueles que perceberem salário igual ou inferior ao dobro do mínimo legal ou provarem o seu estadp de miserabilidade. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 799 - Nas causas da jurisdição da Justiça do Trabalho, somente podem ser opostas, com suspensão do feito, as exceções de suspeição ou incompetência. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 821 - Cada uma das partes não poderá indicar mais de 3 (três) testemunhas, salvo quando se tratar de inquérito, caso em que esse número poderá ser elevado a 6 (seis). (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 851 - Os tramites de instrução e julgamento da reclamação serão resumidos em ata, de que constará, na íntegra, a decisão. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-§ 1º - Nos processos de exclusiva alçada das Juntas, será dispensável, a juízo do presidente, o resumo dos depoimentos, devendo constar da ata a conclusão do Tribunal quanto à matéria de fato. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 864 - Não havendo acordo, ou não comparecendo ambas as partes ou uma delas, o presidente submeterá o processo a julgamento, depois de realizadas as diligências que entender necessárias e ouvida a Procuradoria. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 883. Não pagando o executado, nem garantido a execução, seguir-se-à a penhora dos bens, tantos quantos bastem ao pagamento da importância reclamlada, juros da mora e custas, aqueles contados da data da notificação inicial. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 893. Das decisões são admissíveis os seguintes recursos: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-Art. 893. Das decisões são admissíveis os seguintes recursos: (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
-§ 2º - A interposição de recurso para o Supremo Tribunal Federal não prejudicará a execução do julgado. (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 894. Cabem embargos das decisões definitivas das Juntas e Juízos, nos dissídios individuais concernentes a salários, férias e indenizações por rescisão do contráto de trabalho en que o valor da reclamação haja sido igual ou inferior: (Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 895. Cabe recurso ordinário para a instânca superior; (Redação dada pela Decreto Lei nº 8.737, de 1946)
-b) das decisões definitivas dos Tribunais Regionais, em processos de sua competência originária, no prazo de 10 (dez) dias, quer nos dissídios individuais, quer nos dissídios coletivos. (Redação dada pelo Decreto-lei nº 9.168, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 896. Cabe recurso extraordinários das decisões de última instância, quando: (Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-§ 2º Recebido o recurso, a autoridade recorrida dirá o efeito em que o recebe, podendo a parte interessada, pedir carta de sentença para execução provisória, dentro do prazo de quinze dias, contados da data do despacho se este tiver dado ao recurso efeito meramente devolutivo. (Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 897. Cabae agravo: (Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 899. Os recursos serão interpostos por sirnples petição e terão efeito meramente devolutivo, salvo as excessões previstas neste título, sendo permitida a execução provisória, até a penhora. (Redação dada pela Decreto Lei nº 8.737, de 1946)
-Paragrafo único. Tratando-se porém, de reclamação sobre férias, salários ou contrato individual de trababalho, de valor até Cr$ 5.000,00 (cinco mil cruzeiros), só serão admitidos recursos, inclusive extraordinários mediante prova de depósito da importância da condenação. Nesse caso, transitada em julgado a decisão recorrida, será ordenado, desde logo, o levantamento do depósito em favor da parte vencedora. (Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-(Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 902. É facultado ao Conselho Nacional do Trabalho estabelecer prejulgados, na forma que prescrever o seu regimento interno. (Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 903. As penalidades estabelecidas no título anterior serão aplicadas pelo juiz, ou tribunal que tiver de conhecer da desobediência, violção recusa, falta, ou coação, ex-offício, ou mediante, representação de qualquer interessado ou da Procuradoria da Justiça do Trabalho. (Redação dada pela Decreto Lei nº 8.737, de 1946)
-§ 2º Enquanto não estiver organizado e funcionando o Senado Federal, será competente para a imposição de sanções o Presidente da República. (Redação dada pela Decreto Lei nº 8.737, de 1946)
-Art. 904 - As sanções em que incorrerem as autoridades da Justiça do Trabalho serão aplicadas pela autoridade ou Tribunal imediatamente superior, conforme o caso, ex officio, ou mediante representação de qualquer interessado ou da Procuradoria. (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 515 - Para se filiarem à Comissão Nacional de Sindicalização, os sindicatos deverão satisfazer os seguintes requisitos:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) reunião de 1/3 (um terço), no mínimo, de empresas legalmente constituídas, sob a forma individual ou de sociedade, se se tratar de associação de empregadores; ou de 1/3 (um terço) dos que integrem, em uma dada base territorial, a mesma categoria ou exerçam a mesma profissão liberal, se se tratar de sindicatos de empregados ou de trabalhadores ou agentes autônomos ou de profissão liberal;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+b) duração não excedente de dois anos para o mandato da diretoria;
+c) exercício do cargo de Presidente por brasileiro nato, e dos demais cargos de administração e representação por brasileiros.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 517 - Os Sindicatos poderão ser distritais, municipais, intermunicipais, estaduais e interestaduais.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º - A Comissão Nacional de Sindicalização outorgará e delimitará a base territorial do Sindicato.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 518 - O pedido de filiação será dirigido ao Presidente da Comissão Nacional de Sindicalização, instruído com exemplar ou cópia autenticada dos estatutos do sindicato e será submetido à deliberação do plenário.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º - Os estatutos deverão conter:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) a denominação e a sede da sindicato;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, Com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+b) a categoria econômica ou profissional ou a profissão liberal que representação;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, Com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+c) a afirmação de que o sindicato se submeterá às decisões e resoluções da Comissão Nacional de Sindicalização;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, Com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º - O processo de filiação será regulado em instruções baixadas pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 520 - Aceito o pedido de filiação do sindicato, ser-lhe-á expedida carta de filiação, assinada pelo Presidente da Comissão Nacional de Sindicalização e pelo Presidente da respectiva Seção, devendo ser especificada na carta a representação econômica ou profissional conferida, e mencionada a base territorial.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º A filiação obriga o sindicato aos deveres do art. 514, cujo inadimplemento o sujeitará às sanções desta Lei.
+ (Parágrafo incluído pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º São considerados filiados à Comissão Nacional de Sindicalização os sindicatos e entidades sindicais de grau superior regularmente reconhecidas até a data do presente Decreto-lei.
+ (Parágrafo incluído pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 3º Somente às entidades sindicais filiadas à Comissão Nacional de Sindicalização será assegurada a participação das contribuições a que se refere a letra "a" do art. 548.
+ (Parágrafo incluído pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) proibição de qualquer propaganda de doutrinas incompatíveis com as instituições e os interêsses da Nação, bem como de candidaturas a cargos eletivos estranhos ao sindicato.
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+b) proibição de exercício de cargo eletivo cumulativamente com o de emprego remunerado pelo sindicato ou por entidade sindical de grau superior;
+c) gratuidade do exercício dos cargos eletivos.
+d) proibição de quaisquer atividades não compreendidas nas finalidades mencionadas no art. 511, inclusive as de caráter político-partidário;
+ (Incluída pelo Decreto-lei nº 9.502, de 23.7.1946)
+e) proibição de cessão gratuita ou remunerada da respectiva sede a entidade de índole político-partidária.
+ (Incluída pelo Decreto-lei nº 9.502, de 23.7.1946
+Art. 522 - A administração do Sindicato será exercida por uma diretoria constituída, no máximo, de 7 (sete) e, no mínimo, de 3 (três) membros e de um Conselho Fiscal composto de 3 (três) membros, eleitos esses órgãos pela Assembléia Geral, com designação direta dos respectivos cargos.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º A competência do Conselho Fiscal é limitada à fiscalização da gestão financeira do Sindicato.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 522. A administração do sindicato será exercida por uma diretoria constituída no máximo de sete e no mínimo de três membros e de um Conselho Fiscal composto de três membros, eleitos esses órgãos pela Assembléia Geral.
+§ 1º A diretoria elegerá, dentre os seus membros, o presidente do sindicato.
+§ 2º A competência do Conselho Fiscal é limitada à fiscalização da gestão financeira do sindicato.
+§ 3º - Constituirão atribuição exclusiva da Diretoria do Sindicato e dos Delegados Sindicais, a que se refere o art. 523, a representação e a defesa dos interesses da entidade perante os poderes públicos e as empresas, salvo mandatário com poderes outorgados por procuração da Diretoria, ou associado investido em representação prevista em lei.
+ (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
+Art. 524 Serão sempre tomadas por escrutínio secreto as deliberações da assembléia geral concernentes aos seguintes assuntos:
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+a) eleição de associado para representação da respectiva categoria prevista em lei;
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+b) tomada e aprovação de contas da diretoria;
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+c) aplicação do patrimônio;
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+d) julgamento dos atos da Diretoria, relativos a penalidades impostas a associados;
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+§ 1º - A eleição para cargos de diretoria e conselho fiscal será realizada por escrutínio secreto, durante 6 (seis) horas contínuas, pelo menos, na sede do Sindicato, na de suas delegacias e seções e nos principais locais de trabalho, onde funcionarão as mesas coletoras designadas pelos Delegados Regionais do Trabalho.
+ (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
+§ 2º - Concomitantemente ao término do prazo estipulado para a votação, instalar-se-á, em Assembléia Eleitoral pública e permanente, na sede do Sindicato, a mesa apuradora, para a qual serão enviadas, imediatamente, pelos presidentes das mesas coletoras, as urnas receptoras e as atas respectivas. Será facultada a designação de mesa apuradora supletiva sempre que as peculiaridades ou conveniências do pleito a exigirem.
+ (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
+§ 3º - A mesa apuradora será presidida por membro do Ministério Público do Trabalho ou pessoa de notória idoneidade, designado pelo Procurador-Geral da Justiça do Trabalho ou Procuradores Regionais.
+ (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
+§ 4º Na hipótese de ter participado da votação mais de cinqüenta por cento dos associados com capacidade para votar o presidente da mesa apuradora proclamará os eleitos, sem prejuizo do julgamento dos protestos ou recursos oferecidos na conformidade da lei. Não obtido êsse coeficiente será realizada nova eleição, dentro de quinze dias, a qual terá validade se dela tiver participado mais de quarenta por cento dos referidos associados. Na hipótese de não ter sido alcançado na segunda votação, o coeficiente cxigido será realizado o terceiro e último pleito, cuja validade dependerá do voto de mais de trinta por cento dos aludidos associados.
+ (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
+§ 5º - Não sendo atingido o coeficiente legal para eleição, o Ministério do Trabalho, Industria e Comercio declarará a vacância da administração, a partir do término do mandato dos membros em exercício, e designará administrador para o Sindicato, realizando-se novas eleições dentro de 6 (seis) meses.
+ (Incluído pelo Decreto-lei nº 9.502, de 23.7.1946)
+Art. 525 - É vedada a pessoas físicas ou jurídicas, estranhas ao Sindicato, qualquer interferência na sua administração ou nos seus serviços.
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+a) os Delegados especialmente designados pelo Presidente das Seções da categoria que o sindicato represente;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 526. Os empregados do sindicato serão nomeados pela Diretoria ad-referendum da Assembléia Geral, não podendo recair tal nomeação nos que estiverem nas condições previstas nas alíneas a, b e d, do art. 530.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 527 - Na sede de cada Sindicato haverá um livro de registro, autenticado pelo funcionário competente da Comissão Nacional de Sindicalização, e do qual deverão constar:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) tratando-se de Sindicato de empregadores, a firma individual ou coletiva, ou a denominação das empresas e sua sede, o nome, idade, estado civil, nacionalidade e residência dos respectivos sócios, ou, em se tratando de sociedade por ações, dos diretores;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) os que não tiverem aprovadas as suas contas de exercício em cargo de administração;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+b) os que houverem lesado o patrimônio de qualquer entidade sindical;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+c) os que não estiverem, desde dois anos antes, pelo menos, no exercício efetivo da atividade ou da profissão dentro da base territorial do sindicato, ou no desempenho de representação econômica ou profissional;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+d) os que tiverem má conduta, devidamente comprovada.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único. Sòmente será permitida a reeleição, para o período imediato, de 1/3 (um têrço) dos membros da Diretoria, do Conselho Fiscal e do Conselho de Representantes de associação sindical de qualquer grau, vedada a reeleição dos demais, considerando-se sempre inelegíveis, para êsse período, aquêles que exerçam seus mandatas em virtude de reeleição.
+ (Redação dada pelo Decreto-lei nº 9.675, de 1946)
+Parágrafo único: É vedada a releição para o período imediato e no transcurso do tempo correspondente ao respectivo mandato de qualquer membro da diretoria e do conselho fiscal dos sindicatos de empregados,de trabalhadores autônomos, de agentes autônomos, e de profissionais liberais. Igual proibição se observará em relação ao têrço dos membros da diretoria e do conselho fiscal, nos sindicatos dos empregadores.
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+Parágrafo único. Somente será permitida a reeleição, para o período imediato, de 1/3 (um terço) dos membros da Diretoria, do Conselho Fiscal e do Conselho de Representantes de associação sindical de qualquer grau, vedada a reeleição dos demais, considerando-se sempre inelegíveis, para esse período, aqueles que exerçam seus mandatos em virtude de reeleição.
+ (Redação dada pelo Decreto-lei nº 9.675, de 29.8.1946)
+§ 3º Concorrendo mais de uma chapa, poderá o Presidente da Seção da categoria que o sindicato representante designar o Presidente da Seção Eleitoral, desde que o requeiram os associados que encabeçarem as respectivas chapas.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 4º - A Comissão Nacional de Sindicalização expedirá instruções regulando o processo das eleições.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º - Não havendo protesto na ata da Assembléia Eleitoral ou recurso interposto por algum dos candidatos, dentro de 15 (quinze) dias, a contar da data das eleições, a posse da Diretoria eleita, independerá da aprovação das eleições pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946,
+§ 2º - Competirá à Diretoria em exercício, dentro de 30 (trinta) dias da realização das eleições e não tendo havido recurso, dar publicidade ao resultado do pleito, fazendo comunicação à Comissão Nacional de Sindicalização, da relação dos eleitos, com os dados pessoais de cada um e a designação da função que vai exercer.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946.
+§ 3º - Havendo protesto na ata da Assembléia Eleitoral ou recurso interposto dentro de 15 (quinze) dias da realização das eleições, competirá à Diretoria em exercício, encaminhar, devidamente instruído, o processo eleitoral à Seção respectiva da Comissão Nacional de Sindicalização, que o ulgará no prazo máximo de sessenta dias. Nesta hipótese, permanecerão na administração, até despacho final do processo, a Diretoria e o Conselho Fiscal que se encontrarem em exercício.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º As federações serão constituídas por Estados, podendo a Comissão Nacional de Sindicalização, autorizar a constituição de federações interestaduais ou nacionais.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 536 - Compete às federações a representação dos interesses da classe dentro da base territorial que lhe for outorgada, e às confederações a representação nacional dos interesses econômicos ou profissionais dos respectivos grupos, na conformidade do quadro a que se refere o art. 577.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único - O ato que instituir a federação ou confederação estabelecerá as condições segundo as quais deverá ser a mesma organizada e administrada, bem como a natureza e a extensão dos seus poderes sobre os sindicatos ou as federações componentes.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 537 - O pedido de filiação de uma confederação ou federação será dirigido ao Presidente da Comissão Nacional de Sindicalização, acompanhado de um exemplar dos respectivos estatutos e das cópias autenticadas das atas da Assembléia de cada federação ou sindicato que autorizar a filiação à confederação ou à federação.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º - A carta de filiação das confederações e federações será expedida pela Comissão Nacional de Sindicalização, na qual será especificada a coordenação econômica ou profissional conferida e mencionada a base territorial outorgada.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º A diretoria será constituída, no máxima, de sete, e, no mínimo, de três membros eleitos pelo Conselho de Representantes, pelo prazo de três anos, com designação direta dos respectivos cargos;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º O Conselho de Representantes será formado pelas delegações dos sindicatos ou das federações filiadas constituida cada delegação de dois a quatro membros respectivamente, conforme se tratar de federação e de confederação, com mandato por três anos cabendo um voto a cada delegação.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 540 - A toda empresa ou indivíduo que exerçam respectivamente atividade ou profissão, desde que satisfaçam as exigências desta Lei, assiste o direito de ser admitido no Sindicato da respectiva categoria.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 542 - De todo o ato lesivo de direitos ou contrário a esta Lei, emanado da Diretoria, do Conselho ou da Assembléia Geral da entidade sindical, poderá qualquer exercente de atividade ou profissão recorrer, dentro de 30 (trinta) dias, para a Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 543. O empregado eleito para cargo de administração sindical ou representação profissional não poderá, por motivo de serviço, ser impedido do exercício das suas funções, nem transferido sem causa justificada, a juízo da Comissão Nacional de Sindicalização, para lugar ou mister que lhe dificulte ou torne impossível o desempenho da comissão ou mandato.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único - Antes da posse ou exercício das funções a que alude o artigo anterior ou de concessão dos favores, será indispensável comprovar a sindicalização, ou oferecer prova, mediante certidão negativa da Comissão Nacional de Sindicalização, de que não existe Sindicato no local onde o interessado exerce a respectiva atividade ou profissão.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único. Os títulos de renda e bens imóveis das associações não serão alienados sem autorização da Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946)
+Art. 550. Os sindicatos federações e confederações submeterão, até 30 de junho de cada ano, à aprovação da respectiva Seção da Comissão Nacional de Sindicalização, na forma das instruções que esta expedir, seu orçamento de receita e despesa para o próximo ano financeiro.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º Na contabilidade das entidades sindicais, o ano financeiro coincidirá com o ano civil.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 551. Os sindicatos, as federações e as confederações enviarão à Comissão Nacional de Sindicalização, até 31 de março de cada ano, o relatório do ano anterior. Desse relatório deverão constar as principais ocorrências verificadas, as alterações do quadro de associados, o balanço do exercício financeiro, o balanço patrimonial e uma demonstração especial do emprêgo do impôsto sindical arrecadado no ano anterior.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+e) cassação da carta de filiação;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 554 - Destituída a administração, na hipótese da alínea "c" do artigo anterior, o Presidente da Seção respectiva da Comissão Nacional de Sindicalização nomeará um Delegado para dirigir a associação e proceder, dentro do prazo máximo de 90 (noventa) dias, em Assembléia Geral por ele convocada e presidida, à eleição dos novos diretores e membros do Conselho Fiscal.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 555 - A pena de cassação da carta de filiação sindical será imposta à entidade sindical:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946
+Art. 556 - A cassação da carta de filiação da entidade sindical não importará na sua dissolução.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) as das alíneas "a" e "b", pelo Presidente da Seção da categoria respectiva, com recurso para sessão plena;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946
+b) as demais pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único. Nenhuma pena será imposta sem que seja assegurada defesa ao acusado.
+ (Incluído pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 565 As entidades sindicais filiadas à Comissão Nacional de Sindicalização não poderão fazer parte, nem se representar em organizações de caráter internacional.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 565. As entidades sindicais reconhecidas nos têrmos desta lei não poderão filiar-se ou manter relações com organizações internacionais, salvo licença prévia do Congresso Nacional.
+ (Redação dada pelo Decreto-lei nº 9.502, de 23.7.1946)
+Art. 567 - Serão pagas em selos as taxas correspondentes às certidões expedidas pela Comissão Nacional de Sindicalização, relativas ao cumprimento do disposto nos artigos 550 e 551 dêste capítulo.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 570 - Os Sindicatos constituir-se-ão, normalmente, por categorias econômicas ou profissionais, específicas, na conformidade da discriminação do Quadro das Atividades e Profissões a que se refere o art. 577, ou segundo as subdivisões que forem criadas pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 571 - Qualquer das atividades ou profissões concentradas na forma do parágrafo único do artigo anterior poderá dissociar-se do Sindicato principal, formando um Sindicato especifico, desde que o novo Sindicato, a juízo da Comissão Nacional de Sindicalização, ofereça possibilidade de vida associativa regular e de ação sindical eficiente.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 572 - Os Sindicatos que se constituírem por categorias similares ou conexas, nos termos do parágrafo único do art. 570, adotarão denominação em que fiquem, tanto quanto possível, explicitamente mencionadas as atividades ou profissões concentradas, de conformidade com o Quadro das Atividades e Profissões, ou se se tratar de subdivisões, de acordo com o que determinar a Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º A Comissão Nacional de Sindicalização, quando o julgar conveniente aos interesses da organização sindical, poderá autorizar o reconhecimento de federações compostas de sindicatos pertencentes a vários grupos desde que a federação por eles formada represente, pelo menos, 2/3 (dois terços) dos sindicatos filiados há mais de dois anos num mesmo Estado.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único - Compete à Comissão Nacional de Sindicalização definir, de modo genérico, a dimensão e as demais características das empresas industriais de tipo artesanal.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 575 - O Quadro de Atividades e Profissões será revisto de dois em dois anos, pela Comissão Nacional de Sindicalização, para o fim de ajustá-lo às condições da estrutura econômica e profissional do País.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+c) para os empregadores, a partir do exercício de 1947, numa importância igual ao montante do impôsto sindical de todos os seus empregados, calculado na forma da letra a.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 583. A fixação do impôsto Sindical devido pelos agentes ou trabalhadores autônomos e profissionais liberais, far-se-á mediante. proposta elaborada pelos respectivos sindicatos e submetida dentro de sessenta dias após a expedição da correspondente carta de filiação, á aprovação da Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 584. Servirá de base para o pagamento do impôsto sindical, pelos agentes ou trabalhadores autônomos e profissionais liberais, a lista de contribuintes organizada pelos respectivos sindicatos na conformidade das instruções expedidas pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 586. O impôsto sindical devido pelos empregadores, empregados e agentes ou trabalhadores autônomos e pelos profissionais liberais, será recolhido, nos meses fixados nos no presente capítulo. ao Banco do Brasil ou nas localidades onde não houver agência ou filial dêsse estabelecimento bancário, aos estabelecimentos bancários nacionais indicados pela Comissão Nacional de Sindicalização, os quais, de acôrdo com instruções que lhe forem expedidas, depositarão no Banco do Brasil, mediante guia, as importâncias arrecadadas.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 5º O recolhimento obedecerá ao sistema de guias de acordo com as instruções expedidas pela Comissão Nacional de Sindicalização. No corrente exercício o recolhimento efetuar-se-á ainda pelos modelos existentes.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 6º O comprovante de depósito do imposto sindical, efetuado na forma deste capítulo, será remetido aos respectivos sindicatos ou órgãos a que couber, na conformidade das instruções expedidas pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 588. O Banco do Brasil abrirá uma conta corrente especial com juros do impôsto sindical, em nome de cada uma das entidades sindicais, a que couber o impôsto sindical, filiadas à Comissão Nacional de Sindicalização, eleição, suspensão e destituição de diretores.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 2º O Banco do Brasil remeterá anualmente, em dezembro, á Comissão Nacional de Sindicalização o extrato da conta especial do impôsto de cada entidade sindical.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 3º Na hipótese de existir mais de um sindicato representativo de determinada categoria ou profissão numa dada base territorial, o impôsto sindical será dividido proporcionalmente, para cada sindicato, ao número de associados com mais de seis meses de inscrição no dia 31 de dezembro do ano anterior ao que o impôsto é devido, em se tratando de sindicato de empregados, agentes ou trabalhadores autônomos e profissionais liberais, ou ao número de emprêsas integrantes do sindicato, no caso de entidade sindical de categoria econômica.
+ (Incluído pelo Decreto-lei nº 8.740, de 19.1.194, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+a) em agências de colocação, na forma das instruções que forem expedidas pela Comissão Nacional de Sindicalização;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Parágrafo único. A aplicação do impôsto sindical prevista nêste artigo, respeitados os seus objetivos, ficará a critério de cada sindicato que para tal fim, atenderá sempre às peculiaridades da respectiva categoria sendo facultado à Comissão Nacional de Sindicalização baixar instruções a respeito.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946)
+Art. 594. O "Fundo Social Sindical" será gerido e aplicado pela Comissão Nacional de Sindicalização em objetivos que atendam aos interêsses gerais da organização sindical nacional.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 594 - O "Fundo Social Sindical" será gerido e aplicado pela Comissão do Imposto Sindical em objetivos que atendam aos interesses gerais da organização sindical nacional ou à assistência social aos trabalhadores.
+ (Redação dada pelo Decreto-lei nº 9.615, de 20.8.1946)
+Art. 596 - Compete à Comissão Nacional de Sindicalização:
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+)
+a) Gerir o "Fundo Social Sindical"
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+)
+b) organizar o plano sistematico da aplicação do "Fundo Social Sindical"
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+)
+c) fiscalizar a aplicação do imposto sindical, expedindo as normas que se fizerem necessárias;
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+)
+d) resolver as dúvidas suscitadas na execução do presente capítulo.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 597 - É facultado à Comissão Nacional de Sindicalização solicitar, sempre que julgar necessário, audiência de órgãos tecnicos especializados.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+)
+Parágrafo único. A Comissão Nacional de Sindicalização aprovará os orçamentos necessários à execução de seus serviços que serão custeados pelo "Fundo Social Sindical".
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 606. As entidades sindicais cabe, em caso de falta de pagamento do impôsto sindical, promover a respectiva cobrança judicial, mediante ação executiva valendo como título de dívida a certidão expedida pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º A Comissão Nacional de Sindicalização baixará as instruções regulando a expedição das certidões a que se refere o presente artigo das quais deverá constar a individualização do contribuinte, a indicação do débito e a designação da entidade a favor da qual será recolhida a importância do impôsto, de acôrdo com o respectivo enquadramento sindical.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+§ 1º - A Comissão Nacional de Sindicalização baixará as instruções regulando a expedição das certidões a que se refere o presente artigo, das quais deverá constar a individualização do contribuinte, a indicação do débito e a designação da entidade a favor da qual será recolhida a importância do imposto, de acordo com o respectivo enquadramento sindical.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
+Art. 610. As dúvidas suscitadas no cumprimento deste capítulo serão resolvidas pela Comissão Nacional de Sindicalização.
+ (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946)
+Art. 644 - São órgãos da Justiça do Trabalho:
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+a) o Tribunal Superior do Trabalho;
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+b) os Tribunais Regionais do Trabalho;
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+c) as Juntas de Conciliação e Julgamento ou os Juízos de Direito.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+Art. 647. Cada Junta de Conciliação e Julgamento terá, a seguinte composição :
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+a) um presidente;
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+b) dois vogais, sendo um representante dos empregadores e outro dos empregados.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Parágrafo único. Haverá presidentes substitutos e suplentes de vogal, estes, um para cada, vogal, aqueles, em número fixa, do por lei.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Art. 647 - Cada Junta de Conciliação e Julgamento terá a seguinte composição:
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+a) um juiz do trabalho, que será seu Presidente;
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+b) dois vogais, sendo um representante dos empregadores e outro dos empregados.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+Parágrafo único - Haverá um suplente para cada vogal.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+Art. 649 - As Juntas poderão conciliar, instruir ou julgar com qualquer número, sendo, porém, indispensável a presença do Presidente, cujo voto prevalecerá em caso de empate.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+§ 1º - No julgamento de embargos deverão estar presentes todos os membros da Junta.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+§ 2º - Na execução e na liquidação das decisões funciona apenas o Presidente.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Art. 654. Os presidentes de Junta e os presidentes substitutos serão nomeados pelo Presidente da República dentre bacharéis em direito, de reconhecida idoneidade moral, especializados em legislação social.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+§ 1º A nomeação dos presidentes e presidentes substitutos é feita por um período de dois anos, findo o qual poderão ser reconduzidos.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+§ 2º Os presidentes e os presidentes substitutos, uma vez reconduzidos, serão conservados enquanto bem servirem, só podendo ser demitidos por falta que os torne incompatíveis com o exercício do cargo, apurada pelo Conselho Nacional do Trabalho em inquérito administrativo, facultada, porém, a sua suspensão prévia pela autoridade imediatamente superior, quando motivos graves. devidamente justificados, determinarem essa providência.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Art. 654. O ingresso na magistratura do trabalho far-se-á, nas sedes da 1ª e 2ª Regiões da Justiça do Trabalho, para o cargo de juiz do trabalho substituto; as nomeações subseqüentes, por promoção, alternadamente, por antigüidade e por merecimento. Nas demais localidades, e Regiões, o ingresso será feito para o cargo de juiz do Trabalho, presidente de Junta.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 1º Haverá suplente de juiz do trabalho presidente de Junta, sem direito a acesso, nomeados pelo Presidente da República dentre brasileiros natos, bacharéis em Direito, de r econhecida idoneidade moral, especializados em legislação social. A nomeação dos suplentes é feita por período de dois anos findo o qual poderão ser reconduzidos. Os suplentes, uma vez reconduzidos. serão conservados enquanto bem servirem, só podendo ser demitidos por falta que os torne incompatíveis com o exercício do cargo, apurada pelo Tribunal da respectiva Região, facultada porém, sua suspensão prévia pelo presidente do Tribunal, quando motivos graves, devidamente justificados, determinarem essa providência.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 2º Os suplentes de juiz do trabalho perceberão, quando em exercício, vencimentos iguais aos dos juizes, que substituírem.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 3º Nas sedes da 1ª e 2ª Regiões da Justiça do Trabalho não haverá suplentes de juiz presidente de Junta, e sim, Juízes do trabalho substitutos, nomeados pelo Presidente da República, dentre brasileiros natos, bacharéis em Direito, que reunam, além dêsses, os seguintes requisitos:
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+I – idoneidade para o exercício das funções ;
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+II – idade maior de 25 e menor de 45 anos;
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+III – classificação em concurso perante o Tribunal do Trabalho da Região em que ocorrer a vaga, concurso que será válido por dois anos, e organizado de acôrdo com as instruções para êsse fim baixadas pelo presidente do Tribunal Superior do Trabalho.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 4º Os candidatos inscritos só serão admitidos ao concurso após apreciação prévia, pelo Tribunal Regional do Trabalho da respectiva Região, dos requisitos exigidos no parágrafo anterior.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 5º Os cargos de juiz do trabalho, presidente de Junta, nas sedes da 1ª e 2ª Região da Justiça do Trabalho, serão preenchidos, por promoção, dentre os juizes substitutos. Nas demais localidades e Regiões, tais cargos serão providos por nomeação, obedecidos os requisitos do § 3º. Ficam assegurados aos atuais presidentes de Junta e presidentes substitutos, os direitos decorrentes de sua nomeação na forma da legislação, então, vigente; feita a apostila, nos decretos de nomeação, da nova denominação dos cargos que ocupam.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 6º Aos Juízes do Trabalho alheios aos interesses profissionais são assegurados, após dois anos de exercício, as garantias de vitaliciedade, inamovibilidade e irredutibilidade dos vencimento, aplicando-se, no tocante à demissões, aos juizes do trabalho presidentes de Junta e juizes substitutos, o disposto no § 1.º, in fine, dêste artigo.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 7º Os Juízes do trabalho presidentes de Junta, juizes substitutos e suplentes de juiz tomarão posse perante o presidente do Tribunal da respetiva Região. Nos Estados que não forem sede de Tribunais do Trabalho, a posse dar-se-á perante o presidente do Tribunal de Apelação, que remeterá o têrmo ao presidente do Tribunal Regional da jurisdição do empossado. Quanto aos Territórios, a posse dar-se-á perante o presidente do Tribunal Regional do Trabalho da respectiva Região.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+Art. 655 - Os Presidentes e os Presidentes substitutos tomarão posse do cargo perante o presidente do Tribunal Regional da respectiva jurisdição.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+§ 1º Nos Estados em que não houver sede de Tribunais a posse dar-se-á perante o presidente do Tribunal de Apelação, que remeterá o respectivo termo ao presidente do Tribunal Regional da Jurisdição do empossado.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+§ 2º Nos Territórios a posse dar-se-á perante a Juiz de Direito da capital, que procederá na forma prevista no § 1º.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Art. 656 Na falta ou impedimento dos presidentes, e como auxiliares destes, sempre que necessário, funcionarão os substitutos.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Parágrafo único. A substituição far-se-á, de acôrdo com as seguintes normas:
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+a) nas localidades em que houver mais de uma Junta, a designação do presidente substituto será feita pelo presidente do Conselho Regional do Trabalho respectivo, observada a ordem de antigüidade entre os substitutos desimpedidos;
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+b) nas demais localidades, salvo os casos de férias, por trinta dias, licença morte ou renúncia, quando a designação obedecerá á mesma normas, a convocação será feita pelo próprio presidente, ciente o presidente do Conselho Regional.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Art. 657 - Os Presidentes de Junta e os Presidentes Substitutos perceberão os vencimentos fixados em lei.
+ (Redação dada pelo Decreto-Lei nº 8.737, de 1946)
+Art. 658 - São deveres precípuos dos Presidentes das Juntas, além dos que decorram do exercício de sua função:
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+a) manter perfeita conduta pública e privada;
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+b) abster-se de atender a solicitações ou recomendações relativamente aos feitos que hajam sido ou tenham de ser submetidos à sua apreciação;
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+c) residir dentro dos limites de sua jurisdição, não podendo ausentar-se sem licença do Presidente do Tribunal Regional;
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+d) despachar e praticar todos os atos decorrentes de suas funções, dentro dos prazos estabelecidos, sujeitando-se ao desconto correspondente a 1 (um) dia de vencimento para cada dia de retardamento.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 670. Cada Conselho Regional tem a seguinte composição :
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+a) um presidente ;
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+b) quatro vogais, sendo um representante dos empregadores, outro dos empregados e os demais alheios aos interesses profissionais.
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+Parágrafo único. Haverá um presidente substituto e um suplente para cada vogal.
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+§ 1º. Há um primeiro suplente e um segundo suplente para o presidente e um suplente para cada vogal.
+ (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
+§ 2º. O presidente será substituído pelo primeiro suplente ou pelo segundo suplente, nos impedimentos do primeiro suplente.
+ (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
+Art. 60. Os Tribunais Regionais da 1ª e 2ª Regiões compõem-se de sete juizes, nomeados pelo Presidente da República, dos quais, dois serão representantes classistas, um dos empregadores e outro dos empregado.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 1º Haverá um suplente para cada juiz representante classista.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 2º Dentre os Juízes dos Tribunais Regionais alheios aos interêsses profissionais, os quais serão nomeados, por promoção, dentre os juizes do trabalho presidentes de Junta da respectiva Região, escolherá o Presidente da República o presidente e o vice-presidente do Tribunal, assegurados os direitos dos atuais presidentes dos Conselhos Regionais, nomeados na forma da lei anterior.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 3º Nos Tribunais do Trabalho das demais Regiões, terão assento três juizes alheios aos interêsses profissionais.
+ (Incluído pelo Decreto-lei nº 9.797, de 9.9.1946)
+§ 1º Há um primeiro suplente e um segundo suplente para o presidente e um suplente para cada vogal.
+ (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
+§ 2º. O presidente será substituído pelo primeiro suplente ou pelo segundo suplente, nos impedimentos do primeiro suplente.
+ (Incluído pelo Decreto-lei nº 9.398, de 21.6.1946)
+Art. 672. Os Tribunais Regionais da 1ª e 2ª Regiões deliberam sempre com a presença do Presidente e de, pelo menos, quatro juizes, e os demais Tribunais Regionais, com a presença do Presidente e de, pelo menos três juizes.
+ (Redação dada pelo Decreto Lei n] 9.797, de 1946)
+Art. 680. Os presidentes dos Conselhos Regionais e presidentes substitutos têm exercício por dois anos e são nomeados pelo Presidente da República entre juristas, de reconhecida idoneidade moral, especializados em questões sociais.
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+(Suprimido pelo Decreto Lei nº 9.797, de 09.09.1946)
+Parágrafo único. Aos presidentes e presidentes substitutos dos Conselhos Regionais aplica-se o disposto no § 2º do art; 654, computado o tempo de serviço nas Juntas, quando for o caso.
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+Art. 681. Os presidentes dos Conselhos Regionais e presidentes substitutos tomarão posse perante o presidente do Tribunal de Apelação dos Estados em que tiver sede o Conselho, salvo o do Distrito Federal, que será empossado pelo presidente do Conselho Nacional do Trabalho.
+ (Redação dada pelo Decreto-lei nº 8.737, 19.1.1946)
+Art. 681. Os presidentes dos Tribunais Regionais tomarão posse perante o Presidente do Tribunal Superior do Trabalho, que poderá, para êsse fim, delegar poderes ao Presidente do Tribunal de Apelação do Estado em que tiver sede o Tribunal Regional.
+ (Redação dada pelo Decreto Lei nº 9.797, de 09.09.1946)
+Parágrafo único. Os vice-presidentes dos Tribunais Regionais do Trabalho tomarão posse perante o Presidente do Tribunal respectivo.
+ (Incluído pelo Decreto Lei nº 9.797, de 09.09.1946)
+Art. 682 - Competem privativamente aos Presidentes dos Tribunais Regionais, além das que forem conferidas neste e no título e das decorrentes do seu cargo, as seguintes atribuições:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+I - julgar os agravos das decisões dos presidentes de junta e dos juízes de Direito;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+II - designar os vogais das Juntas e seus suplentes;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+III - dar posse aos Presidentes de Juntas e Presidentes Substitutos, aos vogais e suplentes e funcionários do próprio Tribunal e conceder férias e licenças aos mesmos e aos vogais e suplentes das Juntas;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+IV - presidir às sessões do Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+V - presidir às audiências de conciliação nos dissídios coletivos;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+VI - executar suas próprias decisões e as proferidas pelo Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+VII - convocar suplentes dos vogais do Tribunal, nos impedimentos destes;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+VIII - representar ao Presidente do Tribunal Superior do Trabalho contra os Presidentes e os vogais, nos casos previstos no art. 727 e seu parágrafo único;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+IX - despachar os recursos interpostos pelas partes;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+X - requisitar às autoridades competentes, nos casos de dissídio coletivo, a força necessária, sempre que houver ame e perturbação da ordem;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Xl - exercer correição, pelo menos uma vez por ano, sobre as Juntas, ou parcialmente sempre que se fizer necessário, e solicitá-la, quando julgar conveniente, ao Presidente do Tribunal de Apelação relativamente aos Juízes de Direito investidos na administração da Justiça do Trabalho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Xll - distribuir os feitos, designando os vogais que os devem relatar;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+XIII - designar, dentre os funcionários do Tribunal e das Juntas existentes em uma mesma localidade, o que deve exercer a função de distribuidor;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+XIV - assinar as folhas de pagamento dos vogais e servidores do Tribunal.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º - Na falta ou impedimento do Presidente da Junta e do substituto da mesma localidade, é facultado ao Presidente do Tribunal Regional designar substituto de outra localidade, observada a ordem de antigüidade entre os substitutos desimpedidos.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º - Na falta ou impedimento do Juiz classista da Junta e do respectivo suplente, é facultado ao Presidente do Tribunal Regional designar suplente de outra Junta, respeitada a categoria profissional ou econômica do representante e a ordem de antigüidade dos suplentes desimpedidos.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 683 - Na falta ou impedimento dos Presidentes dos Tribunais Regionais, e como auxiliares destes, sempre que necessário, funcionarão seus substitutos.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º - Nos casos de férias, por 30 (trinta) dias, licença, morte ou renúncia, a convocação competirá diretamente ao Presidente do Tribunal Superior do Trabalho
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º - Nos demais casos, mediante convocação do próprio Presidente do Tribunal ou comunicação do secretário deste, o Presidente Substituto assumirá imediatamente o exercício, ciente o Presidente do Tribunal Superior do Trabalho.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º Para os dois vogais e respectivos suplentes dos Tribunais Regionais, alheios aos interesses profissionais, exigem-se os requisitos referidos nas alíneas "a" e "e" do art. 661 e, ainda, que sejam especializados em questões econômicas e sociais.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+Art. 689 - Por sessão a que comparecerem, até o máximo de quinze por mês, perceberão os Juízes representantes classistas e suplentes dos Tribunais Regionais a gratificação fixada em lei.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único - Os Juízes representantes classistas que retiverem processos além dos prazos estabelecidos no Regimento Interno dos Tribunais Regionais sofrerão automaticamente, na gratificação mensal a que teriam direito, desconto equivalente a 1/30 (um trinta avos) por processo retido.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 690. O Conselho Nacional do Trabalho, com sede na, Capital da, República e jurisdição em todo o território nacional, é o tribunal superior da Justiça do Trabalho.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 693. O Conselho compõe-se de um presidente, nomeado em comissão, e nove membros designados pelo Presidente da República, o qual, dentre estes, escolherá o vice-presidente.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 693. O Tribunal Superior do Trabalho compõe-se de onze juízes, sendo:
+ (Redação dada pelo Decreto Lei nº 9.797, de 9.9.1946)
+a) sete, alheios aos interêsses profissionais, nomeados pelo Presidente da República, dentre brasileiros natos, de reputação ilibada e notável saber jurídico, especialmente em Direito Social, dos quais cinco pelo menos bacharéis em Direito;
+ (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
+b) quatro, representantes classistas, dois dos empregadores e dois dos empregados, nomeados pelo Presidente da República, por um período de 3 anos, podendo ser reconduzidos.
+ (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
+§ 1º Dentre os Juízes do Tribunal Superior do Trabalho, alheios aos interêsses profissionais, serão, pelo Presidente da República, nomeados o presidente e vice-presidente do Tribunal.
+ (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
+§ 2º Para a designação dos Juízes, representantes classistas, o conselho de Representantes de cada associação sindical de grau superior organizará, por maioria de votos, uma lista de três nomes, remetendo-a ao Ministro do Trabalho, Indústria e Comércio, na época em que êste determinar.
+ (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
+§ 3º Na lista de que trata o parágrafo anterior figurarão somente brasileiros natos, de reconhecida idoneidade, maiores de 25 anos, quites com o serviço militar, que estejam no gôzo de seus direitos civis e políticos e contem mais de dois anos de efetivo exercício da profissão ou se encontrem no desempenho de representação profissional prevista em lei.
+ (Incluída pelo Decreto Lei nº 9.797, de 9.9.1946)
+Art. 694. Os membros do Conselho serão escolhidos do seguinte modo: dois dentre empregadores, dois dentre empregados, dois dentre funcionários do Ministério do Trabalho, Indústria e Comércio e três dentre outras pessoas de notório saber em Direito Social, de preferência bacharéis em Direito.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º Para a designação dos membros que deverão ser escolhidos dentre empregadores e empregados, o Conselho de Representantes de cada associação sindical de grau superior organizará, por maioria de votos, uma, lista de três nomes, remetendo-a ao Ministro do Trabalho, Indústria e Comércio, na época, que este determinar.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º Na lista de que trata, o parágrafo anterior figurarão somente brasileiros natos, de reconhecida idoneidade, maiores de 25 anos, auites com o serviço militar, que estejam no gôzo de seus direitos civis e políticos e contem mais de dois anos de efetivo exercício da profissão ou se encontrem no desempenho de representação profissional prevista em lei.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 695. Os membros do Conselho servirão pelo período de dois anos, podendo ser reconduzidos.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º Ocorrendo a hipótese prevista neste artigo, o presidente do Conselho comunicará imediatamente o fato ao Ministro do Trabalho, indústria e Comércio, a fim de que seja feita, a substituição do membro renunciante, sem prejuízo das sanções cabíveis.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º Para os efeitos do parágrafo anterior, a designação do substituto será feita dentre os nomes constantes das Iistas de que trata o art. 694, § 1º, se se tratar de membro a ser escolhido dentre empregados ou empregadores.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 696. Importará em renúncia o não comparecimento do membro do Conselho, sem motivo justificado, a mais de três sessões ordinárias consecutivas.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 697. No caso de interrupção do exercício de qualquer membro do Conselho, em virtude da licença por prazo superior a 60 dias, o Presidente da República, designará o seu substituto interino, que deverá ter os mesmas requistos exigidos para a designação do substituído.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 699. Fará que possa deliberar, deverá o Conselho reunir, no mínimo, cinco de seus membros, além do Presidente.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art 699. Para que possa deliberar, deverá o Tribunal Superior, na plenitude de sua composição, reunir, no mínimo, seis de seus juízes, além do presidente.
+ (Redação dada pelo Decreto-lei nº 9.797, de 9.9.1946)
+Art. 700 - O Tribunal reunir-se-á em dias previamente fixados pelo Presidente, o qual poderá, sempre que for necessário, convocar sessões extraordinárias.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 701 - As sessões do Tribunal serão públicas e começarão às 14 (quatorze) horas, terminando às 17 (dezessete) horas, mas poderão ser prorrogadas pelo Presidente em caso de manifesta necessidade.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º - As sessões extraordinárias do Tribunal só se realizarão quando forem comunicadas aos seus membros com 24 (vinte e quatro) horas, no mínimo, de antecedência.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º - Nas sessões do Tribunal, os debates poderão tornar-se secretos, desde que, por motivo de interesse público, assim resolva a maioria de seus membros.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 702. Ao Conselho compete:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+I – em única instância:
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) conciliar e julgar os dissídios coletivo que excedam a jurisdição dos Conselhos Regionais do Trabalho:
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) estender suas decisões, nos dissídios a que se refere a alínea anterior:
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) rever as próprias decisões proferidas nos dissídios de que trata a alínea a;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) homologar os acôrdos celebrados em dissídios de que trata a alínea a;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) julgar os conflitos de jurisdição entre Conselho Regionais do Trabalho bem como os que se suscitarem entre as autoridades da Justiça do Trabalho sujeitas à jurisdição de Conselho Regional diferentes;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) estabelecer prejulgados, na forma que prescrever o regimento interno;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) julgar as suspeições erguidas contra os seus membros ou contra o Presidente do Conselho;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) elaborar tabelas de custas e emolumentos, nos casos previstos em lei ;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+i) elaborar o seu regimento interno e o dos Conselhos Regionais.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+II – em última, instância :
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) julgar os recursos ordinários e extraordinários das decisões proferidas pelo Conselho Regionais, nos casos previstos em lei;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) julgar os recursos interpostos das decisões dos presidentes dos Conselhos Regionais e juntas de Conciliação e Julgamento que indeferizem recursos ordinários ou extraordinários.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único. Das decisões do Conselho, nos casos das alíneas a e d do inciso I deste artigo caberão, no prazo de dez dias embargos para o próprio Conselho, cujo processo será regulado no Regime Interno.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 707 - Compete ao Presidente do Tribunal:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) presidir às sessões do Tribunal, fixando os dias para a realização das sessões ordinárias e convocando as extraordinárias;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) superintender todos os serviços do Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) expedir instruções e adotar as providências necessárias para o bom funcionamento do Tribunal e dos demais órgãos da Justiça do Trabalho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) fazer cumprir as decisões originárias do Tribunal, determinando aos Tribunais Regionais e aos demais órgãos da Justiça do Trabalho a realização dos atos processuais e das diligências necessárias;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) submeter ao Tribunal os processos em que tenha de deliberar e designar, na forma do Regimento Interno, os respectivos relatores;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) despachar os recursos interpostos pelas partes e os demais papéis em que deva deliberar;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) determinar as alterações que se fizerem necessárias na lotação do pessoal da Justiça do Trabalho, fazendo remoções ex officio de servidores entre os Tribunais Regionais, Juntas de Conciliação e Julgamento e outros órgãos; bem como conceder as requeridas que julgar convenientes ao serviço, respeitada a lotação de cada órgão;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) conceder licenças e férias aos servidores do Tribunal, bem como impor-Ihes as penas disciplinares que excederem da alçada das demais autoridades;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+i) dar posse e conceder licença aos membros do Tribunal, bem como conceder licenças e férias aos Presidentes dos Tribunais Regionais;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+j) apresentar ao Ministro do Trabalho, Industria e Comercio, até 31 de março de cada ano, o relatório das atividades do Tribunal e dos demais órgãos da Justiça do Trabalho.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único - O Presidente terá 1 (um) secretário por ele designado dentre os funcionários lotados no Tribunal, e será auxiliado por servidores designados nas mesmas condições.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 708. Compete ao Vice - Presidente do Conselho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) substituir o presidente em suas faltas e impedimentos;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) exercer funções carregadoras em relação aos Conselhos Regionais e aos respectivos presidentes, podendo conhecer e decidir reclamações nos casos em que não houve recursos legal contra atos atentatórios à boa ordem processual.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único. Na ausência do Presidente e do Vice - Presidente, será o Conselho presidido pelo membro mais antigo ou pelo mais idoso, quando igual a antigüidade.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) exercer funções carregadoras em relação aos Conselhos Regionais e aos respectivos presidentes, podendo conhecer e decidir reclamações nos casos em que não houve recursos legal contra atos atentatórios à boa ordem processual.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 709. Nas causas de jurisdição da Justiça do Trabalho, somente podem ser opostas, com suspensão do feito, exceções de suspeição ou incompetência.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º As demais exceções serão alegadas como matéria de defesa.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º Das decisões sôbre exceções de suspeição e impetência. salvo, quanto a estas, se terminativas do feito, não caberá recurso, podendo, no entanto, as partes alegá-las novamente no recurso que couber da decisão final.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 710 - Cada Junta terá 1 (uma) secretaria, sob a direção de funcionário que o Presidente designar, para exercer a função de secretário, e que receberá, além dos vencimentos correspondentes ao seu padrão, a gratificação de função fixada em lei.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 712 - Compete especialmente aos secretários das Juntas de Conciliação e Julgamento:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) superintender os trabalhos da secretaria, velando pela boa ordem do serviço;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) cumprir e fazer cumprir as ordens emanadas do Presidente e das autoridades superiores;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) submeter a despacho e assinatura do Presidente o expediente e os papéis que devam ser por ele despachados e assinados;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) abrir a correspondência oficial dirigida à Junta e ao seu Presidente, a cuja deliberação será submetida;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) tomar por termo as reclamações verbais nos casos de dissídios individuais;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) promover o rápido andamento dos processos, especialmente na fase de execução, e a pronta realização dos atos e diligências deprecadas pelas autoridades superiores;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) secretariar as audiências da Junta, lavrando as respectivas atas;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) subscrever as certidões e os termos processuais;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+i) dar aos litigantes ciência das reclamações e demais atos processuais de que devam ter conhecimento, assinando as respectivas notificações;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+j) executar os demais trabalhos que lhe forem atribuídos pelo Presidente da Junta.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único - Os serventuários que, sem motivo justificado, não realizarem os atos, dentro dos prazos fixados, serão descontados em seus vencimentos, em tantos dias quantos os do excesso.
+ (Parágrafo incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 718 - Cada Tribunal Regional tem 1 (uma) secretaria, sob a direção do funcionário designado para exercer a função de secretário, com a gratificação de função fixada em lei.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 721. Incube aos oficiais de diligências da Justiça do Trabalho a realização dos atos decorrentes da execução dos julgados das Juntas de Conciliação e Julgamento e dos conforme cometidos pelos respectivos presidentes.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º Para efeito de distribuição dos referidos atos, cada oficial de diligência funcionará perante uma Junta de Conciliação e Julgamento.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º Nas localidades onde houver mais de uma Junta a atribuição para a realização do ato deprecado ao oficial de diligência será transferida ao oficial que funcione perante outra Junta, sempre que, após o decurso de 7 dias, não tiver sido realizado o ato, sujeitando-se o serventuário à pena, de suspensão ou de demissão, na reincidência.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 3º Para a transferência de atribuições a que alude o parágrafo anterior, adotar-se-á a, ordem circular, pela numeração das Juntas, passando para a primeira a transferência que provier da última.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 4º E’ facultado aos presidentes dos Conselhos Regionais do Trabalho cometer a qualquer oficial de diligência a realização dos atos de execução das decisões desses tribunais.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 5º Na falta, ou impedimento do oficial de diligência, o presidente da Junta poderá, atribuir a realização do ato a qualquer serventuário.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 737 - O Ministério Público do Trabalho compõe-se da Procuradoria da Justiça do Trabalho e da Procuradoria da Previdência Social aquela funcionando como órgão de coordenação entre a Justiça do Trabalho e o Ministério do Trabalho, Industria e Comercio, ambas diretamente subordinadas ao Ministro de Estado.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 746 - Compete à Procuradoria-Geral da Justiça do Trabalho:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) oficiar, por escrito, em todos os processos e questões de trabalho de competência do Tribunal Superior do Trabalho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) funcionar nas sessões do mesmo Tribunal, opinando verbalmente sobre a matéria em debate e solicitando as requisições e diligências que julgar convenientes, sendo-lhe assegurado o direito de vista do processo em julgamento sempre que for suscitada questão nova, não examinada no parecer exarado;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) requerer prorrogação das sessões do Tribunal, quando essa medida for necessária para que se ultime o julgamento;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) exarar, por intermédio do procurador-geral, o seu "ciente" nos acórdãos do Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) proceder às diligências e inquéritos solicitados pelo Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) recorrer das decisões do Tribunal, nos casos previstos em lei;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) promover, perante o Juízo competente, a cobrança executiva das multas impostas pelas autoridades administrativas e judiciárias do trabalho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) representar às autoridades competentes contra os que não cumprirem as decisões do Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+i) prestar às autoridades do Ministério do Trabalho, Industria e Comercio as informações que lhe forem solicitadas sobre os dissídios submetidos à apreciação do Tribunal e encaminhar aos órgãos competentes cópia autenticada das decisões que por eles devam ser atendidas ou cumpridas;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+j) requisitar, de quaisquer autoridades, inquéritos, exames periciais, diligências, certidões e esclarecimentos que se tornem necessários no desempenho de suas atribuições;
+l) defender a jurisdição dos órgãos da Justiça do Trabalho;
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+m) suscitar conflitos de jurisdição.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 748 - Como chefe da Procuradoria-Geral da Justiça do Trabalho, incumbe ao procurador-geral:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) dirigir os serviços da Procuradoria-Geral, orientar e fiscalizar as Procuradorias Regionais, expedindo as necessárias instruções;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) funcionar nas sessões do Tribunal Superior do Trabalho, pessoalmente ou por intermédio do procurador que designar;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) exarar o seu "ciente" nos acórdãos do Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) designar o procurador que o substitua nas faltas e impedimentos e o chefe da secretaria da Procuradoria;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) apresentar, até o dia 31 de março, ao Ministro do Trabalho, Industria e Comercio, relatório dos trabalhos da Procuradoria-Geral no ano anterior, com as observações e sugestões que julgar convenientes;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) conceder férias aos procuradores e demais funcionários que sirvam na Procuradoria e impor-lhes penas disciplinares, observada, quanto aos procuradores, a legislação em vigor para o Ministério Público Federal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) funcionar em Juízo, em primeira instancia, ou designar os procuradores que o devam fazer;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) admitir e dispensar o pessoal extranumerário da secretaria e prorrogar o expediente remunerado dos funcionários e extranumerários.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 749 - Incumbe aos procuradores com exercício na Procuradoria-Geral:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) funcionar, por designação do procurador-geral, nas sessões do Tribunal Superior do Trabalho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) desempenhar os demais encargos que lhes forem atribuídos pelo procurador-geral.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único - Aos procuradores é facultado, nos processos em que oficiarem, requerer ao procurador-geral as diligências e investigações necessárias.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 750 - Incumbe aos procuradores regionais:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) dirigir os serviços da respectiva Procuradoria;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) funcionar nas sessões do Tribunal Regional, pessoalmente ou por intermédio do procurador adjunto que designar;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) apresentar, semestralmente, ao procurador-geral, um relatório das atividades da respectiva Procuradoria, bem como dados e informações sobre a administração da Justiça do Trabalho na respectiva região;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) requerer e acompanhar perante as autoridades administrativas ou judiciárias as diligências necessárias à execução das medidas e providências ordenadas pelo procurador-geral;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) prestar ao procurador-geral as informações necessárias sobre os feitos em andamento e consultá-lo nos casos de dúvidas;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) funcionar em juízo, na sede do respectivo Tribunal Regional;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) exarar o seu "ciente" nos acórdãos do Tribunal;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) designar o procurador que o substitua nas faltas e impedimentos e o secretário da Procuradoria.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 751 - Incumbe aos procuradores adjuntos das Procuradorias Regionais:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) funcionar por designação do procurador regional, nas sessões do Tribunal Regional;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) desempenhar os demais encargos que lhes forem atribuídos pelo procurador regional.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 752 - A secretaria da Procuradoria-Geral funcionará sob a direção de um chefe designado pelo procurador-geral e terá o pessoal designado pelo Ministro do Trabalho, Industria e Comercio .
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 757 - Compete à Procuradoria da Previdência Social:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) oficiar, por escrito, nos processos que tenham de ser sujeitos à decisão do Conselho Superior de Previdência Social;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) oficiar, por escrito, nos pedidos de revisão das decisões do mesmo Conselho;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) funcionar nas sessões do mesmo Conselho, opinando verbalmente sobre a matéria em debate e solicitando as requisições e diligências que julgar convenientes, sendo-lhe assegurado o direito de vista do processo em julgamento, sempre que for suscitada questão nova, não examinada no parecer exarado;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) opinar, quando solicitada, nos processos sujeitos à deliberação do Ministro de Estado, do Conselho Tecnico do Departamento Nacional de Previdência Social ou do Diretor do mesmo Departamento, em que houver matéria jurídica a exminar;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) funcionar, em primeira instância, nas ações propostas contra a União, no Distrito Federal, para anulação de atos e decisões do Conselho Superior de Previdência Social ou do Departamento Nacional de Previdência Social, bem como do Ministro do Trabalho, Industria e Comercio, em materia de previdência social;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) fornecer ao Ministério Público as informações por este solicitadas em virtude de ações propostas nos Estados e Territórios para execução ou anulação de atos e decições dos órgãos ou da autoridade a que se refere a alínea anterior;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) promover em juízo, no Distrito Federal, qualquer procedimento necessário ao cumprimento das decisões do Conselho Superior de Previdência Social e do Departamento Nacional de Previdência Social, bem como do Ministro do Trabalho, Industria e Comercio, em matéria de previdência social;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+h) recorrer das decisões dos órgãos e autoridades competentes em matéria de previdência social e requerer revisão das decisões do Conselho Superior de Previdência Social, que lhe pareçam contrárias à lei.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 758 - Como chefe da Procuradoria da Previdência Social, incumbe ao Procurador-Geral:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) dirigir os serviços da Procuradoria, expedindo as necessárias instruções;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) funcionar nas sessões do Conselho Superior de Previdência Social, pessoalmente ou por intermédio do procurador que designar;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) designar o procurador que o substitua nas faltas e impedimentos e o chefe da Secretaria da Procuradoria;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) conceder férias aos procuradores e demais funcionários lotados na Procuradoria e impor-lhes penas disciplinares, observada, quanto aos procuradores, a legislação em vigor para o Ministério Público Feceral;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) funcionar em juízo, em primeira instância, ou designar os procuradores que devam fazê-lo;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) admitir e dispensar o pessoal extranumerário da Secretária e prorrogar o expediente renumerado dos funcionários e extranumerários;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+g) apresentar, até 31 de março de cada ano, ao Ministro do Trabalho, Industria e Comercio, o relatório dos trabalhos da Procuradoria no ano anterior, com as observações e sugestões que julgar convenientes.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 760 - A Procuradoria da Previdência Social terá uma Secretaria dirigida por um chefe designado pelo Procurador Geral.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 761 - A Secretaria terá o pessoal designado pelo Ministro do Trabalho, Industria e Comercio.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 774. Os prazos previstos neste título contam-se, conforme o caso, a partir da data em que for feita verbalmente, ou expedida, a notifìcação daquela em que fôr publicado o edital no jornal oficial ou no que publicar o expediente da Justiça do Trabalho, ou, ainda, daquela em que for afixado o edital na sede do juízo ou tribunal.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único - Tratando-se de notificação postal, no caso de não ser encontrado o destinatário ou no de recusa de recebimento, o Correio ficará obrigado, sob pena de responsabilidade do servidor, a devolvê-la, no prazo de 48 (quarenta e oito) horas, ao Tribunal de origem.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 775 - Os prazos estabelecidos neste Título contam-se com exclusão do dia do começo e inclusão do dia do vencimento, e são contínuos e irreleváveis, podendo, entretanto, ser prorrogados pelo tempo estritamente necessário pelo juiz ou tribunal, ou em virtude de força maior, devidamente comprovada.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Parágrafo único - Os prazos que se vencerem em sábado, domingo ou dia feriado, terminarão no primeiro dia útil seguinte.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 789. Nos discídios do trabalho, individuais ou coletivos, até julgamento, as custas serão calculadas, progressivalmente, de acordo com a seguinte tabela:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+a) até Cr$ 100,00 (cen cruzeiros), 10% (dez por cento);
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+b) de mais de Cr$ 100,00 (cem cruzeiros), até 500,00 (quinhentos cruzeiros), 9% (nove por cento);
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+c) de mais de Cr$ 500,00 (quinhentos cruzeiros) até Cr$ 1.000,00 (mil cruzeiros), 8% (oito por cento);
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+d) de mais de 1.000,00 (mil cruzeiros), até Cr$ 5.000,00 (cinco mil cruzeiros), 6% (seis por cento);
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+e) de mais de Cr$ 5.000,00 (cinco mil cruzeiros), até Cr$ 10.000,00 (dez mil cruzeiros), 4% (quatro por cento);
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+f) de mais de Cr$ 10.000,00 (dez mil cruzeiros), 2% (dois por cento).
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º Nas Juntas, nos Conselhos Regionais e no Conselho Nacional do Trabalho o pagamento das custas far-se-á em sêlo federal aposto aos autos. Nos Juízos de Direito, a importância das custas será dividida proporcionalmente entre o juiz e os funcionários que tiverem funcionamento no feito, excetuados os distribuidores, cujas custas serão pagas no ato, de acôrdo com o regimento local.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º A Divisão a que se refere o parágrafo anterior, as custas da execução e os emolumentos de traslados e instrumentos serão determinados em tabelas expedidas pelo Conselho Nacional do Trabalho.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 3º As custas serão calculadas da forma seguinte – quando houver acôrdo ou condenação, sôbre o respectivo valor: quando houver desistência ou arquivamento, sobre o valor do pedido; quando o valor for indeterminado, sobre o que o juíz ou presidente fixar; e, no caso de inquérito, sôbre seis vezes o salário mensal do reclamado ou dos reclamados.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 4º As custas serão pagas pelo vencido, depois de transitada em julgado a decisão ou, no caso de recurso, dentro de cinco dias da data de sua interposição, pena de deserção. Em se tratando, porem, do inquérito, o pagamento das custas competirá ao empregador, antes do seu julgamento pela Junta ou Juízo de Direito. Os emolumentos de traslado e instrumentos serão pagos dentro de 48 horas após a sua extração. Sempre que houver acordo, se de outra forma não for convencionado, o pagamento das custas será feito em partes iguais pelos litigantes.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 5º Tratando-se de empregado sindicalizado, o sindicato que houver intervindo no processo responderá solidariamente pelo pagamento das custas devidas.
+§ 6º No caso do não pagamento das custas far-se-à a execução do respectiva importância segundo o processo estabelecido no capítulo V deste titulo.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 7º É facultado aos presidentes dos tribunais do trabalho conceder ex-ofício o benefício da Justiça gratuita, inclusive quanto a traslados e instrumentos, aqueles que perceberem salário igual ou inferior ao dobro do mínimo legal ou provarem o seu estadp de miserabilidade.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 799 - Nas causas da jurisdição da Justiça do Trabalho, somente podem ser opostas, com suspensão do feito, as exceções de suspeição ou incompetência.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º - As demais exceções serão alegadas como matéria de defesa.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º - Das decisões sobre exceções de suspeição e incompetência, salvo, quanto a estas, se terminativas do feito, não caberá recurso, podendo, no entanto, as partes alegá-las novamente no recurso que couber da decisão final.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 821 - Cada uma das partes não poderá indicar mais de 3 (três) testemunhas, salvo quando se tratar de inquérito, caso em que esse número poderá ser elevado a 6 (seis).
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 851 - Os tramites de instrução e julgamento da reclamação serão resumidos em ata, de que constará, na íntegra, a decisão.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 1º - Nos processos de exclusiva alçada das Juntas, será dispensável, a juízo do presidente, o resumo dos depoimentos, devendo constar da ata a conclusão do Tribunal quanto à matéria de fato.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 864 - Não havendo acordo, ou não comparecendo ambas as partes ou uma delas, o presidente submeterá o processo a julgamento, depois de realizadas as diligências que entender necessárias e ouvida a Procuradoria.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 883. Não pagando o executado, nem garantido a execução, seguir-se-à a penhora dos bens, tantos quantos bastem ao pagamento da importância reclamlada, juros da mora e custas, aqueles contados da data da notificação inicial.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 893. Das decisões são admissíveis os seguintes recursos:
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+I – embargos;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+II– recurso ordinário;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+III – recurso extraordinário;
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+IV – àgravo.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)
+§ 2º - A interposição de recurso para o Supremo Tribunal Federal não prejudicará a execução do julgado.
+ (Incluído pelo Decreto-lei nº 8.737, de 19.1.1946)
+Art. 894. Cabem embargos das decisões definitivas das Juntas e Juízos, nos dissídios individuais concernentes a salários, férias e indenizações por rescisão do contráto de trabalho en que o valor da reclamação haja sido igual ou inferior:
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+a) a Cr$ 1.000,00 (mil cruzeiros), nas capitais dos Territórios e dos Estados do Amazonas, Pará, Maranhão, Paraíba, Piauí, Rio Grande do Norte, Alagôas, Sergipe, Mato Grsso e Goiás ou a Cr$ 500,00 (quinhentos cruzeiros), nos municípios do interior dos Territórios e dos Estados referidos;
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+b) a Cr$ 2.000,00 (dois mil cruzeiros), nas capitais dos Estados do Ceará, Pernambuco, Bahia, Espírito Santo, Paraná, Santa Catarina, Rio Grande do Sul e Minas Gerais, ou Cr$ 1.000,00 (mil cruzeiros), nos municípios do interior dêsses Estados.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Parágrafo único. Os embargos serão opostos no prazo de cinco dias e julgados, dentro de igual prazo, pelo mesmo Juízo ou Junta, sendo que, nesta, até a véspera, da inclusão na pauta, será dada vista dos autos aos vogais.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 895. Cabe recurso ordinário para a instânca superior;
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+a) das decisões definitivas das Juntas, Juízos, não previstas no artigo anterior, no prazo de dez dias;
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+b) das decisões definitivas dos Conselhos Regionais, em processos de sua competência originária, no prazo de dez dias, nos dissídios individuais, e de vinte dias, nos dissídios coletivos.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+b) das decisões definitivas dos Tribunais Regionais, em processos de sua competência originária, no prazo de 10 (dez) dias, quer nos dissídios individuais, quer nos dissídios coletivos.
+ (Redação dada pelo Decreto-lei nº 9.168, de 1946)
+Art. 896. Cabe recurso extraordinários das decisões de última instância, quando:
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+a) derem à mesma norma, jurídica interpretação diversa da que tiver sido dada por um Conselho Regional ou pelo Conselho Nacional do Trabalho;
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+b) proferidas contra a letra expressa de lei.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+§1º O recurso extraordinário, cabível, no prazo de quinze dias, para o Conselho Nacional do Trabalho, será apresentaido à autoridade recorrida, a qual poderá recebe-lo ou denegá,-lo, consoante seja o caso.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+§ 2º Recebido o recurso, a autoridade recorrida dirá o efeito em que o recebe, podendo a parte interessada, pedir carta de sentença para execução provisória, dentro do prazo de quinze dias, contados da data do despacho se este tiver dado ao recurso efeito meramente devolutivo.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+§ 3º Denegada a interposição do recurso, poderá o requerente interpor agravo de instrumento, no prazo de cinco dias, para o Conselho Nacional do Trabalho.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 897. Cabae agravo:
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+a) de petição, as decisões do juíz, ou presidente, nas execuções:
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+b) de instrumento, dos despachos que denegarem a interposição de recursos.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+§ 1º O agravo será interposto no prazo de cinco dias e não terá efeito suspensivo, sendo facultado, porém ao juíz, ou presidente, sobrestar, quando julgar conveniente, o andamento do feito, até julgamento do recurso.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 899. Os recursos serão interpostos por sirnples petição e terão efeito meramente devolutivo, salvo as excessões previstas neste título, sendo permitida a execução provisória, até a penhora.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Paragrafo único. Tratando-se porém, de reclamação sobre férias, salários ou contrato individual de trababalho, de valor até Cr$ 5.000,00 (cinco mil cruzeiros), só serão admitidos recursos, inclusive extraordinários mediante prova de depósito da importância da condenação. Nesse caso, transitada em julgado a decisão recorrida, será ordenado, desde logo, o levantamento do depósito em favor da parte vencedora.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 902. É facultado ao Conselho Nacional do Trabalho estabelecer prejulgados, na forma que prescrever o seu regimento interno.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+§ 1º Uma vez estabelecido o prejulgado, aos Conselhos Regionais do Trabalho, as Juntas de Conciliação e Julgamento e o Juizes de Direito investidos da jurisdição a Justiça do trabalho ficarão obrigados a respeitá-lo.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+§ 2º Considera-se revogado ou reformado a prejulgado sempre que o Conselho Nacional do Trabalho funcionando completo, pronunciar-se, em tese ou em concreto, sobre a hipótese do prejulgado firmando nova interpretação. Em tais casos, o acórdão fará remissão expressa à alteração ou revogação do prejulgado.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 903. As penalidades estabelecidas no título anterior serão aplicadas pelo juiz, ou tribunal que tiver de conhecer da desobediência, violção recusa, falta, ou coação, ex-offício, ou mediante, representação de qualquer interessado ou da Procuradoria da Justiça do Trabalho.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 904. As sanções em que incorrerem as autoridades da Justiça do Trabalho serão aplicadas pela autoridade ou tribunal imediatamente superior, conforme o caso, ex-officio, ou mediante representação de qualquer interessado ou da Procuradoria.
+§ 1º Tratando-se de membro do Conselho Nacional do Trabalho será competente para a imposição de sanções o Senado Federal.
+§ 2º Enquanto não estiver organizado e funcionando o Senado Federal, será competente para a imposição de sanções o Presidente da República.
+ (Redação dada pela Decreto Lei nº 8.737, de 1946)
+Art. 904 - As sanções em que incorrerem as autoridades da Justiça do Trabalho serão aplicadas pela autoridade ou Tribunal imediatamente superior, conforme o caso, ex officio, ou mediante representação de qualquer interessado ou da Procuradoria.
+ (Redação dada pelo Decreto-lei nº 8.737, de 19.1.1946)

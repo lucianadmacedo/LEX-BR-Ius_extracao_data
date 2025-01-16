@@ -16,8 +16,8 @@ def clean_xml(input_file, output_file):
         print(f"XML Syntax Error: {e}")
 
 # Specify input and output files
-input_file = 'annotated_tags.xml'
-output_file = 'annotated_tags.xml'
+input_file = 'tags_com_ano.xml'
+output_file = 'tags_com_ano.xml'
 
 # Run the cleaning function
 clean_xml(input_file, output_file)

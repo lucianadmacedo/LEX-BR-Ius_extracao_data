@@ -1,29 +1,30 @@
-import xml.etree.ElementTree as ET
 import re
 from pathlib import Path
 
 def extract_texts_by_year(xml_file):
-    # Load the XML file
-    tree = ET.parse(xml_file)
-    root = tree.getroot()
+    # Read the file content as a string
+    try:
+        with open(xml_file, 'r', encoding='utf-8') as file:
+            content = file.read()
+    except FileNotFoundError:
+        print(f"File {xml_file} not found.")
+        return
+
+    # Use regex to match all <modificacao_YEAR> tags and their content
+    pattern = r"<modificacao_(\d{4})>(.*?)</modificacao_\1>"
+    matches = re.findall(pattern, content, flags=re.DOTALL)
 
     # Create a dictionary to hold the extracted texts by year
     texts_by_year = {}
 
-    # Loop through all elements in the XML file
-    for elem in root.iter():
-        # Check if the tag matches the pattern 'modificacao_YYYY'
-        match = re.match(r'modificacao_(\d{4})', elem.tag)
-        if match:
-            year = match.group(1)
-            # Get the text inside the tag
-            text = elem.text.strip() if elem.text else ''
-            # Add the text to the dictionary
-            if year not in texts_by_year:
-                texts_by_year[year] = []
-            texts_by_year[year].append(text)
+    # Organize matches into the dictionary
+    for year, text in matches:
+        text = text.strip()  # Remove leading and trailing whitespace
+        if year not in texts_by_year:
+            texts_by_year[year] = []
+        texts_by_year[year].append(text)
 
-    # Save the extracted texts to separate files
+    # Save the extracted texts to separate files by year
     for year, texts in texts_by_year.items():
         file_path = Path(f'modificacao_{year}.txt')
         with file_path.open('w', encoding='utf-8') as f:
@@ -33,4 +34,4 @@ def extract_texts_by_year(xml_file):
     print(f"Extracted texts have been saved into separate files by year.")
 
 # Example usage
-extract_texts_by_year('tags_com_ano.xml')
+extract_texts_by_year('modificacao_tags_extracted.xml')

@@ -1,7 +1,26 @@
-§ 2º - O empregado-estudante, menor de 18 anos, terá direito a fazer coincidir suas férias com as férias escolares, se assim o desejar. (Incluído pela Lei nº 6.211, de 1975)
-Art. 453 - No tempo de serviço do empregado, quando readmitido, serão computados os períodos, ainda que não contínuos, em que tiver trabalhado anteriormente na empresa, salvo se houver sido despedido por falta grave, recebido indenização legal ou se aposentado espontaneamente. (Redação dada pela Lei nº 6.204, de 29.4.1975)
-§ 1º - Não estão compreendidos na proibição deste artigo: os empregados que exerçam cargo de confiança e aqueles cujos contratos tenham como condição, implícita ou explícita, a transferência, quando esta decorra de real necessidade de serviço. (Redação dada pela Lei nº 6.203, de 17.4.1975)
-Art. 470 - As despesas resultantes da transferência correrão por conta do empregador. (Redação dada pela Lei nº 6.203, de 17.4.1975)
-d) sempre que possível, e de acordo com as suas possibilidades, manter no seu quadro de pessoal, em convênio com entidades assistenciais ou por conta própria, um assistente social com as atribuições específicas de promover a cooperação operacional na empresa e a integração profissional na Classe. (Incluída pela Lei nº 6.200, de 16.4.1975)
-IX - conceder medida liminar, até decisão final do processo, em reclamações trabalhistas que visem a tornar sem efeito transferência disciplinada pelos parágrafos do artigo 469 desta Consolidação. (Incluído pela Lei nº 6.203, de 17.4.1975)
-Art. 697 - Em caso de licença, superior a trinta dias, ou de vacância, enquanto não for preenchido o cargo, os Ministros do Tribunal poderão ser substituídos mediante convocação de Juízes, de igual categoria, de qualquer dos Tribunais Regionais do Trabalho, na forma que dispuser o Regimento do Tribunal Superior do Trabalho. (Redação dada pela Lei nº 6.289, de 11.12.1975)
+§ 2º - O empregado-estudante, menor de 18 anos, terá direito a fazer coincidir suas férias com as férias escolares, se assim o desejar.
+ (Incluído pela Lei nº 6.211, de 1975)
+Art. 453 - No tempo de serviço do empregado, quando readmitido, serão computados os períodos, ainda que não contínuos, em que tiver trabalhado anteriormente na empresa, salvo se houver sido despedido por falta grave, recebido indenização legal ou se aposentado espontaneamente.
+ (Redação dada pela Lei nº 6.204, de 29.4.1975)
+§ 1º - Não estão compreendidos na proibição deste artigo: os empregados que exerçam cargo de confiança e aqueles cujos contratos tenham como condição, implícita ou explícita, a transferência, quando esta decorra de real necessidade de serviço.
+ (Redação dada pela Lei nº 6.203, de 17.4.1975)
+§ 2º - É licita a transferência quando ocorrer extinção do estabelecimento em que trabalhar o empregado.
+§ 3º - Em caso de necessidade de serviço o empregador poderá transferir o empregado para localidade diversa da que resultar do contrato, não obstante as restrições do artigo anterior, mas, nesse caso, ficará obrigado a um pagamento suplementar, nunca inferior a 25% (vinte e cinco por cento) dos salários que o empregado percebia naquela localidade, enquanto durar essa situação.
+ (Parágrafo incluído pela Lei nº 6.203, de 17.4.1975)
+Art. 470 - As despesas resultantes da transferência correrão por conta do empregador.
+ (Redação dada pela Lei nº 6.203, de 17.4.1975)
+d) sempre que possível, e de acordo com as suas possibilidades, manter no seu quadro de pessoal, em convênio com entidades assistenciais ou por conta própria, um assistente social com as atribuições específicas de promover a cooperação operacional na empresa e a integração profissional na Classe.
+ (Incluída pela Lei nº 6.200, de 16.4.1975)
+Art. 659 - Competem privativamente aos Presidentes das Juntas, além das que lhes forem conferidas neste Título e das decorrentes de seu cargo, as seguintes atribuições:
+I - presidir às audiências das Juntas;
+II - executar as suas próprias decisões, as proferidas pela Junta e aquelas cuja execução lhes for deprecada;
+III - dar posse aos vogais nomeados para a Junta, ao Secretário e aos demais funcionários da Secretaria;
+IV - convocar os suplentes dos vogais, no impedimento destes;
+V - representar ao Presidente do Tribunal Regional da respectiva jurisdição, no caso de falta de qualquer vogal a 3 (três) reuniões consecutivas, sem motivo justificado, para os fins do art. 727;
+VI - despachar os recursos interpostos pelas partes, fundamentando a decisão recorrida antes da remessa ao Tribunal Regional, ou submetendo-os à decisão da Junta, no caso do art. 894;
+VII - assinar as folhas de pagamento dos membros e funcionários da Junta;
+VlIl - apresentar ao Presidente do Tribunal Regional, até 15 de fevereiro de cada ano, o relatório dos trabalhos do ano anterior;
+IX - conceder medida liminar, até decisão final do processo, em reclamações trabalhistas que visem a tornar sem efeito transferência disciplinada pelos parágrafos do artigo 469 desta Consolidação.
+ (Incluído pela Lei nº 6.203, de 17.4.1975)
+Art. 697 - Em caso de licença, superior a trinta dias, ou de vacância, enquanto não for preenchido o cargo, os Ministros do Tribunal poderão ser substituídos mediante convocação de Juízes, de igual categoria, de qualquer dos Tribunais Regionais do Trabalho, na forma que dispuser o Regimento do Tribunal Superior do Trabalho.
+ (Redação dada pela Lei nº 6.289, de 11.12.1975)

@@ -1,48 +1,127 @@
-(Incluído pela Lei nº 5.381, de 9.2.1968)
-§ 2º Enquanto não se verificarem as circunstâncias mencionadas neste artigo, vigorará nos municípios que se criarem o salário-mínimo fixado para os municpios de que tenham sido desmembrados. (Incluído pela Lei nº 5.381, de 9.2.1968)
-§ 5º Para fins de instrução de processo judicial, a caracterização e classificação de insalubridade serão feitas exclusivamente por médico-perito, preferentemente especializado em saúde pública ou higiene industrial, designado pela autoridade judiciária, observadas as normas fixadas no presente artigo. (Incluído pela Lei 5.431, de 1968)
-(Redação dada pela Lei nº 5.562, de 12.12.1968)
-Art. 510 - Pela infração das proibições constantes deste Título, será imposta à empresa a multa de valor igual a 1 (um) salário mínimo regional, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais. (Redação dada pela Lei nº 5.562, de 12.12.1968)
-Art. 650 - A jurisdição de cada Junta de Conciliação e Julgamento abrange todo o território da Comarca em que tem sede, só podendo ser estendida ou restringida por lei federal. (Redação dada pela Lei nº 5.442, 24.5.1968)
-Art. 656. Na falta ou impedimento do Juiz Presidente, e como auxiliar dêste, funcionará o Juiz Substituto. (Redação dada pela Lei nº 5.442, 24.5.1968)
-Parágrafo único. A designação dos substitutos será feita pelo Presidente do Tribunal Regional do Trabalho, assegurado o rodízio obrigatório dos integrantes do Quadro. (Incluído pela Lei nº 5.442, 24.5.1968)
-Art. 670 - Os Tribunais Regionais das 1ª e 2ª Regiões compor-se-ão de onze juízes togados, vitalícios, e de seis juízes classistas, temporários; os da 3ª e 4ª Regiões, de oito juízes togados, vitalícios, e de quatro classistas, temporários; os da 5ª e 6ª Regiões, de sete juízes togados, vitalícios e de dois classistas, temporários; os da 7ª e 8ª Regiões, de seis juízes togados, vitalícios, e de dois classistas, temporários, todos nomeados pelo Presidente da República. (Redação dada pela Lei nº 5.442, 24.5.1968)
-(VETADO) (Incluído pela Lei nº 5.442, de 24.5.1968)
-(VETADO) (Incluído pela Lei nº 5.442, de 24.5.1968)
-(VETADO) (Incluído pela Lei nº 5.442, de 24.5.1968)
-(VETADO) (Incluído pela Lei nº 5.442, de 24.5.1968)
-(VETADO) (Incluído pela Lei nº 5.442, de 24.5.1968)
-(VETADO) (Incluído pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 672 - Os Tribunais Regionais, em sua composição plena, deliberarão com a presença, além do Presidente, da metade e mais um, do número de seus juízes, dos quais, no mínimo, um representante dos empregados e outro dos empregadores. (Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 678 - Aos Tribunais Regionais, quando divididos em Turmas, compete: (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 2º Enquanto não se verificarem as circunstâncias mencionadas neste artigo, vigorará nos municípios que se criarem o salário-mínimo fixado para os municpios de que tenham sido desmembrados.
+ (Incluído pela Lei nº 5.381, de 9.2.1968)
+§ 3º No caso de novos municípios formados pelo desmembramento de mais de um município, vigorará neles, até que se verifiquem as referidas circunstâncias, o maior salário-mínimo estabelecido para os municpios que lhes deram origem.
+ (Incluído pela Lei nº 5.381, de 9.2.1968)
+§ 5º Para fins de instrução de processo judicial, a caracterização e classificação de insalubridade serão feitas exclusivamente por médico-perito, preferentemente especializado em saúde pública ou higiene industrial, designado pela autoridade judiciária, observadas as normas fixadas no presente artigo.
+ (Incluído pela Lei 5.431, de 1968)
+§ 1º O pedido de demissão ou recibo de quitação de rescisão de contato de trabalho firmado por empregado com mais de 90 (noventa) dias de serviço só será válido quando feito com a assistência do respectivo sindicato ou perante a autoridade do Ministério do Trabalho e Previdência Social ou da Justiça do Trabalho.
+ (Incluído pela Lei nº 5.562, de 12.12.1968
+§ 2º No têrmo de rescisão ou recibo de quitação, qualquer que seja a causa ou forma de dissolução do contrato, deve ser especificada a natureza de cada parcela paga ao empregado e discriminado o seu valor, sendo válida a quitação, apenas, relativamente às mesmas parcelas.
+ (Incluído pela Lei nº 5.562, de 12.12.1968
+§ 3º Quando não existir na localidade nenhum dos órgãos previstos neste artigo, a assistência será prestada pelo Representante do Ministério Público ou, onde houver, pelo defensor público e, na falta ou impedimento dêstes, pelo Juiz de Paz.
+ (Incluído pela Lei nº 5.562, de 12.12.1968
+Art. 510 - Pela infração das proibições constantes deste Título, será imposta à empresa a multa de valor igual a 1 (um) salário mínimo regional, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais.
+ (Redação dada pela Lei nº 5.562, de 12.12.1968)
+Art. 510 - Pela infração das proibições constantes deste Título, será imposta à empresa a multa de valor igual a 1 (um) salário mínimo regional, elevada ao dobro, no caso de reincidência, sem prejuízo das demais cominações legais.
+ (Redação dada pela Lei nº 5.562, de 12.12.1968)
+Art. 650 - A jurisdição de cada Junta de Conciliação e Julgamento abrange todo o território da Comarca em que tem sede, só podendo ser estendida ou restringida por lei federal.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+Parágrafo único. As leis locais de Organização Judiciária não influirão sôbre a competência de Juntas de Conciliação e Julgamento já criadas até que lei federal assim determine.
+ (Parágrafo incluído pela Lei nº 5.442, 24.5.1968)
+Art. 656. Na falta ou impedimento do Juiz Presidente, e como auxiliar dêste, funcionará o Juiz Substituto.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+Parágrafo único. A designação dos substitutos será feita pelo Presidente do Tribunal Regional do Trabalho, assegurado o rodízio obrigatório dos integrantes do Quadro.
+ (Incluído pela Lei nº 5.442, 24.5.1968)
+Art. 670 - Os Tribunais Regionais das 1ª e 2ª Regiões compor-se-ão de onze juízes togados, vitalícios, e de seis juízes classistas, temporários; os da 3ª e 4ª Regiões, de oito juízes togados, vitalícios, e de quatro classistas, temporários; os da 5ª e 6ª Regiões, de sete juízes togados, vitalícios e de dois classistas, temporários; os da 7ª e 8ª Regiões, de seis juízes togados, vitalícios, e de dois classistas, temporários, todos nomeados pelo Presidente da República.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
 (Incluído pela Lei nº 5.442, de 24.5.1968)
-(Incluído pela Lei nº 5.442, de 24.5.1968)
-I - ao Tribunal Pleno, especialmente: (Incluído pela Lei nº 5.442, de 24.5.1968)
-Art. 679 - Aos Tribunais Regionais não divididos em Turmas, compete o julgamento das matérias a que se refere o artigo anterior, exceto a de que trata o inciso I da alínea c do Item I, como os conflitos de jurisdição entre Turmas. (Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 693 - O Tribunal Superior do Trabalho compõe-se de dezessete juízes com a denominação de Ministros, sendo: (Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 721 - Incumbe aos Oficiais de Justiça e Oficiais de Justiça Avaliadores da Justiça do Trabalho a realização dos atos decorrentes da execução dos julgados das Juntas de Conciliação e Julgamento e dos Tribunais Regionais do Trabalho, que lhes forem cometidos pelos respectivos Presidentes. (Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-b) das decisões das Turmas contrárias à letra de lei federal, ou que divergirem entre si, ou da decisão proferida pelo Tribunal Pleno, salvo se a decisão recorrida estiver em consonância com prejulgado, ou com jurisprudência uniforme do Tribunal Superior do Trabalho. (Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 894 Cabem embargos, no Tribunal Superior do Trabalho, para o Pleno, no prazo de 5 (cinco) dias a contar da publicação da conclusão do acórdão: (Redação dada pela Lei nº 5.442, de 24.5.1968)
-a) das decisões definitivas das Juntas e Juízos, no prazo de 10 (dez) dias; (Redação dada pela Lei nº 5.442, de 1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-a) derem ao mesmo dispositivo legal a interpretação diversa da que lhe houver dado o mesmo ou outro Tribunal Regional, através do Pleno ou de Turma, ou o Tribunal Superior do Trabalho, em sua composição plena, salvo se a decisão recorrida estiver em consonância com prejulgado ou jurisprudência uniforme dêste; (Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 896. Cabe recurso de revista das decisões de última instância, quando: (Redação dada pela Lei nº 5.442, de 24.5.1968)
-Art. 899 - Os recursos serão interpostos por simples petição e terão efeito meramente devolutivo, salvo as exceções previstas neste Título, permitida a execução provisória até a penhora. (Redação dada pela Lei nº 5.442, de 24.5.1968)
-(Redação dada pela Lei nº 5.442, 24.5.1968)
-§ 1º Sendo a condenação de valor até 10 (dez) vêzes o salário-mínimo regional, nos dissídios individuais, só será admitido o recurso inclusive o extraordinário, mediante prévio depósito da respectiva importância. Transitada em julgado a decisão recorrida, ordenar-se-á o levantamento imediato da importância de depósito, em favor da parte vencedora, por simples despacho do juiz. (Redação dada pela Lei nº 5.442, 24.5.1968)
-§ 3º - Na hipótese de se discutir, no recurso, matéria já decidida através de prejulgado do Tribunal Superior do Trabalho, o depósito poderá levantar-se, de imediato, pelo vencedor. (Redação dada pela Lei nº 5.442, 24.5.1968)
-§ 4º - O depósito de que trata o § 1º far-se-á na conta vinculada do empregado a que se refere o art. 2º da Lei nº 5.107, de 13 de setembro de 1966, aplicando-se-lhe os preceitos dessa Lei observado, quanto ao respectivo levantamento, o disposto no § 1º. (Redação dada pela Lei nº 5.442, 24.5.1968)
-§ 5º - Se o empregado ainda não tiver conta vinculada aberta em seu nome, nos termos do art. 2º da Lei nº 5.107, de 13 de setembro de 1966, a empresa procederá à respectiva abertura, para efeito do disposto no § 2º. (Redação dada pela Lei nº 5.442, 24.5.1968)
-§ 6º - Quando o valor da condenação, ou o arbitrado para fins de custas, exceder o limite de 10 (dez) vêzes o salário-mínimo da região, o depósito para fins de recursos será limitado a êste valor. (Incluído pela Lei nº 5.442, 24.5.1968)
+§ 4º Os juízes classistas referidos neste artigo representarão, paritàriamente, empregadores e empregados.
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+§ 5º Haverá um suplente para cada Juiz classista.
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+§ 6º Os Tribunais Regionais, no respectivo regimento interno, disporão sôbre a substituição de seus juízes, observados, na convocação de juízes inferiores, os critérios de livre escolha e antigüidade, alternadamente.
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+§ 7º Dentre os seus juízes togados, os Tribunais Regionais elegerão os respectivos Presidente e Vice-Presidente, assim como os Presidentes de Turmas, onde as houver.
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+§ 8º Os Tribunais Regionais da 1ª e 2ª Regiões dividir-se-ão em Turmas, facultada essa divisão aos constituídos de pelo menos, doze juízes. Cada turma se comporá de três juízes togados e dois classistas, um representante dos empregados e outro dos empregadores.
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+Art. 672 - Os Tribunais Regionais, em sua composição plena, deliberarão com a presença, além do Presidente, da metade e mais um, do número de seus juízes, dos quais, no mínimo, um representante dos empregados e outro dos empregadores.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 1º As Turmas somente poderão deliberar presentes, pelo menos, três dos seus juízes, entre êles os dois classistas. Para a integração dêsse quorum, poderá o Presidente de uma Turma convocar juízes de outra, da classe a que pertencer o ausente ou impedido.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 2º Nos Tribunais Regionais, as decisões tomar-se-ão pelo voto da maioria dos juízes presentes, ressalvada, no Tribunal Pleno, a hipótese de declaração de inconstitucionalidade de lei ou ato do poder público (artigo 111 da Constituição).
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 3º O Presidente do Tribunal Regional, excetuada a hipótese de declaração de inconstitucionalidade de lei ou ato do poder público, sòmente terá voto de desempate. Nas sessões administrativas, o Presidente votará como os demais juízes, cabendo-lhe, ainda, o voto de qualidade.
+ (Parágrafo incluído pela Lei nº 5.442, de 24.5.1968)
+§ 4º No julgamento de recursos contra decisão ou despacho do Presidente, do Vice-Presidente ou de Relator, ocorrendo empate, prevalecerá a decisão ou despacho recorrido.
+ (Parágrafo incluído pela Lei nº 5.442, de 24.5.1968)
+Art. 678 - Aos Tribunais Regionais, quando divididos em Turmas, compete:
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+I - ao Tribunal Pleno, especialmente:
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+a) processar, conciliar e julgar originàriamente os dissídios coletivos;
+b) processar e julgar originàriamente:
+1) as revisões de sentenças normativas;
+2) a extensão das decisões proferidas em dissídios coletivos;
+3) os mandados de segurança;
+4) as impugnações à investidura de vogais e seus suplentes nas Juntas de Conciliação e Julgamento;
+c) processar e julgar em última instância:
+1) os recursos das multas impostas pelas Turmas;
+2) as ações rescisórias das decisões das Juntas de Conciliação e Julgamento, dos juízes de direito investidos na jurisdição trabalhista, das Turmas e de seus próprios acórdãos;
+3) os conflitos de jurisdição entre as suas Turmas, os juízes de direito investidos na jurisdição trabalhista, as Juntas de Conciliação e Julgamento, ou entre aquêles e estas;
+d) julgar em única ou última instâncias:
+1) os processos e os recursos de natureza administrativa atinentes aos seus serviços auxiliares e respectivos servidores;
+2) as reclamações contra atos administrativos de seu presidente ou de qualquer de seus membros, assim como dos juízes de primeira instância e de seus funcionários.
+II - às Turmas:
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+a) julgar os recursos ordinários previstos no art. 895, alínea a ;
+b) julgar os agravos de petição e de instrumento, êstes de decisões denegatórias de recursos de sua alçada;
+c) impor multas e demais penalidades relativas e atos de sua competência jurisdicional, e julgar os recursos interpostos das decisões das Juntas dos juízes de direito que as impuserem.
+Parágrafo único. Das decisões das Turmas não caberá recurso para o Tribunal Pleno, exceto no caso do item I, alínea "c" , inciso 1, dêste artigo.
+ (Incluído pela Lei nº 5.442, de 24.5.1968)
+Art. 679 - Aos Tribunais Regionais não divididos em Turmas, compete o julgamento das matérias a que se refere o artigo anterior, exceto a de que trata o inciso I da alínea c do Item I, como os conflitos de jurisdição entre Turmas.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+Art. 680. Compete, ainda, aos Tribunais Regionais, ou suas Turmas:
+ (Restabelecido com nova redação pela Lei nº 5.442, de 24.5.1968)
+Art. 693 - O Tribunal Superior do Trabalho compõe-se de dezessete juízes com a denominação de Ministros, sendo:
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+a) onze togados e vitalícios, nomeados pelo Presidente da República, depois de aprovada a escolha pelo Senado Federal, dentre brasileiros natos, maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada;
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+b) seis classistas, com mandato de três anos, em representação paritária dos empregadores e dos empregados, nomeados pelo Presidente da República de conformidade com o disposto nos §§ 2º e 3º dêste artigo.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+Art. 694 - Os juízes togados escolher-se-ão: sete, dentre magistrados da Justiça do Trabalho, dois, dentre advogados no efetivo exercício da profissão, e dois, dentre membros do Ministério Público da União junto à Justiça do Trabalho.
+ (Restabelecido com nova redação dada pela Lei nº 5.442, de 24.5.1968)
+Art. 721 - Incumbe aos Oficiais de Justiça e Oficiais de Justiça Avaliadores da Justiça do Trabalho a realização dos atos decorrentes da execução dos julgados das Juntas de Conciliação e Julgamento e dos Tribunais Regionais do Trabalho, que lhes forem cometidos pelos respectivos Presidentes.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 1º Para efeito de distribuição dos referidos atos, cada Oficial de Justiça ou Oficial de Justiça Avaliador funcionará perante uma Junta de Conciliação e Julgamento, salvo quando da existência, nos Tribunais Regionais do Trabalho, de órgão específico, destinado à distribuição de mandados judiciais.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 2º Nas localidades onde houver mais de uma Junta, respeitado o disposto no parágrafo anterior, a atribuição para o cumprimento do ato deprecado ao Oficial de Justiça ou Oficial de Justiça Avaliador será transferida a outro Oficial, sempre que, após o decurso de 9 (nove) dias, sem razões que o justifiquem, não tiver sido cumprido o ato, sujeitando-se o serventuário às penalidades da lei.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 3º No caso de avaliação, terá o Oficial de Justiça Avaliador, para cumprimento da ato, o prazo previsto no art. 888.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 4º É facultado aos Presidentes dos Tribunais Regionais do Trabalho cometer a qualquer Oficial de Justiça ou Oficial de Justiça Avaliador a realização dos atos de execução das decisões dêsses Tribunais.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 5º Na falta ou impedimento do Oficial de Justiça ou Oficial de Justiça Avaliador, o Presidente da Junta poderá atribuir a realização do ato a qualquer serventuário.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+Art. 894 Cabem embargos, no Tribunal Superior do Trabalho, para o Pleno, no prazo de 5 (cinco) dias a contar da publicação da conclusão do acórdão:
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+a) das decisões a que se referem as alíneas b e c do inciso I do art. 702;
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+b) das decisões das Turmas contrárias à letra de lei federal, ou que divergirem entre si, ou da decisão proferida pelo Tribunal Pleno, salvo se a decisão recorrida estiver em consonância com prejulgado, ou com jurisprudência uniforme do Tribunal Superior do Trabalho.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+Parágrafo único. Enquanto não forem nomeados e empossados os titulares dos novos cargos de juiz, criados nesta Lei, e instaladas as Turmas, fica mantida a competência residual de cada Tribunal na sua atual composição e de seus Presidentes, como definido na legislação vigente.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+a) das decisões definitivas das Juntas e Juízos, no prazo de 10 (dez) dias;
+ (Redação dada pela Lei nº 5.442, de 1968)
+Art. 896. Cabe recurso de revista das decisões de última instância, quando:
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+a) derem ao mesmo dispositivo legal a interpretação diversa da que lhe houver dado o mesmo ou outro Tribunal Regional, através do Pleno ou de Turma, ou o Tribunal Superior do Trabalho, em sua composição plena, salvo se a decisão recorrida estiver em consonância com prejulgado ou jurisprudência uniforme dêste;
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+b) proferidas com violação de literal disposição de lei ou de sentença normativa.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 4º Das decisões proferidas pelos Tribunais Regionais, ou por suas Turmas, em execução de sentença, não caberá recurso de revista para o Tribunal Superior do Trabalho.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+Art. 899 - Os recursos serão interpostos por simples petição e terão efeito meramente devolutivo, salvo as exceções previstas neste Título, permitida a execução provisória até a penhora.
+ (Redação dada pela Lei nº 5.442, de 24.5.1968)
+§ 1º Sendo a condenação de valor até 10 (dez) vêzes o salário-mínimo regional, nos dissídios individuais, só será admitido o recurso inclusive o extraordinário, mediante prévio depósito da respectiva importância. Transitada em julgado a decisão recorrida, ordenar-se-á o levantamento imediato da importância de depósito, em favor da parte vencedora, por simples despacho do juiz.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+§ 2º Tratando-se de condenação de valor indeterminado, o depósito corresponderá ao que fôr arbitrado, para efeito de custas, pela Junta ou Juízo de Direito, até o limite de 10 (dez) vêzes o salário-mínimo da região.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+§ 3º - Na hipótese de se discutir, no recurso, matéria já decidida através de prejulgado do Tribunal Superior do Trabalho, o depósito poderá levantar-se, de imediato, pelo vencedor.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+§ 4º - O depósito de que trata o § 1º far-se-á na conta vinculada do empregado a que se refere o art. 2º da Lei nº 5.107, de 13 de setembro de 1966, aplicando-se-lhe os preceitos dessa Lei observado, quanto ao respectivo levantamento, o disposto no § 1º.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+§ 5º - Se o empregado ainda não tiver conta vinculada aberta em seu nome, nos termos do art. 2º da Lei nº 5.107, de 13 de setembro de 1966, a empresa procederá à respectiva abertura, para efeito do disposto no § 2º.
+ (Redação dada pela Lei nº 5.442, 24.5.1968)
+§ 6º - Quando o valor da condenação, ou o arbitrado para fins de custas, exceder o limite de 10 (dez) vêzes o salário-mínimo da região, o depósito para fins de recursos será limitado a êste valor.
+ (Incluído pela Lei nº 5.442, 24.5.1968)

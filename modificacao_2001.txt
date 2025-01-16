@@ -1,45 +1,107 @@
-(Incluído pela Lei nº 10.270, de 29.8.2001)
-§ 5o O descumprimento do disposto no § 4o deste artigo submeterá o empregador ao pagamento de multa prevista no art. 52 deste Capítulo. (Incluído pela Lei nº 10.270, de 29.8.2001)
-§ 4o É vedado ao empregador efetuar anotações desabonadoras à conduta do empregado em sua Carteira de Trabalho e Previdência Social. (Incluído pela Lei nº 10.270, de 29.8.2001)
-Art. 58-A. Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a vinte e cinco horas semanais. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-§ 1o O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-§ 2o Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
-§ 4o Os empregados sob o regime de tempo parcial não poderão prestar horas extras. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-Art. 130-A. Na modalidade do regime de tempo parcial, após cada período de doze meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção: (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-§ 3o O disposto neste artigo não se aplica aos empregados sob o regime de tempo parcial. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-§ 2o Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador: (Redação dada pela Lei nº 10.243, de 19.6.2001)
+§ 4o É vedado ao empregador efetuar anotações desabonadoras à conduta do empregado em sua Carteira de Trabalho e Previdência Social.
+ (Incluído pela Lei nº 10.270, de 29.8.2001)
+§ 5o O descumprimento do disposto no § 4o deste artigo submeterá o empregador ao pagamento de multa prevista no art. 52 deste Capítulo.
+ (Incluído pela Lei nº 10.270, de 29.8.2001)
+§ 5o O descumprimento do disposto no § 4o deste artigo submeterá o empregador ao pagamento de multa prevista no art. 52 deste Capítulo.
+ (Incluído pela Lei nº 10.270, de 29.8.2001)
+Art. 58 - A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+§ 1o Não serão descontadas nem computadas como jornada extraordinária as variações de horário no registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários.
+ (Parágrafo incluído pela Lei nº 10.243, de 19.6.2001)
+§ 2o O tempo despendido pelo empregado até o local de trabalho e para o seu retorno, por qualquer meio de transporte, não será computado na jornada de trabalho, salvo quando, tratando-se de local de difícil acesso ou não servido por transporte público, o empregador fornecer a condução.
+ (Parágrafo incluído pela Lei nº 10.243, de 19.6.2001)
+Art. 58-A. Considera-se trabalho em regime de tempo parcial aquele cuja duração não exceda a vinte e cinco horas semanais.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 1o O salário a ser pago aos empregados sob o regime de tempo parcial será proporcional à sua jornada, em relação aos empregados que cumprem, nas mesmas funções, tempo integral.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 2o Para os atuais empregados, a adoção do regime de tempo parcial será feita mediante opção manifestada perante a empresa, na forma prevista em instrumento decorrente de negociação coletiva.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 2o Poderá ser dispensado o acréscimo de salário se, por força de acordo ou convenção coletiva de trabalho, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia, de maneira que não exceda, no período máximo de um ano, à soma das jornadas semanais de trabalho previstas, nem seja ultrapassado o limite máximo de dez horas diárias.
+ (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
+§ 4o Os empregados sob o regime de tempo parcial não poderão prestar horas extras.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+Art. 130-A. Na modalidade do regime de tempo parcial, após cada período de doze meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção:
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+I - dezoito dias, para a duração do trabalho semanal superior a vinte e duas horas, até vinte e cinco horas;
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+II - dezesseis dias, para a duração do trabalho semanal superior a vinte horas, até vinte e duas horas;
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+III - quatorze dias, para a duração do trabalho semanal superior a quinze horas, até vinte horas;
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+IV - doze dias, para a duração do trabalho semanal superior a dez horas, até quinze horas;
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+V - dez dias, para a duração do trabalho semanal superior a cinco horas, até dez horas;
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+VI - oito dias, para a duração do trabalho semanal igual ou inferior a cinco horas.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+Parágrafo único. O empregado contratado sob o regime de tempo parcial que tiver mais de sete faltas injustificadas ao longo do período aquisitivo terá o seu período de férias reduzido à metade.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 3o O disposto neste artigo não se aplica aos empregados sob o regime de tempo parcial.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 2o Para os efeitos previstos neste artigo, não serão consideradas como salário as seguintes utilidades concedidas pelo empregador:
+ (Redação dada pela Lei nº 10.243, de 19.6.2001)
+I – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço;
+ (Incluído pela Lei nº 10.243, de 19.6.2001)
+II – educação, em estabelecimento de ensino próprio ou de terceiros, compreendendo os valores relativos a matrícula, mensalidade, anuidade, livros e material didático;
+ (Incluído pela Lei nº 10.243, de 19.6.2001)
+III – transporte destinado ao deslocamento para o trabalho e retorno, em percurso servido ou não por transporte público;
+ (Incluído pela Lei nº 10.243, de 19.6.2001)
+IV – assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde;
+ (Incluído pela Lei nº 10.243, de 19.6.2001)
+V – seguros de vida e de acidentes pessoais;
+ (Incluído pela Lei nº 10.243, de 19.6.2001)
+VI – previdência privada;
+ (Incluído pela Lei nº 10.243, de 19.6.2001)
 (Incluído pela Lei nº 10.243, de 19.6.2001)
-(Incluído pela Lei nº 10.243, de 19.6.2001)
-(Incluído pela Lei nº 10.243, de 19.6.2001)
-(Incluído pela Lei nº 10.243, de 19.6.2001)
-(Incluído pela Lei nº 10.243, de 19.6.2001)
-(Incluído pela Lei nº 10.243, de 19.6.2001)
-I – vestuários, equipamentos e outros acessórios fornecidos aos empregados e utilizados no local de trabalho, para a prestação do serviço; (Incluído pela Lei nº 10.243, de 19.6.2001)
-Parágrafo único. O disposto no caput não se aplica à União, aos Estados, ao Distrito Federal, aos Municípios e as suas autarquias e fundações públicas. (Incluído pela Medida provisória nº 2.180-35, de 2001)
-Art. 467. Em caso de rescisão de contrato de trabalho, havendo controvérsia sobre o montante das verbas rescisórias, o empregador é obrigado a pagar ao trabalhador, à data do comparecimento à Justiça do Trabalho, a parte incontroversa dessas verbas, sob pena de pagá-las acrescidas de cinqüenta por cento". (Redação dada pela Lei nº 10.272, de 5.9.2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-Art. 476-A. O contrato de trabalho poderá ser suspenso, por um período de dois a cinco meses, para participação do empregado em curso ou programa de qualificação profissional oferecido pelo empregador, com duração equivalente à suspensão contratual, mediante previsão em convenção ou acordo coletivo de trabalho e aquiescência formal do empregado, observado o disposto no art. 471 desta Consolidação. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Incluído pela Medida Provisória nº 2.164-41, de 2001)
-Art. 627-A. Poderá ser instaurado procedimento especial para a ação fiscal, objetivando a orientação sobre o cumprimento das leis de proteção ao trabalho, bem como a prevenção e o saneamento de infrações à legislação mediante Termo de Compromisso, na forma a ser disciplinada no Regulamento da Inspeção do Trabalho. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-(Redação dada pela Medida Provisória nº 2.164-41, de 2001)
-Art. 628. Salvo o disposto nos arts. 627 e 627-A, a toda verificação em que o Auditor-Fiscal do Trabalho concluir pela existência de violação de preceito legal deve corresponder, sob pena de responsabilidade administrativa, a lavratura de auto de infração. (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
-§ 3o A Justiça do Trabalho é competente, ainda, para processar e julgar as ações entre trabalhadores portuários e os operadores portuários ou o Órgão Gestor de Mão-de-Obra - OGMO decorrentes da relação de trabalho. (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-V - as ações entre trabalhadores portuários e os operadores portuários ou o Órgão Gestor de Mão-de-Obra - OGMO decorrentes da relação de trabalho; (Incluído pela Medida Provisória nº 2.164-41, de 2001)
-§ 10. O sindicato da categoria profissional prestará assistência judiciária gratuita ao trabalhador desempregado ou que perceber salário inferior a cinco salários mínimos ou que declare, sob responsabilidade, não possuir, em razão dos encargos próprios e familiares, condições econômicas de prover à demanda. (Incluído pela Lei nº 10.288, de 2001)
-Art. 793. A reclamação trabalhista do menor de 18 anos será feita por seus representantes legais e, na falta destes, pela Procuradoria da Justiça do Trabalho, pelo sindicato, pelo Ministério Público estadual ou curador nomeado em juízo. (Redação dada pela Lei nº 10.288, de 2001)
-Parágrafo único. A execução da decisão proferida em ação rescisória far-se-á nos próprios autos da ação que lhe deu origem, e será instruída com o acórdão da rescisória e a respectiva certidão de trânsito em julgado. (Incluído pela Medida provisória nº 2.180-35, de 2001)
-§ 5o Considera-se inexigível o título judicial fundado em lei ou ato normativo declarados inconstitucionais pelo Supremo Tribunal Federal ou em aplicação ou interpretação tidas por incompatíveis com a Constituição Federal. (Incluído pela Medida provisória nº 2.180-35, de 2001)
-Art.896-A - O Tribunal Superior do Trabalho, no recurso de revista, examinará previamente se a causa oferece transcendência com relação aos reflexos gerais de natureza econômica, política, social ou jurídica. (Incluído pela Medida Provisória nº 2.226, de 4.9.2001)
+Art. 467. Em caso de recisão do contrato do trabalho, motivada pelo empregador ou pelo empregado, e havendo controvérsia sobre parte da importância dos salários, o primeiro é obrigado a pagar a este à data do seu comparecimento ao tribunal de trabalho a parte incontroversa dos mesmos salários, sob pena de ser, quanto a essa parte, condenado a pagá-la em dobro.
+Parágrafo único. O disposto no caput não se aplica à União, aos Estados, ao Distrito Federal, aos Municípios e as suas autarquias e fundações públicas.
+ (Incluído pela Medida provisória nº 2.180-35, de 2001)
+Art. 467. Em caso de rescisão de contrato de trabalho, havendo controvérsia sobre o montante das verbas rescisórias, o empregador é obrigado a pagar ao trabalhador, à data do comparecimento à Justiça do Trabalho, a parte incontroversa dessas verbas, sob pena de pagá-las acrescidas de cinqüenta por cento".
+ (Redação dada pela Lei nº 10.272, de 5.9.2001)
+Art. 476-A. O contrato de trabalho poderá ser suspenso, por um período de dois a cinco meses, para participação do empregado em curso ou programa de qualificação profissional oferecido pelo empregador, com duração equivalente à suspensão contratual, mediante previsão em convenção ou acordo coletivo de trabalho e aquiescência formal do empregado, observado o disposto no art. 471 desta Consolidação.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 1o Após a autorização concedida por intermédio de convenção ou acordo coletivo, o empregador deverá notificar o respectivo sindicato, com antecedência mínima de quinze dias da suspensão contratual.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 2o O contrato de trabalho não poderá ser suspenso em conformidade com o disposto no caput deste artigo mais de uma vez no período de dezesseis meses.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 3o O empregador poderá conceder ao empregado ajuda compensatória mensal, sem natureza salarial, durante o período de suspensão contratual nos termos do caput deste artigo, com valor a ser definido em convenção ou acordo coletivo.
+§ 4o Durante o período de suspensão contratual para participação em curso ou programa de qualificação profissional, o empregado fará jus aos benefícios voluntariamente concedidos pelo empregador.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 5o Se ocorrer a dispensa do empregado no transcurso do período de suspensão contratual ou nos três meses subseqüentes ao seu retorno ao trabalho, o empregador pagará ao empregado, além das parcelas indenizatórias previstas na legislação em vigor, multa a ser estabelecida em convenção ou acordo coletivo, sendo de, no mínimo, cem por cento sobre o valor da última remuneração mensal anterior à suspensão do contrato.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 6o Se durante a suspensão do contrato não for ministrado o curso ou programa de qualificação profissional, ou o empregado permanecer trabalhando para o empregador, ficará descaracterizada a suspensão, sujeitando o empregador ao pagamento imediato dos salários e dos encargos sociais referentes ao período, às penalidades cabíveis previstas na legislação em vigor, bem como às sanções previstas em convenção ou acordo coletivo.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 7o O prazo limite fixado no caput poderá ser prorrogado mediante convenção ou acordo coletivo de trabalho e aquiescência formal do empregado, desde que o empregador arque com o ônus correspondente ao valor da bolsa de qualificação profissional, no respectivo período.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 5o O valor das horas extraordinárias habituais integra o aviso prévio indenizado.
+ (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)
+§ 6o O reajustamento salarial coletivo, determinado no curso do aviso prévio, beneficia o empregado pré-avisado da despedida, mesmo que tenha recebido antecipadamente os salários correspondentes ao período do aviso, que integra seu tempo de serviço para todos os efeitos legais.
+ (Parágrafo incluído pela Lei nº 10.218, de 11.4.2001)
+Art. 627-A. Poderá ser instaurado procedimento especial para a ação fiscal, objetivando a orientação sobre o cumprimento das leis de proteção ao trabalho, bem como a prevenção e o saneamento de infrações à legislação mediante Termo de Compromisso, na forma a ser disciplinada no Regulamento da Inspeção do Trabalho.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+Art. 627-A. Poderá ser instaurado procedimento especial para a ação fiscal, objetivando a orientação sobre o cumprimento das leis de proteção ao trabalho, bem como a prevenção e o saneamento de infrações à legislação mediante Termo de Compromisso, na forma a ser disciplinada no Regulamento da Inspeção do Trabalho.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+Art. 628. Salvo o disposto nos arts. 627 e 627-A, a toda verificação em que o Auditor-Fiscal do Trabalho concluir pela existência de violação de preceito legal deve corresponder, sob pena de responsabilidade administrativa, a lavratura de auto de infração.
+ (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
+Art. 628. Salvo o disposto nos arts. 627 e 627-A, a toda verificação em que o Auditor-Fiscal do Trabalho concluir pela existência de violação de preceito legal deve corresponder, sob pena de responsabilidade administrativa, a lavratura de auto de infração.
+ (Redação dada pela Medida Provisória nº 2.164-41, de 2001)
+§ 1º - As questões concernentes à Previdência Social serão decididas pelos órgãos e autoridades previstos no Capítulo V deste Título e na legislação sobre seguro social.
+§ 2º - As questões referentes a acidentes do trabalho continuam sujeitas a justiça ordinária, na forma do Decreto n. 24.637, de 10 de julho de 1934, e legislação subseqüente.
+§ 3o A Justiça do Trabalho é competente, ainda, para processar e julgar as ações entre trabalhadores portuários e os operadores portuários ou o Órgão Gestor de Mão-de-Obra - OGMO decorrentes da relação de trabalho.
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+a) conciliar e julgar:
+I - os dissídios em que se pretenda o reconhecimento da estabilidade de empregado;
+II - os dissídios concernentes a remuneração, férias e indenizações por motivo de rescisão do contrato individual de trabalho;
+III - os dissídios resultantes de contratos de empreitadas em que o empreiteiro seja operário ou artífice;
+IV - os demais dissídios concernentes ao contrato individual de trabalho;
+V - as ações entre trabalhadores portuários e os operadores portuários ou o Órgão Gestor de Mão-de-Obra - OGMO decorrentes da relação de trabalho;
+ (Incluído pela Medida Provisória nº 2.164-41, de 2001)
+§ 10. O sindicato da categoria profissional prestará assistência judiciária gratuita ao trabalhador desempregado ou que perceber salário inferior a cinco salários mínimos ou que declare, sob responsabilidade, não possuir, em razão dos encargos próprios e familiares, condições econômicas de prover à demanda.
+ (Incluído pela Lei nº 10.288, de 2001)
+Art. 793. A reclamação trabalhista do menor de 18 anos será feita por seus representantes legais e, na falta destes, pela Procuradoria da Justiça do Trabalho, pelo sindicato, pelo Ministério Público estadual ou curador nomeado em juízo.
+ (Redação dada pela Lei nº 10.288, de 2001)
+Parágrafo único. A execução da decisão proferida em ação rescisória far-se-á nos próprios autos da ação que lhe deu origem, e será instruída com o acórdão da rescisória e a respectiva certidão de trânsito em julgado.
+ (Incluído pela Medida provisória nº 2.180-35, de 2001)
+§ 5o Considera-se inexigível o título judicial fundado em lei ou ato normativo declarados inconstitucionais pelo Supremo Tribunal Federal ou em aplicação ou interpretação tidas por incompatíveis com a Constituição Federal.
+ (Incluído pela Medida provisória nº 2.180-35, de 2001)
+Art.896-A - O Tribunal Superior do Trabalho, no recurso de revista, examinará previamente se a causa oferece transcendência com relação aos reflexos gerais de natureza econômica, política, social ou jurídica.
+ (Incluído pela Medida Provisória nº 2.226, de 4.9.2001)

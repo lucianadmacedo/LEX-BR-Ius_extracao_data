@@ -1,15 +1,30 @@
-§ 4o A União será intimada das decisões homologatórias de acordos que contenham parcela indenizatória, na forma do art. 20 da Lei no 11.033, de 21 de dezembro de 2004, facultada a interposição de recurso relativo aos tributos que lhe forem devidos. (Redação dada pela Lei nº 11.457, de 2007)
-(Incluído pela Lei nº 11.457, de 2007)
-(Incluído pela Lei nº 11.457, de 2007)
-§ 5o Intimada da sentença, a União poderá interpor recurso relativo à discriminação de que trata o § 3o deste artigo. (Incluído pela Lei nº 11.457, de 2007)
-Art. 836. É vedado aos órgãos da Justiça do Trabalho conhecer de questões já decididas, excetuados os casos expressamente previstos neste Título e a ação rescisória, que será admitida na forma do disposto no Capítulo IV do Título IX da Lei no 5.869, de 11 de janeiro de 1973 – Código de Processo Civil, sujeita ao depósito prévio de 20% (vinte por cento) do valor da causa, salvo prova de miserabilidade jurídica do autor. (Redação dada pela Lei nº 11.495, de 2007)
-Parágrafo único. Serão executadas ex-officio as contribuições sociais devidas em decorrência de decisão proferida pelos Juízes e Tribunais do Trabalho, resultantes de condenação ou homologação de acordo, inclusive sobre os salários pagos durante o período contratual reconhecido. (Redação dada pela Lei nº 11.457, de 2007)
-§ 3o Elaborada a conta pela parte ou pelos órgãos auxiliares da Justiça do Trabalho, o juiz procederá à intimação da União para manifestação, no prazo de 10 (dez) dias, sob pena de preclusão. (Redação dada pela Lei nº 11.457, de 2007)
-§ 5o O Ministro de Estado da Fazenda poderá, mediante ato fundamentado, dispensar a manifestação da União quando o valor total das verbas que integram o salário-de-contribuição, na forma do art. 28 da Lei no 8.212, de 24 de julho de 1991, ocasionar perda de escala decorrente da atuação do órgão jurídico. (Incluído pela Lei nº 11.457, de 2007)
-Art. 880. Requerida a execução, o juiz ou presidente do tribunal mandará expedir mandado de citação do executado, a fim de que cumpra a decisão ou o acordo no prazo, pelo modo e sob as cominações estabelecidas ou, quando se tratar de pagamento em dinheiro, inclusive de contribuições sociais devidas à União, para que o faça em 48 (quarenta e oito) horas ou garanta a execução, sob pena de penhora. (Redação dada pela Lei nº 11.457, de 2007)
-(Redação dada pela Lei nº 11.457, de 2007)
-§ 1o Concedido parcelamento pela Secretaria da Receita Federal do Brasil, o devedor juntará aos autos a comprovação do ajuste, ficando a execução da contribuição social correspondente suspensa até a quitação de todas as parcelas. (Redação dada pela Lei nº 11.457, de 2007)
-Art. 894. No Tribunal Superior do Trabalho cabem embargos, no prazo de 8 (oito) dias: (Redação dada pela Lei nº 11.496, de 2007)
-(Incluído pela pela Lei nº 11.496, de 2007)
-I - de decisão não unânime de julgamento que: (Incluído pela pela Lei nº 11.496, de 2007)
-II - das decisões das Turmas que divergirem entre si, ou das decisões proferidas pela Seção de Dissídios Individuais, salvo se a decisão recorrida estiver em consonância com súmula ou orientação jurisprudencial do Tribunal Superior do Trabalho ou do Supremo Tribunal Federal. (Incluído pela pela Lei nº 11.496, de 2007)
+§ 4o A União será intimada das decisões homologatórias de acordos que contenham parcela indenizatória, na forma do art. 20 da Lei no 11.033, de 21 de dezembro de 2004, facultada a interposição de recurso relativo aos tributos que lhe forem devidos.
+ (Redação dada pela Lei nº 11.457, de 2007)
+§ 5o Intimada da sentença, a União poderá interpor recurso relativo à discriminação de que trata o § 3o deste artigo.
+ (Incluído pela Lei nº 11.457, de 2007)
+§ 6o O acordo celebrado após o trânsito em julgado da sentença ou após a elaboração dos cálculos de liquidação de sentença não prejudicará os créditos da União.
+ (Incluído pela Lei nº 11.457, de 2007)
+§ 7o O Ministro de Estado da Fazenda poderá, mediante ato fundamentado, dispensar a manifestação da União nas decisões homologatórias de acordos em que o montante da parcela indenizatória envolvida ocasionar perda de escala decorrente da atuação do órgão jurídico.
+ (Incluído pela Lei nº 11.457, de 2007)
+Art. 836. É vedado aos órgãos da Justiça do Trabalho conhecer de questões já decididas, excetuados os casos expressamente previstos neste Título e a ação rescisória, que será admitida na forma do disposto no Capítulo IV do Título IX da Lei no 5.869, de 11 de janeiro de 1973 – Código de Processo Civil, sujeita ao depósito prévio de 20% (vinte por cento) do valor da causa, salvo prova de miserabilidade jurídica do autor.
+ (Redação dada pela Lei nº 11.495, de 2007)
+Parágrafo único. Serão executadas ex-officio as contribuições sociais devidas em decorrência de decisão proferida pelos Juízes e Tribunais do Trabalho, resultantes de condenação ou homologação de acordo, inclusive sobre os salários pagos durante o período contratual reconhecido.
+ (Redação dada pela Lei nº 11.457, de 2007)
+§ 3o Elaborada a conta pela parte ou pelos órgãos auxiliares da Justiça do Trabalho, o juiz procederá à intimação da União para manifestação, no prazo de 10 (dez) dias, sob pena de preclusão.
+ (Redação dada pela Lei nº 11.457, de 2007)
+§ 5o O Ministro de Estado da Fazenda poderá, mediante ato fundamentado, dispensar a manifestação da União quando o valor total das verbas que integram o salário-de-contribuição, na forma do art. 28 da Lei no 8.212, de 24 de julho de 1991, ocasionar perda de escala decorrente da atuação do órgão jurídico.
+ (Incluído pela Lei nº 11.457, de 2007)
+Art. 880. Requerida a execução, o juiz ou presidente do tribunal mandará expedir mandado de citação do executado, a fim de que cumpra a decisão ou o acordo no prazo, pelo modo e sob as cominações estabelecidas ou, quando se tratar de pagamento em dinheiro, inclusive de contribuições sociais devidas à União, para que o faça em 48 (quarenta e oito) horas ou garanta a execução, sob pena de penhora.
+ (Redação dada pela Lei nº 11.457, de 2007)
+§ 1o Concedido parcelamento pela Secretaria da Receita Federal do Brasil, o devedor juntará aos autos a comprovação do ajuste, ficando a execução da contribuição social correspondente suspensa até a quitação de todas as parcelas.
+ (Redação dada pela Lei nº 11.457, de 2007)
+§ 2o As Varas do Trabalho encaminharão mensalmente à Secretaria da Receita Federal do Brasil informações sobre os recolhimentos efetivados nos autos, salvo se outro prazo for estabelecido em regulamento.
+ (Redação dada pela Lei nº 11.457, de 2007)
+Art. 894. No Tribunal Superior do Trabalho cabem embargos, no prazo de 8 (oito) dias:
+ (Redação dada pela Lei nº 11.496, de 2007)
+I - de decisão não unânime de julgamento que:
+ (Incluído pela pela Lei nº 11.496, de 2007)
+a) conciliar, julgar ou homologar conciliação em dissídios coletivos que excedam a competência territorial dos Tribunais Regionais do Trabalho e estender ou rever as sentenças normativas do Tribunal Superior do Trabalho, nos casos previstos em lei; e
+ (Incluído pela pela Lei nº 11.496, de 2007)
+II - das decisões das Turmas que divergirem entre si, ou das decisões proferidas pela Seção de Dissídios Individuais, salvo se a decisão recorrida estiver em consonância com súmula ou orientação jurisprudencial do Tribunal Superior do Trabalho ou do Supremo Tribunal Federal.
+ (Incluído pela pela Lei nº 11.496, de 2007)
