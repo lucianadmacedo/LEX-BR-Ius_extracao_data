@@ -33,4 +33,4 @@ def extract_texts_by_year(xml_file):
     print(f"Extracted texts have been saved into separate files by year.")
 
 # Example usage
-extract_texts_by_year('annotated_tags.xml')
+extract_texts_by_year('tags_com_ano.xml')
