@@ -31,6 +31,6 @@ def extract_non_modificacao_texts(xml_file, output_file):
     print(f"Extracted texts have been saved to {output_file}.")
 
 # Example usage
-xml_file = 'tags_com_ano.xml'
+xml_file = 'tags_com_ano_backup.xml'
 output_file = 'original_1943.txt'
 extract_non_modificacao_texts(xml_file, output_file)
