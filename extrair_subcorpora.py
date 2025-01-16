@@ -1,3 +1,6 @@
+### this script won't work if xml is corrupted ###
+
+
 import re
 from pathlib import Path
 

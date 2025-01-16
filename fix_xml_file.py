@@ -1,3 +1,5 @@
+### use this script with caution ###
+
 import re
 
 def remove_extra_closing_tags(input_file, output_file):
