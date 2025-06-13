@@ -3,7 +3,7 @@ from lxml import etree
 
 def extract_year(modificacao_text):
     # Use regular expression to extract the year between parentheses
-    match = re.search(r'\((Red.+|Inciso.+|Parágrafo incluído.+|Alínea incluída.+|Restabelecido com nova redação.+|inclui.+|alterado.+|Incluí.+)', modificacao_text)
+    match = re.search(r'\((Red.+|Inciso.+|Parágrafo incluído.+|Alínea incluída.+|Restabelecido com nova redação.+|inclui.+|alterado.+|Incluí.+|incuí.+|Incuí.+|Inclui.+|Inlcuído.+)| Redação restabelecida pelo Decreto-lei nº 8\.987-A.+', modificacao_text)
     if match is None:
         return None
 #    print(match)
@@ -73,7 +73,7 @@ def write_text(f2, pretext, year):
     pretext = pretext.split('</modificacao>')[-1]
     f2.write(pretext + '\n<modificacao_' + year[0] + '>' + prepretext + year[1] +  '</modificacao_' + year[0] + '>\n')
 
-# Replace 'your_file.xml' with the actual path to your XML file
+# Replace 'arquivo_original.xml' with the actual path to your XML file
 xml_file_path = 'arquivo_original.xml'
 #process_xml(xml_file_path)
 

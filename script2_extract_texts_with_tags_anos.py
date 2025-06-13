@@ -20,7 +20,7 @@ def extract_modificacao_tags(input_file, output_file):
         print(f"An error occurred: {e}")
 
 # Specify input and output files
-input_file = 'tags_com_ano.xml'
+input_file = 'arquivo_com_tags_revisado.xml'
 output_file = 'modificacao_tags_extracted.xml'
 
 # Run the function

@@ -6,7 +6,7 @@ patterns = [
     (r'^\s+', ''),  # Replaces multiple spaces with a single space
     (r'Art\. \w{1,3}', ''),  # Matches 'Art.' followed by any word character and anything before ' -'
     (r'Parágrafo único', ''),  # Removes "Parágrafo único"
-    (r'\((Red.+|Inciso.+|Parágrafo incluído.+|Alínea incluída.+|Restabelecido com nova redação.+|inclui.+|alterado.+|Incluí.+|Revog.+|Vet.+)\)', ''),  # Removes annotations in parentheses
+    (r'\((Red.+|Inciso.+|Parágrafo incluído.+|Alínea incluída.+|Restabelecido com nova redação.+|inclui.+|alterado.+|Incluí.+|Revog.+|Vet.+|Suprim.+|suprim.+)\)', ''),  # Removes annotations in parentheses
     (r'[IVXLCDM]+\s*-', ''),  # Removes Roman numerals followed by a hyphen
     #(r'[IVXLCDM]+', ''),  # Removes Roman numerals followed by a hyphen
     (r'^(\.|-|\w\))', ''),  # Matches any word character (letter, digit, underscore) followed by ')'
