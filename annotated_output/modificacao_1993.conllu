@@ -1,0 +1,144 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = III - por motivo de acidente do trabalho ou enfermidade atestada pelo Instituto Nacional do Seguro Social - INSS, excetuada a hipótese do inciso IV do art. 133; (Redação dada pela Lei nº 8.726, de 5.11.1993)
+1	III	iii	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	_
+2	-	-	PUNCT	_	_	4	punct	_	_
+3	por	por	ADP	_	_	4	case	_	_
+4	motivo	motivo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	acidente	acidente	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7-8	do	_	_	_	_	_	_	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	ou	ou	CCONJ	_	_	11	cc	_	_
+11	enfermidade	enfermidade	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+12	atestada	atestado	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	11	acl	_	_
+13-14	pelo	_	_	_	_	_	_	_	_
+13	por	por	ADP	_	_	15	case	_	_
+14	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Instituto	Instituto	PROPN	_	Gender=Masc|Number=Sing	12	obl:agent	_	_
+16	Nacional	Nacional	PROPN	_	Number=Sing	15	flat:name	_	_
+17-18	do	_	_	_	_	_	_	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Seguro	seguro	PROPN	_	Number=Sing	15	nmod	_	_
+20	Social	Social	PROPN	_	Number=Sing	19	flat:name	_	_
+21	-	-	PUNCT	_	_	22	punct	_	_
+22	INSS	INSS	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	excetuada	excetuar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	conj	_	_
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	hipótese	hipótese	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+27-28	do	_	_	_	_	_	_	_	_
+27	de	de	ADP	_	_	29	case	_	_
+28	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	inciso	inciso	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	_
+30	IV	IV	PROPN	_	Gender=Masc|Number=Sing	29	appos	_	_
+31-32	do	_	_	_	_	_	_	_	_
+31	de	de	ADP	_	_	33	case	_	_
+32	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	art.	art.	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
+34	133	133	NUM	_	NumType=Card	33	nummod	_	SpaceAfter=No
+35	;	;	PUNCT	_	_	37	punct	_	SpacesAfter=\n\s
+36	(	(	PUNCT	_	_	37	punct	_	SpaceAfter=No
+37	Redação	redação	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+38	dada	dar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	37	acl	_	_
+39-40	pela	_	_	_	_	_	_	_	_
+39	por	por	ADP	_	_	41	case	_	_
+40	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
+41	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	38	obl:agent	_	_
+42	nº	nº	NOUN	_	Gender=Masc|Number=Sing	41	nmod	_	_
+43	8.726	8.726	NUM	_	NumType=Card	42	nummod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	46	punct	_	_
+45	de	de	ADP	_	_	46	case	_	_
+46	5.11.1993	5.11.1993	NUM	_	NumType=Card	42	nmod	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	37	punct	_	SpacesAfter=\n
+
+# sent_id = 2
+# text = Art. 901 - Sem prejuízo dos prazos previstos neste Capítulo, terão as partes vistas dos autos em cartório ou na secretaria.
+1	Art.	Art.	PROPN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+2	901	901	NUM	_	NumType=Card	1	nummod	_	_
+3	-	-	PUNCT	_	_	1	punct	_	_
+4	Sem	sem	ADP	_	_	5	case	_	_
+5	prejuízo	prejuízo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+6-7	dos	_	_	_	_	_	_	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	prazos	prazo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	previstos	prever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	8	acl	_	_
+10-11	neste	_	_	_	_	_	_	_	_
+10	em	em	ADP	_	_	12	case	_	_
+11	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	Capítulo	capítulo	PROPN	_	Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	terão	ter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+15	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	partes	parte	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
+17	vistas	visto	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	16	acl	_	_
+18-19	dos	_	_	_	_	_	_	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	autos	auto	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+21	em	em	ADP	_	_	22	case	_	_
+22	cartório	cartório	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+23	ou	ou	CCONJ	_	_	26	cc	_	_
+24-25	na	_	_	_	_	_	_	_	_
+24	em	em	ADP	_	_	26	case	_	_
+25	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	secretaria	secretaria	NOUN	_	Gender=Fem|Number=Sing	22	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n
+
+# sent_id = 3
+# text = Parágrafo único - Salvo quando estiver correndo prazo comum, aos procuradores das partes será permitido ter vista dos autos fora do cartório ou secretaria.
+1	Parágrafo	parágrafo	NOUN	_	Gender=Masc|Number=Sing	18	nsubj:pass	_	_
+2	único	único	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
+3	-	-	PUNCT	_	_	1	punct	_	_
+4	Salvo	Salvo	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	_
+5	quando	quando	ADV	_	_	7	advmod	_	_
+6	estiver	estar	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
+7	correndo	correndo	VERB	_	VerbForm=Ger	1	advcl	_	_
+8	prazo	prazo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	comum	comum	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11-12	aos	_	_	_	_	_	_	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	procuradores	procuradore	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	_
+14-15	das	_	_	_	_	_	_	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	partes	parte	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
+17	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	aux:pass	_	_
+18	permitido	permitir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+19	ter	ter	VERB	_	VerbForm=Inf	18	xcomp	_	_
+20	vista	ver	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
+21-22	dos	_	_	_	_	_	_	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	autos	auto	NOUN	_	Gender=Masc|Number=Plur	20	nmod	_	_
+24	fora	fora	ADV	_	_	23	advmod	_	_
+25-26	do	_	_	_	_	_	_	_	_
+25	de	de	ADP	_	_	27	case	_	_
+26	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	cartório	cartório	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
+28	ou	ou	CCONJ	_	_	29	cc	_	_
+29	secretaria	secretaria	NOUN	_	Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	18	punct	_	SpacesAfter=\n\s
+
+# sent_id = 4
+# text = (Incluído pela Lei nº 8.638, de 31.3.1993)
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Incluído	Incluer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+3-4	pela	_	_	_	_	_	_	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	nº	nº	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	8.638	8.638	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	31.3.1993	31.3.1993	NUM	_	NumType=Card	5	nmod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

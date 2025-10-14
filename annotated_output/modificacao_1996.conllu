@@ -1,0 +1,56 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = X - conceder medida liminar, até decisão final do processo, em reclamações trabalhistas que visem reintegrar no emprego dirigente sindical afastado, suspenso ou dispensado pelo empregador.
+1	X	X	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	conceder	conceder	VERB	_	VerbForm=Inf	1	acl	_	_
+4	medida	medida	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	liminar	liminar	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	até	até	ADP	_	_	8	case	_	_
+8	decisão	decisão	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+9	final	final	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
+10-11	do	_	_	_	_	_	_	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	processo	processo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	8	punct	_	_
+14	em	em	ADP	_	_	15	case	_	_
+15	reclamações	reclamação	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+16	trabalhistas	trabalhisto	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+17	que	que	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	18	nsubj	_	_
+18	visem	visar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+19	reintegrar	reintegrar	VERB	_	VerbForm=Inf	18	xcomp	_	_
+20-21	no	_	_	_	_	_	_	_	_
+20	em	em	ADP	_	_	22	case	_	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	emprego	emprego	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+23	dirigente	dirigente	NOUN	_	Gender=Masc|Number=Sing	22	appos	_	_
+24	sindical	sindical	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_
+25	afastado	afastar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	acl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	suspenso	suspender	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	acl	_	_
+28	ou	ou	CCONJ	_	_	29	cc	_	_
+29	dispensado	dispensar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	27	conj	_	_
+30-31	pelo	_	_	_	_	_	_	_	_
+30	por	por	ADP	_	_	32	case	_	_
+31	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	empregador	empregador	NOUN	_	Gender=Masc|Number=Sing	29	obl:agent	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\s
+
+# sent_id = 2
+# text = (Incluído pela Lei nº 9.270, de 1996)
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Incluído	Incluer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+3-4	pela	_	_	_	_	_	_	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	nº	nº	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	9.270	9.270	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	1996	1996	NUM	_	NumType=Card	6	nmod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

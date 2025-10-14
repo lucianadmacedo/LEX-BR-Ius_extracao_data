@@ -1,0 +1,220 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Art. 830.
+1	Art.	Art.	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	830	830	NUM	_	NumType=Card	1	nummod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 2
+# text = O documento em cópia oferecido para prova poderá ser declarado autêntico pelo próprio advogado, sob sua responsabilidade pessoal.
+1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	documento	documento	NOUN	_	Gender=Masc|Number=Sing	10	nsubj:pass	_	_
+3	em	em	ADP	_	_	4	case	_	_
+4	cópia	cópia	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	oferecido	oferecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
+6	para	para	ADP	_	_	7	case	_	_
+7	prova	prova	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	poderá	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+9	ser	ser	AUX	_	VerbForm=Inf	10	aux:pass	_	_
+10	declarado	declarar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	8	xcomp	_	_
+11	autêntico	autêntico	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
+12-13	pelo	_	_	_	_	_	_	_	_
+12	por	por	ADP	_	_	15	case	_	_
+13	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	próprio	próprio	DET	_	Gender=Masc|Number=Sing|PronType=Emp	15	det	_	_
+15	advogado	advogado	NOUN	_	Gender=Masc|Number=Sing	10	obl:agent	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	sob	sob	ADP	_	_	19	case	_	_
+18	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	19	det	_	_
+19	responsabilidade	responsabilidade	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	_
+20	pessoal	pessoal	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\s
+
+# sent_id = 3
+# text = (Redação dada pela Lei nº 11.925, de 2009) .
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Redação	redação	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	dada	dar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	_
+4-5	pela	_	_	_	_	_	_	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	3	obl:agent	_	_
+7	nº	nº	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+8	11.925	11.925	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	2009	2009	NUM	_	NumType=Card	6	nmod	_	SpaceAfter=No
+12	)	)	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+13	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 4
+# text = Parágrafo único.
+1	Parágrafo	parágrafo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	único	único	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 5
+# text = Impugnada a autenticidade da cópia, a parte que a produziu será intimada para apresentar cópias devidamente autenticadas ou o original, cabendo ao serventuário competente proceder à conferência e certificar a conformidade entre esses documentos.
+1	Impugnada	Impugnar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	14	advcl	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	autenticidade	autenticidade	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4-5	da	_	_	_	_	_	_	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	cópia	cópia	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	parte	parte	NOUN	_	Gender=Fem|Number=Sing	14	nsubj:pass	_	_
+10	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	12	nsubj	_	_
+11	a	o	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
+12	produziu	produziu	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
+13	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	aux:pass	_	_
+14	intimada	intimar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+15	para	para	SCONJ	_	_	16	mark	_	_
+16	apresentar	apresentar	VERB	_	VerbForm=Inf	14	advcl	_	_
+17	cópias	cópia	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+18	devidamente	devidamente	ADV	_	_	19	advmod	_	_
+19	autenticadas	autenticar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	17	acl	_	_
+20	ou	ou	CCONJ	_	_	22	cc	_	_
+21	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	original	original	NOUN	_	Gender=Masc|Number=Sing	19	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	cabendo	caber	VERB	_	VerbForm=Ger	14	advcl	_	_
+25-26	ao	_	_	_	_	_	_	_	_
+25	a	a	ADP	_	_	27	case	_	_
+26	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	serventuário	serventuário	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
+28	competente	competente	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
+29	proceder	proceder	VERB	_	VerbForm=Inf	27	acl	_	_
+30-31	à	_	_	_	_	_	_	_	_
+30	a	a	ADP	_	_	32	case	_	_
+31	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+32	conferência	conferência	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	_
+33	e	e	CCONJ	_	_	34	cc	_	_
+34	certificar	certificar	VERB	_	VerbForm=Inf	29	conj	_	_
+35	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	conformidade	conformidade	NOUN	_	Gender=Fem|Number=Sing	34	obj	_	_
+37	entre	entre	ADP	_	_	39	case	_	_
+38	esses	esse	DET	_	Gender=Masc|Number=Plur|PronType=Dem	39	det	_	_
+39	documentos	documento	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n\s
+
+# sent_id = 6
+# text = (Incluído pela Lei nº 11.925, de 2009) I - das decisões definitivas ou terminativas das Varas e Juízos, no prazo de 8 (oito) dias; e (Incluído pela Lei nº 11.925, de 2009) . II - das decisões definitivas ou terminativas dos Tribunais Regionais, em processos de sua competência originária, no prazo de 8 (oito) dias, quer nos dissídios individuais, quer nos dissídios coletivos.
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Incluído	Incluer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+3-4	pela	_	_	_	_	_	_	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	nº	nº	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
+7	11.925	11.925	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	2009	2009	NUM	_	NumType=Card	6	nmod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	10	punct	_	SpacesAfter=\n
+12	I	I	PROPN	_	Gender=Masc|Number=Sing	6	appos	_	_
+13	-	-	PUNCT	_	_	16	punct	_	_
+14-15	das	_	_	_	_	_	_	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+16	decisões	decisão	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
+17	definitivas	definitivo	ADJ	_	Gender=Fem|Number=Plur	16	amod	_	_
+18	ou	ou	CCONJ	_	_	19	cc	_	_
+19	terminativas	terminativo	ADJ	_	Gender=Fem|Number=Plur	17	conj	_	_
+20-21	das	_	_	_	_	_	_	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+22	Varas	Varas	PROPN	_	Number=Sing	16	nmod	_	_
+23	e	e	CCONJ	_	_	22	flat:name	_	_
+24	Juízos	Juízos	PROPN	_	Number=Sing	22	flat:name	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	16	punct	_	_
+26-27	no	_	_	_	_	_	_	_	_
+26	em	em	ADP	_	_	28	case	_	_
+27	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	prazo	prazo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+29	de	de	ADP	_	_	30	case	_	_
+30	8	8	NUM	_	NumType=Card	34	nummod	_	_
+31	(	(	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	oito	oito	NUM	_	NumType=Card	34	nummod	_	SpaceAfter=No
+33	)	)	PUNCT	_	_	32	punct	_	_
+34	dias	dia	NOUN	_	Gender=Masc|Number=Plur	28	appos	_	SpaceAfter=No
+35	;	;	PUNCT	_	_	38	punct	_	_
+36	e	e	CCONJ	_	_	38	cc	_	SpacesAfter=\n\s
+37	(	(	PUNCT	_	_	38	punct	_	SpaceAfter=No
+38	Incluído	Incluer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	conj	_	_
+39-40	pela	_	_	_	_	_	_	_	_
+39	por	por	ADP	_	_	41	case	_	_
+40	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
+41	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	38	obl:agent	_	_
+42	nº	nº	NOUN	_	Gender=Masc|Number=Sing	41	nmod	_	_
+43	11.925	11.925	NUM	_	NumType=Card	42	nummod	_	SpaceAfter=No
+44	,	,	PUNCT	_	_	46	punct	_	_
+45	de	de	ADP	_	_	46	case	_	_
+46	2009	2009	NUM	_	NumType=Card	42	nmod	_	SpaceAfter=No
+47	)	)	PUNCT	_	_	38	punct	_	SpacesAfter=\n
+48	.	.	PUNCT	_	_	38	punct	_	SpacesAfter=\n
+49	II	II	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	48	parataxis	_	_
+50	-	-	PUNCT	_	_	49	punct	_	_
+51-52	das	_	_	_	_	_	_	_	_
+51	de	de	ADP	_	_	53	case	_	_
+52	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	53	det	_	_
+53	decisões	decisão	NOUN	_	Gender=Fem|Number=Plur	49	nmod	_	_
+54	definitivas	definitivo	ADJ	_	Gender=Fem|Number=Plur	53	amod	_	_
+55	ou	ou	CCONJ	_	_	56	cc	_	_
+56	terminativas	terminativo	ADJ	_	Gender=Fem|Number=Plur	54	conj	_	_
+57-58	dos	_	_	_	_	_	_	_	_
+57	de	de	ADP	_	_	59	case	_	_
+58	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	59	det	_	_
+59	Tribunais	Tribunais	PROPN	_	Gender=Masc|Number=Plur	53	nmod	_	_
+60	Regionais	Regionais	PROPN	_	Number=Sing	59	flat:name	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	49	punct	_	_
+62	em	em	ADP	_	_	63	case	_	_
+63	processos	processo	NOUN	_	Gender=Masc|Number=Plur	49	obl	_	_
+64	de	de	ADP	_	_	66	case	_	_
+65	sua	seu	DET	_	Gender=Fem|Number=Sing|PronType=Prs	66	det	_	_
+66	competência	competência	NOUN	_	Gender=Fem|Number=Sing	63	nmod	_	_
+67	originária	originário	ADJ	_	Gender=Fem|Number=Sing	66	amod	_	SpaceAfter=No
+68	,	,	PUNCT	_	_	71	punct	_	_
+69-70	no	_	_	_	_	_	_	_	_
+69	em	em	ADP	_	_	71	case	_	_
+70	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	71	det	_	_
+71	prazo	prazo	NOUN	_	Gender=Masc|Number=Sing	66	nmod	_	_
+72	de	de	ADP	_	_	77	case	_	_
+73	8	8	NUM	_	NumType=Card	77	nummod	_	_
+74	(	(	PUNCT	_	_	75	punct	_	SpaceAfter=No
+75	oito	oito	NUM	_	NumType=Card	77	nummod	_	SpaceAfter=No
+76	)	)	PUNCT	_	_	75	punct	_	_
+77	dias	dia	NOUN	_	Gender=Masc|Number=Plur	71	nmod	_	SpaceAfter=No
+78	,	,	PUNCT	_	_	71	punct	_	_
+79	quer	quer	CCONJ	_	_	82	cc	_	_
+80-81	nos	_	_	_	_	_	_	_	_
+80	em	em	ADP	_	_	82	case	_	_
+81	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	82	det	_	_
+82	dissídios	dissídio	NOUN	_	Gender=Masc|Number=Plur	66	conj	_	_
+83	individuais	individual	ADJ	_	Gender=Masc|Number=Plur	82	amod	_	SpaceAfter=No
+84	,	,	PUNCT	_	_	88	punct	_	_
+85	quer	quer	CCONJ	_	_	88	cc	_	_
+86-87	nos	_	_	_	_	_	_	_	_
+86	em	em	ADP	_	_	88	case	_	_
+87	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	88	det	_	_
+88	dissídios	dissídio	NOUN	_	Gender=Masc|Number=Plur	66	conj	_	_
+89	coletivos	coletivo	ADJ	_	Gender=Masc|Number=Plur	88	amod	_	SpaceAfter=No
+90	.	.	PUNCT	_	_	38	punct	_	SpacesAfter=\n\s
+
+# sent_id = 7
+# text = (Incluído pela Lei nº 11.925, de 2009)
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Incluído	Incluer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+3-4	pela	_	_	_	_	_	_	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	nº	nº	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	11.925	11.925	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	2009	2009	NUM	_	NumType=Card	6	nmod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+

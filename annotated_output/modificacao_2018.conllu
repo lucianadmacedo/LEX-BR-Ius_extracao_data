@@ -1,0 +1,51 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = XII - até 3 (três) dias, em cada 12 (doze) meses de trabalho, em caso de realização de exames preventivos de câncer devidamente comprovada.
+1	XII	Xii	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	_
+2	-	-	PUNCT	_	_	1	punct	_	_
+3	até	até	ADP	_	_	8	case	_	_
+4	3	3	NUM	_	NumType=Card	8	nummod	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	três	três	NUM	_	NumType=Card	8	nummod	_	SpaceAfter=No
+7	)	)	PUNCT	_	_	6	punct	_	_
+8	dias	dia	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	_	_
+10	em	em	ADP	_	_	12	case	_	_
+11	cada	cada	DET	_	Gender=Masc|Number=Sing	12	det	_	_
+12	12	12	NUM	_	NumType=Card	1	obl	_	_
+13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
+14	doze	doze	NUM	_	NumType=Card	12	nummod	_	SpaceAfter=No
+15	)	)	PUNCT	_	_	14	punct	_	_
+16	meses	mês	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	16	punct	_	_
+20	em	em	ADP	_	_	21	case	_	_
+21	caso	caso	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	realização	realização	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	exames	exame	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	_
+26	preventivos	preventivo	ADJ	_	Gender=Masc|Number=Plur	25	amod	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	câncer	câncer	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
+29	devidamente	devidamente	ADV	_	_	30	advmod	_	_
+30	comprovada	comprovar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	28	acl	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n\s
+
+# sent_id = 2
+# text = (Incluído pela Lei nº 13.767, de 2018)
+1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Incluído	Incluer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	_
+3-4	pela	_	_	_	_	_	_	_	_
+3	por	por	ADP	_	_	5	case	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Lei	lei	PROPN	_	Gender=Fem|Number=Sing	2	obl:agent	_	_
+6	nº	nº	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	13.767	13.767	NUM	_	NumType=Card	6	nummod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	2018	2018	NUM	_	NumType=Card	6	nmod	_	SpaceAfter=No
+11	)	)	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+
