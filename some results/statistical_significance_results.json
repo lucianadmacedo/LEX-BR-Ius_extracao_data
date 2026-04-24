@@ -1,0 +1,220 @@
+{
+  "correlation": {
+    "word_order_inversion": {
+      "pearson_r": -0.10076536089473459,
+      "pearson_p": 0.4171669044937782,
+      "spearman_rho": -0.04832638371464874,
+      "spearman_p": 0.6977560403897782
+    },
+    "nominalization": {
+      "pearson_r": -0.043205538933183116,
+      "pearson_p": 0.7284715854892582,
+      "spearman_rho": -0.060456067261229984,
+      "spearman_p": 0.6269767243234288
+    },
+    "subordination": {
+      "pearson_r": -0.19937157605347716,
+      "pearson_p": 0.10577043746910766,
+      "spearman_rho": -0.29905311276699986,
+      "spearman_p": 0.01395842947207359
+    },
+    "passive": {
+      "pearson_r": -0.14247441352100343,
+      "pearson_p": 0.25008814454686773,
+      "spearman_rho": -0.11851400018048484,
+      "spearman_p": 0.3394791382431598
+    },
+    "gerunds_participles": {
+      "pearson_r": 0.011169325491937733,
+      "pearson_p": 0.9285199615858661,
+      "spearman_rho": -0.02331593503427719,
+      "spearman_p": 0.8514387600938764
+    },
+    "relative_pronouns": {
+      "pearson_r": -0.25051104714981054,
+      "pearson_p": 0.04088836410817527,
+      "spearman_rho": -0.23342250698250472,
+      "spearman_p": 0.05729658497777497
+    },
+    "appositions": {
+      "pearson_r": 0.025832967909445448,
+      "pearson_p": 0.8356137387222409,
+      "spearman_rho": 0.049274061478304314,
+      "spearman_p": 0.6921226694749042
+    },
+    "prepositional_phrases": {
+      "pearson_r": 0.07472681394424412,
+      "pearson_p": 0.5478428793319553,
+      "spearman_rho": -0.052640506116766544,
+      "spearman_p": 0.6722471721129488
+    },
+    "complex_verb_forms": {
+      "pearson_r": -0.2580851552367453,
+      "pearson_p": 0.03497666573278378,
+      "spearman_rho": -0.246548231066738,
+      "spearman_p": 0.04429695868818586
+    }
+  },
+  "period_comparison": {
+    "word_order_inversion": {
+      "early_mean": 0.12618072331460986,
+      "late_mean": 0.08915613011321724,
+      "change_pct": -29.342511461975207,
+      "t_stat": 1.1524271523043124,
+      "t_p": 0.25616076606729377,
+      "u_stat": 236.5,
+      "u_p": 0.4907117730881869
+    },
+    "nominalization": {
+      "early_mean": 1.8696514960248334,
+      "late_mean": 1.8332380647348074,
+      "change_pct": -1.947605281917325,
+      "t_stat": 0.17361547300732652,
+      "t_p": 0.8630656954387081,
+      "u_stat": 221.5,
+      "u_p": 0.7740913930728636
+    },
+    "subordination": {
+      "early_mean": 2.1693332492848048,
+      "late_mean": 1.7608171477479495,
+      "change_pct": -18.831412908622344,
+      "t_stat": 1.960236436445965,
+      "t_p": 0.05714031428132195,
+      "u_stat": 302.5,
+      "u_p": 0.016410711612935096
+    },
+    "passive": {
+      "early_mean": 0.2504467504713774,
+      "late_mean": 0.19245445225736332,
+      "change_pct": -23.15554029144482,
+      "t_stat": 1.1047532668896014,
+      "t_p": 0.27603582790997716,
+      "u_stat": 246.0,
+      "u_p": 0.35268198966876074
+    },
+    "gerunds_participles": {
+      "early_mean": 1.7735092096351632,
+      "late_mean": 1.745004604485834,
+      "change_pct": -1.6072431422666809,
+      "t_stat": 0.18620772888125525,
+      "t_p": 0.8532470577409079,
+      "u_stat": 216.0,
+      "u_p": 0.8859042761040832
+    },
+    "relative_pronouns": {
+      "early_mean": 0.7535176540005326,
+      "late_mean": 0.5340270013445106,
+      "change_pct": -29.128800299596808,
+      "t_stat": 1.9656639747830917,
+      "t_p": 0.05648659233827558,
+      "u_stat": 282.0,
+      "u_p": 0.06213202148864956
+    },
+    "appositions": {
+      "early_mean": 0.8212187984693047,
+      "late_mean": 0.848251543147566,
+      "change_pct": 3.2917834721572996,
+      "t_stat": -0.15763434135446994,
+      "t_p": 0.8755582735337747,
+      "u_stat": 193.0,
+      "u_p": 0.6669112918577373
+    },
+    "prepositional_phrases": {
+      "early_mean": 6.4263825497094675,
+      "late_mean": 6.661961401898729,
+      "change_pct": 3.66580810225672,
+      "t_stat": -0.3382895357356418,
+      "t_p": 0.7369594528491685,
+      "u_stat": 228.0,
+      "u_p": 0.6480482796400602
+    },
+    "complex_verb_forms": {
+      "early_mean": 0.3184798159633992,
+      "late_mean": 0.19553904817032347,
+      "change_pct": -38.60237340981273,
+      "t_stat": 2.1039352516442777,
+      "t_p": 0.04188278130819381,
+      "u_stat": 284.0,
+      "u_p": 0.054333826816934674
+    }
+  },
+  "regression": {
+    "word_order_inversion": {
+      "slope": -0.000501955381595403,
+      "intercept": 1.1272008469396817,
+      "r_squared": 0.01015365795624611,
+      "p_value": 0.41716690449377947,
+      "std_err": 0.0006147252652664069
+    },
+    "nominalization": {
+      "slope": -0.001485115328526673,
+      "intercept": 4.877387486422051,
+      "r_squared": 0.0018667185945068015,
+      "p_value": 0.7284715854892585,
+      "std_err": 0.004259497267364228
+    },
+    "subordination": {
+      "slope": -0.007079480312034828,
+      "intercept": 16.179498414276384,
+      "r_squared": 0.03974902533804742,
+      "p_value": 0.10577043746910741,
+      "std_err": 0.0043159244751011456
+    },
+    "passive": {
+      "slope": -0.0009870682217541639,
+      "intercept": 2.2040527939700274,
+      "r_squared": 0.020298958508153876,
+      "p_value": 0.25008814454686845,
+      "std_err": 0.0008505510769785946
+    },
+    "gerunds_participles": {
+      "slope": 0.0002605004801421601,
+      "intercept": 1.3610260083441084,
+      "r_squared": 0.00012475383194485037,
+      "p_value": 0.9285199615858644,
+      "std_err": 0.002892662802958779
+    },
+    "relative_pronouns": {
+      "slope": -0.003938246120429143,
+      "intercept": 8.447663255954305,
+      "r_squared": 0.0627557847440946,
+      "p_value": 0.04088836410817539,
+      "std_err": 0.0018877552097683616
+    },
+    "appositions": {
+      "slope": 0.0006719732829538034,
+      "intercept": -0.44408046987195193,
+      "r_squared": 0.0006673422310104345,
+      "p_value": 0.835613738722241,
+      "std_err": 0.00322534416577638
+    },
+    "prepositional_phrases": {
+      "slope": 0.007043451747282642,
+      "intercept": -7.264074629321796,
+      "r_squared": 0.00558409672225766,
+      "p_value": 0.5478428793319547,
+      "std_err": 0.011658332299562122
+    },
+    "complex_verb_forms": {
+      "slope": -0.002087296441445531,
+      "intercept": 4.4228027698978565,
+      "r_squared": 0.06660794735357486,
+      "p_value": 0.034976665732783775,
+      "std_err": 0.0009691622256843617
+    }
+  },
+  "significant_increases": [],
+  "significant_decreases": [
+    "Relative Pronouns & Conjunctions",
+    "Complex Verb Forms"
+  ],
+  "no_significant_trend": [
+    "Word Order Inversion (VS)",
+    "Nominalizations",
+    "Subordinate Clauses",
+    "Passive Constructions",
+    "Gerunds & Participles",
+    "Appositions & Parentheticals",
+    "Prepositional Phrases"
+  ]
+}
